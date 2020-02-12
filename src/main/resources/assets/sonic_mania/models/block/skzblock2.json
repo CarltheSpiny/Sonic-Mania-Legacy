@@ -1,0 +1,8 @@
+{
+  "parent": "block/stairs",
+  "textures": {
+    "bottom": "sonic_mania:blocks/skzblock_5",
+    "top": "sonic_mania:blocks/skzblock_5",
+    "side": "sonic_mania:blocks/skzblock_5"
+  }
+}

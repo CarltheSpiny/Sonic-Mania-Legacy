@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "sonic_mania:blocks/fszpipese",
+    "up": "sonic_mania:blocks/fszpipese",
+    "north": "sonic_mania:blocks/fszpipesb",
+    "east": "sonic_mania:blocks/fszpipesb",
+    "south": "sonic_mania:blocks/fszpipesb",
+    "west": "sonic_mania:blocks/fszpipesb",
+    "particle": "sonic_mania:blocks/fszpipese"
+  }
+}

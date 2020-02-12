@@ -1,0 +1,10 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "oozblock_pole_bottom": "oozblock_pole_bottom"
+      },
+      "name": "default"
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "_fv": 5,
+  "_type": "achievement",
+  "definition": {
+    "achievementName": "Sonic Got Them All!",
+    "achievementDescription": "Collect Seven Emeralds",
+    "achievementIcon": {
+      "value": "Items.DIAMOND_HELMET"
+    },
+    "background": "Default",
+    "disableDisplay": false,
+    "showPopup": true,
+    "announceToChat": true,
+    "hideIfNotCompleted": false,
+    "rewardLoot": [],
+    "rewardFunction": "No function",
+    "rewardXP": 1,
+    "achievementType": "challenge",
+    "parent": {
+      "value": "adventure/sniper_duel"
+    },
+    "triggerxml": "<xml xmlns=\"https://developers.google.com/blockly/xml\"><block type=\"item_in_inventory\" x=\"25\" y=\"69\"><value name=\"amount_l\"><block type=\"math_number\"><field name=\"NUM\">7</field></block></value><value name=\"amount_h\"><block type=\"math_number\"><field name=\"NUM\">7</field></block></value><value name=\"item\"><block type=\"mcitem_all\"><field name=\"value\">Items.EMERALD</field></block></value><next><block type=\"advancement_trigger\" deletable=\"false\"/></next></block></xml>"
+  }
+}

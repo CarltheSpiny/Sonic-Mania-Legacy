@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "sonic_mania:blocks/birdpoleg",
+    "up": "sonic_mania:blocks/birdpoleg",
+    "north": "sonic_mania:blocks/bodyb",
+    "east": "sonic_mania:blocks/bodyb",
+    "south": "sonic_mania:blocks/bodyb",
+    "west": "sonic_mania:blocks/bodyb",
+    "particle": "sonic_mania:blocks/birdpoleg"
+  }
+}

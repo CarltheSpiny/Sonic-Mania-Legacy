@@ -1,0 +1,30 @@
+modLoader="javafml"
+loaderVersion="[28,)"
+
+[[mods]]
+modId="sonic_mania"
+version="1.2.0"
+displayName="Sonic Mania"
+credits="Created using mod maker MCreator - https://mcreator.net/about"
+displayURL="https://mcreator.net"
+logoFile="logo.png"
+authors="CarltheSpiny, MCreator"
+description='''
+For the Mania, by the Mania
+'''
+
+[[dependencies.sonic_mania]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.14.4]"
+    ordering="NONE"
+    side="BOTH"
+
+[[dependencies.sonic_mania]]
+    modId="forge"
+    mandatory=true
+    versionRange="[28.1.117]"
+    ordering="NONE"
+    side="BOTH"
+
+

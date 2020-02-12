@@ -1,0 +1,8 @@
+{
+  "parent": "sonic_mania:custom/manhole_cover",
+  "textures": {
+    "all": "sonic_mania:blocks/soz_manhole",
+    "particle": "sonic_mania:blocks/soz_manhole",
+    "0": "sonic_mania:blocks/soz_manhole"
+  }
+}

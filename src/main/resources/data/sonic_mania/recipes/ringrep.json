@@ -1,0 +1,13 @@
+{
+  "group": "sonic_mania",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:gold_nugget"
+    }
+  ],
+  "result": {
+    "item": "sonic_mania:ring",
+    "count": 1
+  }
+}

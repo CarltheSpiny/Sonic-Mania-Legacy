@@ -1,0 +1,11 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "PGZbark_2": "pgz_log1",
+        "PGZbark_a": "pgzbark_a"
+      },
+      "name": "default"
+    }
+  }
+}

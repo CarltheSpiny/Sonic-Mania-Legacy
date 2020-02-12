@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "sonic_mania:blocks/oozfloor_bottom",
+    "up": "sonic_mania:blocks/_top",
+    "north": "sonic_mania:blocks/oozfloor",
+    "east": "sonic_mania:blocks/oozfloor",
+    "south": "sonic_mania:blocks/oozfloor",
+    "west": "sonic_mania:blocks/oozfloor",
+    "particle": "sonic_mania:blocks/oozfloor_bottom"
+  }
+}

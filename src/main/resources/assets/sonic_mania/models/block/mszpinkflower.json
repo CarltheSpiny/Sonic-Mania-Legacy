@@ -1,0 +1,7 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "sonic_mania:blocks/flower_cactus",
+    "particle": "sonic_mania:blocks/flower_cactus"
+  }
+}

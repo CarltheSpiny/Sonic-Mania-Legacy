@@ -1,0 +1,152 @@
+{
+  "_fv": 5,
+  "_type": "gui",
+  "definition": {
+    "type": 0,
+    "width": 352,
+    "height": 332,
+    "renderBgLayer": false,
+    "containerBlock": "<none>",
+    "components": [
+      {
+        "type": "label",
+        "data": {
+          "text": "Green Hill",
+          "color": {
+            "value": -1,
+            "falpha": 0.0
+          },
+          "name": "Green Hill",
+          "x": 264,
+          "y": 150
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "Super Sonic",
+          "onClick": {
+            "name": "SoundsOnButtonClicked_super"
+          },
+          "width": 232,
+          "height": 40,
+          "name": "Super Sonic",
+          "x": 265,
+          "y": 88
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "",
+          "onClick": {
+            "name": "SoundsOnButtonClicked_GHZ1"
+          },
+          "width": 0,
+          "height": 40,
+          "name": "",
+          "x": 321,
+          "y": 207
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "",
+          "onClick": {
+            "name": "SoundsOnButtonClicked_GHZ1"
+          },
+          "width": 0,
+          "height": 40,
+          "name": "",
+          "x": 312,
+          "y": 209
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "Studiopolis",
+          "color": {
+            "value": -1,
+            "falpha": 0.0
+          },
+          "name": "Studiopolis",
+          "x": 265,
+          "y": 235
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "GHZ Act 1",
+          "onClick": {
+            "name": "SoundsOnButtonClicked_GHZ1"
+          },
+          "width": 176,
+          "height": 40,
+          "name": "GHZ Act 1",
+          "x": 264,
+          "y": 168
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "GHZ Act 2",
+          "onClick": {
+            "name": "SoundsOnButtonClicked_ghz2"
+          },
+          "width": 176,
+          "height": 40,
+          "name": "GHZ Act 2",
+          "x": 462,
+          "y": 168
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "SOZ Act 1",
+          "onClick": {
+            "name": "SoundsOnButtonClicked_SOZ1"
+          },
+          "width": 176,
+          "height": 40,
+          "name": "SOZ Act 1",
+          "x": 264,
+          "y": 258
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "SOZ Act 2",
+          "onClick": {
+            "name": "SoundsOnButtonClicked"
+          },
+          "width": 176,
+          "height": 40,
+          "name": "SOZ Act 2",
+          "x": 462,
+          "y": 258
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "ERZ",
+          "onClick": {
+            "name": "SoundsOnButtonClicked_ERZ"
+          },
+          "width": 72,
+          "height": 40,
+          "name": "ERZ",
+          "x": 511,
+          "y": 89
+        }
+      }
+    ],
+    "inventories": []
+  }
+}

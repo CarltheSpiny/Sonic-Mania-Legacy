@@ -1,0 +1,21 @@
+{
+  "_fv": 5,
+  "_type": "food",
+  "definition": {
+    "renderType": 0,
+    "texture": "mszfruit",
+    "customModelName": "Normal",
+    "name": "Cactus Fruit",
+    "creativeTab": {
+      "value": "CUSTOM:Items"
+    },
+    "stackSize": 64,
+    "nutritionalValue": 3,
+    "saturation": 0.30000001192092896,
+    "eatingSpeed": 32,
+    "forDogs": false,
+    "isAlwaysEdible": true,
+    "animation": "eat",
+    "hasGlow": false
+  }
+}

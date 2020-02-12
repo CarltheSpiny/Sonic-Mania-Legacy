@@ -1,0 +1,51 @@
+{
+  "_fv": 5,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 8,
+    "recipeShapeless": false,
+    "recipeReturnStack": {
+      "value": "CUSTOM:MSZDECOR"
+    },
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:MSZDECORSTONE"
+      },
+      {
+        "value": "CUSTOM:MSZDECORSTONE"
+      },
+      {
+        "value": "CUSTOM:MSZDECORSTONE"
+      },
+      {
+        "value": "Blocks.WOOL#9"
+      },
+      {
+        "value": "Blocks.WOOL#3"
+      },
+      {
+        "value": "Blocks.WOOL#9"
+      },
+      {
+        "value": "Blocks.WOOL#3"
+      },
+      {
+        "value": "Blocks.WOOL#9"
+      },
+      {
+        "value": "Blocks.WOOL#3"
+      }
+    ],
+    "smeltingInputStack": {
+      "value": ""
+    },
+    "smeltingReturnStack": {
+      "value": ""
+    },
+    "smeltingXPReward": 1.0,
+    "smeltingRetstackSize": 1,
+    "name": "mszdecorrep1",
+    "namespace": "mod"
+  }
+}

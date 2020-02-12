@@ -1,0 +1,9 @@
+{
+  "parent": "sonic_mania:custom/tiki_3",
+  "textures": {
+    "all": "sonic_mania:blocks/tiki_side",
+    "particle": "sonic_mania:blocks/tiki_side",
+    "Tiki_bottom": "sonic_mania:blocks/tiki_no_wings",
+    "Tiki_side": "sonic_mania:blocks/tiki_side"
+  }
+}

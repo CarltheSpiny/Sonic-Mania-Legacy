@@ -1,0 +1,12 @@
+{
+  "parent": "sonic_mania:custom/soztv",
+  "textures": {
+    "all": "sonic_mania:blocks/soztv",
+    "particle": "sonic_mania:blocks/soztv",
+    "SOZtv_back_2": "sonic_mania:blocks/soztv_back_2",
+    "SOZtv": "sonic_mania:blocks/eggtv",
+    "SOZtv_side_a": "sonic_mania:blocks/soztv_side_a",
+    "SOZtv_side_b": "sonic_mania:blocks/soztv_side_b",
+    "SOZtv_top": "sonic_mania:blocks/soztv_top"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "sonic_mania:blocks/lrz",
+    "up": "sonic_mania:blocks/lrz",
+    "north": "sonic_mania:blocks/lrz_pipe2_flipped",
+    "east": "sonic_mania:blocks/lrz_pipe2",
+    "south": "sonic_mania:blocks/lrz_pipe2_flipped",
+    "west": "sonic_mania:blocks/lrz_pipe2",
+    "particle": "sonic_mania:blocks/lrz"
+  }
+}

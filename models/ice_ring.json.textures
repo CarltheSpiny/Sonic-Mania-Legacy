@@ -1,0 +1,12 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "iceno_sonic",
+        "1": "ice_rings",
+        "missing": ""
+      },
+      "name": "default"
+    }
+  }
+}

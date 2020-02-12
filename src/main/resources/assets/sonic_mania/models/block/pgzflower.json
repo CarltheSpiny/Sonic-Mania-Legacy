@@ -1,0 +1,7 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "sonic_mania:blocks/pgz_plant",
+    "particle": "sonic_mania:blocks/pgz_plant"
+  }
+}

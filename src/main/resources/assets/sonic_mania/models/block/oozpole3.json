@@ -1,0 +1,8 @@
+{
+  "parent": "sonic_mania:custom/ooz_poles_bottom",
+  "textures": {
+    "all": "sonic_mania:blocks/oozblock1",
+    "particle": "sonic_mania:blocks/oozblock1",
+    "oozblock_pole_bottom": "sonic_mania:blocks/oozblock_pole_bottom"
+  }
+}

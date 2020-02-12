@@ -1,0 +1,13 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "SideA": "sidea",
+        "SideB": "sideb",
+        "SideC": "sidec",
+        "SideD": "sided"
+      },
+      "name": "default"
+    }
+  }
+}

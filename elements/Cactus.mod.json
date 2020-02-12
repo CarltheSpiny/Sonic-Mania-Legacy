@@ -1,0 +1,48 @@
+{
+  "_fv": 5,
+  "_type": "plant",
+  "definition": {
+    "renderType": 12,
+    "texture": "cactus",
+    "customModelName": "Cross model",
+    "plantType": "growapable",
+    "growapableSpawnType": "Desert",
+    "growapableMaxHeight": 3,
+    "name": "Cactus",
+    "creativeTab": {
+      "value": "CUSTOM:Sonictab"
+    },
+    "hardness": 0.0,
+    "resistance": 0.0,
+    "luminance": 0.0,
+    "unbreakable": false,
+    "soundOnStep": {
+      "value": "PLANT"
+    },
+    "customDrop": {
+      "value": ""
+    },
+    "dropAmount": 1,
+    "isReplaceable": false,
+    "isFlammable": false,
+    "colorOnMap": "DEFAULT",
+    "creativePickItem": {
+      "value": ""
+    },
+    "frequencyOnChunks": 20,
+    "spawnWorldTypes": [
+      "Surface"
+    ],
+    "restrictionBiomes": [
+      {
+        "value": "desert"
+      }
+    ],
+    "onStartToDestroy": {
+      "name": "MSZcactusMobplayerColidesBlock"
+    },
+    "onEntityCollides": {
+      "name": "MSZcactusMobplayerColidesBlock"
+    }
+  }
+}

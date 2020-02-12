@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "sonic_mania:blocks/rocktop",
+    "up": "sonic_mania:blocks/rocktop",
+    "north": "sonic_mania:blocks/greenhillrock",
+    "east": "sonic_mania:blocks/greenhillrock",
+    "south": "sonic_mania:blocks/greenhillrock",
+    "west": "sonic_mania:blocks/greenhillrock",
+    "particle": "sonic_mania:blocks/rocktop"
+  }
+}

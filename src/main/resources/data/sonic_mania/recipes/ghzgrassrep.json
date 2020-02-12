@@ -1,0 +1,30 @@
+{
+  "group": "sonic_mania",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " 1 ",
+    "345",
+    " 7 "
+  ],
+  "key": {
+    "1": {
+      "item": "minecraft:grass_block"
+    },
+    "3": {
+      "item": "minecraft:grass_block"
+    },
+    "4": {
+      "item": "sonic_mania:ring"
+    },
+    "5": {
+      "item": "minecraft:grass_block"
+    },
+    "7": {
+      "item": "minecraft:grass_block"
+    }
+  },
+  "result": {
+    "item": "sonic_mania:ghzblock1",
+    "count": 4
+  }
+}

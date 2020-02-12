@@ -1,0 +1,10 @@
+{
+  "parent": "sonic_mania:custom/ice_ring",
+  "textures": {
+    "all": "sonic_mania:blocks/iceno_sonic",
+    "particle": "sonic_mania:blocks/iceno_sonic",
+    "0": "sonic_mania:blocks/iceno_sonic",
+    "1": "sonic_mania:blocks/ice_rings",
+    "missing": "sonic_mania:blocks/"
+  }
+}

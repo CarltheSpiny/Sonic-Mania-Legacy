@@ -1,0 +1,13 @@
+{
+  "group": "sonic_mania",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "sonic_mania:mszpinkflower"
+    }
+  ],
+  "result": {
+    "item": "minecraft:magenta_dye",
+    "count": 2
+  }
+}

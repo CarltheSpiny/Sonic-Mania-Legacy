@@ -1,0 +1,13 @@
+{
+  "parent": "sonic_mania:custom/tiki_wings",
+  "textures": {
+    "all": "sonic_mania:blocks/tiki_side",
+    "particle": "sonic_mania:blocks/tiki_side",
+    "1_TIKI_wings_right": "sonic_mania:blocks/tiki_wings_right",
+    "1_TIKI_wings_left": "sonic_mania:blocks/tiki_wings_left",
+    "missing": "sonic_mania:blocks/",
+    "1_tiki_side": "sonic_mania:blocks/tiki_side",
+    "1_tiki_b_no_wings": "sonic_mania:blocks/tiki_b_no_wings",
+    "1_TIKI_wings_side": "sonic_mania:blocks/tiki_wings_side"
+  }
+}

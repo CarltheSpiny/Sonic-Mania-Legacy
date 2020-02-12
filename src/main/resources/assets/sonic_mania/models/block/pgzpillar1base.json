@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "sonic_mania:blocks/pgz_pillar_2_bottom",
+    "up": "sonic_mania:blocks/pgz_pillar_2_top",
+    "north": "sonic_mania:blocks/pgz_pillar_2_body",
+    "east": "sonic_mania:blocks/pgz_pillar_2_body",
+    "south": "sonic_mania:blocks/pgz_pillar_2_body",
+    "west": "sonic_mania:blocks/pgz_pillar_2_body",
+    "particle": "sonic_mania:blocks/pgz_pillar_2_bottom"
+  }
+}

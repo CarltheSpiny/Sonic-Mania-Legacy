@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "sonic_mania:blocks/cpzsupport",
+    "up": "sonic_mania:blocks/cpzsupport",
+    "north": "sonic_mania:blocks/cpzsupport",
+    "east": "sonic_mania:blocks/cpzsupport",
+    "south": "sonic_mania:blocks/cpzsupport",
+    "west": "sonic_mania:blocks/cpzsupport",
+    "particle": "sonic_mania:blocks/cpzsupport"
+  }
+}

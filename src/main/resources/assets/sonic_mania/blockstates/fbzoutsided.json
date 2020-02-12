@@ -1,0 +1,27 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "sonic_mania:block/fbzoutsided"
+    },
+    "facing=east": {
+      "model": "sonic_mania:block/fbzoutsided",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "sonic_mania:block/fbzoutsided",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "sonic_mania:block/fbzoutsided",
+      "y": 270
+    },
+    "facing=up": {
+      "model": "sonic_mania:block/fbzoutsided",
+      "x": 270
+    },
+    "facing=down": {
+      "model": "sonic_mania:block/fbzoutsided",
+      "x": 90
+    }
+  }
+}

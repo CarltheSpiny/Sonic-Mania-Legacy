@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "sonic_mania:blocks/end_bricks",
+    "up": "sonic_mania:blocks/end_bricks",
+    "north": "sonic_mania:blocks/end_stone_red",
+    "east": "sonic_mania:blocks/end_stone_red",
+    "south": "sonic_mania:blocks/end_stone_red",
+    "west": "sonic_mania:blocks/end_stone_red",
+    "particle": "sonic_mania:blocks/end_bricks"
+  }
+}

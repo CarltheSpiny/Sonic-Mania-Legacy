@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "sonic_mania:blocks/greenhillbottomlayer",
+    "up": "sonic_mania:blocks/greenhilltoplayer",
+    "north": "sonic_mania:blocks/greenhillsidelayer",
+    "east": "sonic_mania:blocks/greenhillsidelayernorthsouth",
+    "south": "sonic_mania:blocks/greenhillsidelayer",
+    "west": "sonic_mania:blocks/greenhillsidelayernorthsouth",
+    "particle": "sonic_mania:blocks/greenhillbottomlayer"
+  }
+}

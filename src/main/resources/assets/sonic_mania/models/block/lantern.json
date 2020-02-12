@@ -1,0 +1,8 @@
+{
+  "parent": "sonic_mania:custom/lantern",
+  "textures": {
+    "all": "sonic_mania:blocks/7686767",
+    "particle": "sonic_mania:blocks/7686767",
+    "lantern": "sonic_mania:blocks/lantern"
+  }
+}

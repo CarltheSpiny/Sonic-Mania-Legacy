@@ -1,0 +1,42 @@
+{
+  "group": "sonic_mania",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:green_wool"
+    },
+    "1": {
+      "item": "sonic_mania:mszoredrop"
+    },
+    "2": {
+      "item": "minecraft:green_wool"
+    },
+    "3": {
+      "item": "minecraft:green_wool"
+    },
+    "4": {
+      "item": "minecraft:light_blue_wool"
+    },
+    "5": {
+      "item": "minecraft:green_wool"
+    },
+    "6": {
+      "item": "minecraft:green_wool"
+    },
+    "7": {
+      "item": "sonic_mania:mszoredrop"
+    },
+    "8": {
+      "item": "minecraft:green_wool"
+    }
+  },
+  "result": {
+    "item": "sonic_mania:mszdecor1",
+    "count": 4
+  }
+}

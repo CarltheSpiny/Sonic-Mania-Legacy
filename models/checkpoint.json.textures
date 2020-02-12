@@ -1,0 +1,11 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "star_post",
+        "missing": "star_post"
+      },
+      "name": "default"
+    }
+  }
+}

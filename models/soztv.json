@@ -1,0 +1,57 @@
+{
+    "__comment": "Model generated using MrCrayfish's Model Creator (https://mrcrayfish.com/tools?id=mc)",
+    "textures": {
+        "SOZtv_back_2": "minecraft:blocks/SOZtv_back_2",
+        "SOZtv": "minecraft:blocks/SOZtv",
+        "SOZtv_side_a": "minecraft:blocks/SOZtv_side_a",
+        "SOZtv_side_b": "minecraft:blocks/SOZtv_side_b",
+        "SOZtv_top": "minecraft:blocks/SOZtv_top"
+    },
+    "display": {
+        "gui": {
+            "rotation": [ 30, 45, 0 ],
+            "translation": [ 0, 0, 0 ],
+            "scale": [ 0.625, 0.625, 0.625 ]
+        },
+        "ground": {
+            "rotation": [ 0, 0, 0 ],
+            "translation": [ 0, 3, 0 ],
+            "scale": [ 0.25, 0.25, 0.25 ]
+        },
+        "fixed": {
+            "rotation": [ 0, 180, 0 ],
+            "translation": [ 0, 0, 0 ],
+            "scale": [ 1, 1, 1 ]
+        },
+        "head": {
+            "rotation": [ 0, 180, 0 ],
+            "translation": [ 0, 0, 0 ],
+            "scale": [ 1, 1, 1 ]
+        },
+        "firstperson_righthand": {
+            "rotation": [ 0, 315, 0 ],
+            "translation": [ 0, 2.5, 0 ],
+            "scale": [ 0.4, 0.4, 0.4 ]
+        },
+        "thirdperson_righthand": {
+            "rotation": [ 75, 315, 0 ],
+            "translation": [ 0, 2.5, 0 ],
+            "scale": [ 0.375, 0.375, 0.375 ]
+        }
+    },
+    "elements": [
+        {
+            "name": "Cube",
+            "from": [ 1, 0, 1 ], 
+            "to": [ 15, 16, 15 ], 
+            "faces": {
+                "north": { "texture": "#SOZtv", "uv": [ 0, 0, 16, 16 ], "cullface": "north" },
+                "east": { "texture": "#SOZtv_side_b", "uv": [ 0, 0, 16, 16 ], "cullface": "east" },
+                "south": { "texture": "#SOZtv_back_2", "uv": [ 0, 0, 16, 16 ], "cullface": "south" },
+                "west": { "texture": "#SOZtv_side_a", "uv": [ 0, 0, 16, 16 ], "cullface": "west" },
+                "up": { "texture": "#SOZtv_top", "uv": [ 0, 0, 16, 16 ], "rotation": 180, "cullface": "up" },
+                "down": { "texture": "#SOZtv_side_a", "uv": [ 5, 1, 6, 2 ], "cullface": "down" }
+            }
+        }
+    ]
+}

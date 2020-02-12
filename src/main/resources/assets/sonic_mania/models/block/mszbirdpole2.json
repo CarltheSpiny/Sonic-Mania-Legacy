@@ -1,0 +1,9 @@
+{
+  "parent": "sonic_mania:custom/beak_final",
+  "textures": {
+    "all": "sonic_mania:blocks/birdpolee",
+    "particle": "sonic_mania:blocks/birdpolee",
+    "BIRDPOLEi": "sonic_mania:blocks/birdpoleiver2",
+    "BIRDPOLEiFLIPPED": "sonic_mania:blocks/birdpoleiflipped"
+  }
+}

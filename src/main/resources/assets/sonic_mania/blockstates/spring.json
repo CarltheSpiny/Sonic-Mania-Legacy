@@ -1,0 +1,27 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "sonic_mania:block/spring"
+    },
+    "facing=east": {
+      "model": "sonic_mania:block/spring",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "sonic_mania:block/spring",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "sonic_mania:block/spring",
+      "y": 270
+    },
+    "facing=up": {
+      "model": "sonic_mania:block/spring",
+      "x": 270
+    },
+    "facing=down": {
+      "model": "sonic_mania:block/spring",
+      "x": 90
+    }
+  }
+}

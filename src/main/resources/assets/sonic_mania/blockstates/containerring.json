@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "sonic_mania:block/containerring"
+    },
+    "facing=east": {
+      "model": "sonic_mania:block/containerring",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "sonic_mania:block/containerring",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "sonic_mania:block/containerring",
+      "y": 270
+    }
+  }
+}

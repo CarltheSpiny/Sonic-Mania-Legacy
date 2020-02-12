@@ -1,0 +1,8 @@
+{
+  "parent": "sonic_mania:custom/pgzfencepost_drago",
+  "textures": {
+    "all": "sonic_mania:blocks/space",
+    "particle": "sonic_mania:blocks/space",
+    "PGZfence": "sonic_mania:blocks/pgzfence"
+  }
+}

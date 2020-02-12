@@ -1,0 +1,2992 @@
+{
+  "id_map": {
+    "GUI": 1,
+    "DIMENSION": 1,
+    "ENTITY": 14
+  },
+  "mod_elements": [
+    {
+      "name": "GreenHillGrass",
+      "type": "block",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ghzblock1"
+    },
+    {
+      "name": "Sonictab",
+      "type": "tab",
+      "sortid": 181,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "SonicIcon",
+      "type": "item",
+      "sortid": 171,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "GreenHillDirt",
+      "type": "block",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ghzblock2"
+    },
+    {
+      "name": "Ring",
+      "type": "item",
+      "sortid": 168,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "GreenHillFlower1",
+      "type": "plant",
+      "sortid": 158,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "GreeHillStone",
+      "type": "block",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ghzblock3"
+    },
+    {
+      "name": "GreenHillFlower2",
+      "type": "plant",
+      "sortid": 159,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "GreenHillBush",
+      "type": "plant",
+      "sortid": 161,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Rock",
+      "type": "block",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ghzblock4"
+    },
+    {
+      "name": "WoodenBridge",
+      "type": "block",
+      "sortid": 157,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "MSZDECORSTONE",
+      "type": "block",
+      "sortid": 91,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "MSZSAND",
+      "type": "block",
+      "sortid": 90,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "MSZDECOR",
+      "type": "block",
+      "sortid": 100,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "MSZDECOR1",
+      "type": "block",
+      "sortid": 101,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "MSZBIRDPOLE1",
+      "type": "block",
+      "sortid": 110,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "MSZBIRDPOLE2",
+      "type": "block",
+      "sortid": 111,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "MSZBIRDPOLE3",
+      "type": "block",
+      "sortid": 112,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "MSZBIRDPOLE4",
+      "type": "block",
+      "sortid": 113,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "MSZBIRDBODY1",
+      "type": "block",
+      "sortid": 107,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "MSZBIRDBODY2",
+      "type": "block",
+      "sortid": 108,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "MSZBIRDBODY3",
+      "type": "block",
+      "sortid": 109,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "MSZORE",
+      "type": "block",
+      "sortid": 99,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "MSZOREDROP",
+      "type": "item",
+      "sortid": 162,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "MSZDECORSTONEREP",
+      "type": "recipe",
+      "sortid": 182,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "MSZDECORREP1",
+      "type": "recipe",
+      "sortid": 183,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "GHZGRASSrep",
+      "type": "recipe",
+      "sortid": 184,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Ringrep",
+      "type": "recipe",
+      "sortid": 185,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "MSZDECORrep2",
+      "type": "recipe",
+      "sortid": 186,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "FLOWER1",
+      "type": "recipe",
+      "sortid": 187,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "FLOWER3",
+      "type": "recipe",
+      "sortid": 188,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Lantern",
+      "type": "block",
+      "sortid": 66,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Container",
+      "type": "block",
+      "sortid": 151,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "PGZBlock",
+      "type": "block",
+      "sortid": 49,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "SupersonicmusicRightClickedInAir",
+      "type": "procedure",
+      "sortid": 189,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "int"
+          },
+          {
+            "name": "y",
+            "type": "int"
+          },
+          {
+            "name": "z",
+            "type": "int"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Supersonicmusic",
+      "type": "item",
+      "sortid": 169,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "ContainerEntityWalksOnTheBlock",
+      "type": "procedure",
+      "sortid": 190,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "int"
+          },
+          {
+            "name": "y",
+            "type": "int"
+          },
+          {
+            "name": "z",
+            "type": "int"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "SOZblock1",
+      "type": "block",
+      "sortid": 23,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "SOZblock3",
+      "type": "block",
+      "sortid": 24,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "SOZblock4",
+      "type": "block",
+      "sortid": 25,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "GreenHillAct1RightClickedInAir",
+      "type": "procedure",
+      "sortid": 191,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "int"
+          },
+          {
+            "name": "y",
+            "type": "int"
+          },
+          {
+            "name": "z",
+            "type": "int"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "GreenHillAct1",
+      "type": "item",
+      "sortid": 160,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "GreenHillAct2RightClicked",
+      "type": "procedure",
+      "sortid": 192,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "int"
+          },
+          {
+            "name": "y",
+            "type": "int"
+          },
+          {
+            "name": "z",
+            "type": "int"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "GreenHillAct2",
+      "type": "item",
+      "sortid": 170,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "MirageSaloon1sonicRightClicked",
+      "type": "procedure",
+      "sortid": 193,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "int"
+          },
+          {
+            "name": "y",
+            "type": "int"
+          },
+          {
+            "name": "z",
+            "type": "int"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "MirageSaloon1sonic",
+      "type": "item",
+      "sortid": 172,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "SOZblock5",
+      "type": "block",
+      "sortid": 26,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "SOZbars",
+      "type": "block",
+      "sortid": 27,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "MirageSaloonAct1knuxRightClicked",
+      "type": "procedure",
+      "sortid": 194,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "int"
+          },
+          {
+            "name": "y",
+            "type": "int"
+          },
+          {
+            "name": "z",
+            "type": "int"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "MirageSaloonAct1knux",
+      "type": "item",
+      "sortid": 173,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "PGZblock1",
+      "type": "block",
+      "sortid": 57,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "SOZblock5support",
+      "type": "block",
+      "sortid": 28,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "PGZblock2",
+      "type": "block",
+      "sortid": 58,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "PGZpillar1",
+      "type": "block",
+      "sortid": 56,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Items",
+      "type": "tab",
+      "sortid": 195,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "PGZpillar2",
+      "type": "block",
+      "sortid": 59,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "PGZpillar1base",
+      "type": "block",
+      "sortid": 60,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "PGZpillar2body",
+      "type": "block",
+      "sortid": 61,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "PGZact1RightClicked",
+      "type": "procedure",
+      "sortid": 196,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "int"
+          },
+          {
+            "name": "y",
+            "type": "int"
+          },
+          {
+            "name": "z",
+            "type": "int"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "PGZact1",
+      "type": "item",
+      "sortid": 174,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "PGZact2RightClicked",
+      "type": "procedure",
+      "sortid": 197,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "int"
+          },
+          {
+            "name": "y",
+            "type": "int"
+          },
+          {
+            "name": "z",
+            "type": "int"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "PGZact2",
+      "type": "item",
+      "sortid": 178,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "SOZact1RightClicked",
+      "type": "procedure",
+      "sortid": 198,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "int"
+          },
+          {
+            "name": "y",
+            "type": "int"
+          },
+          {
+            "name": "z",
+            "type": "int"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "SOZact1",
+      "type": "item",
+      "sortid": 175,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "SOZact2RightClicked",
+      "type": "procedure",
+      "sortid": 199,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "int"
+          },
+          {
+            "name": "y",
+            "type": "int"
+          },
+          {
+            "name": "z",
+            "type": "int"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "SOZact2",
+      "type": "item",
+      "sortid": 176,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "PGZblock3",
+      "type": "block",
+      "sortid": 62,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "PGZbricks",
+      "type": "block",
+      "sortid": 63,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "MSZPillar",
+      "type": "block",
+      "sortid": 103,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "MSZtoro",
+      "type": "block",
+      "sortid": 104,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "MSZlechuza",
+      "type": "block",
+      "sortid": 105,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "MSZpillarbody",
+      "type": "block",
+      "sortid": 102,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "MSZflower",
+      "type": "block",
+      "sortid": 94,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "MSZflower2",
+      "type": "block",
+      "sortid": 95,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "MSZstone",
+      "type": "block",
+      "sortid": 92,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "MSZpillar2",
+      "type": "block",
+      "sortid": 177,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "MSZpillar2body",
+      "type": "block",
+      "sortid": 106,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "MSZstone2",
+      "type": "block",
+      "sortid": 98,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Bridge",
+      "type": "block",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ghzddeco_bridge"
+    },
+    {
+      "name": "Spring",
+      "type": "block",
+      "sortid": 150,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Trophyblock",
+      "type": "block",
+      "sortid": 88,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Trophyrep",
+      "type": "recipe",
+      "sortid": 200,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "PGZbrick",
+      "type": "block",
+      "sortid": 50,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "MMZ",
+      "type": "block",
+      "sortid": 132,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "SSZPASTBlock1",
+      "type": "block",
+      "sortid": 76,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "SSZPASTBlock2",
+      "type": "block",
+      "sortid": 77,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "SSZPASTBlock3",
+      "type": "block",
+      "sortid": 78,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "SSZPASTBlock4",
+      "type": "block",
+      "sortid": 79,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "SSZPASTFloor",
+      "type": "block",
+      "sortid": 80,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "OOZblock1",
+      "type": "block",
+      "sortid": 117,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "OOZblock2",
+      "type": "block",
+      "sortid": 118,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "PGZLog",
+      "type": "block",
+      "sortid": 71,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "PGZLog2",
+      "type": "block",
+      "sortid": 72,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "CPZblock",
+      "type": "block",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "CPZblock2",
+      "type": "block",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "CPZblock5",
+      "type": "block",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cpzblock3"
+    },
+    {
+      "name": "SOZBLock",
+      "type": "block",
+      "sortid": 29,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "SOZblock6",
+      "type": "block",
+      "sortid": 30,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "SOZblock6a",
+      "type": "block",
+      "sortid": 31,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "OOZblock",
+      "type": "block",
+      "sortid": 119,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "OOZblock3",
+      "type": "block",
+      "sortid": 120,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "OOZblock4",
+      "type": "block",
+      "sortid": 121,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "MSZshortgrass",
+      "type": "plant",
+      "sortid": 114,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "MSZcactusMobplayerColidesBlock",
+      "type": "procedure",
+      "sortid": 201,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "MSZcactus",
+      "type": "plant",
+      "sortid": 115,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "MSZfruit",
+      "type": "food",
+      "sortid": 163,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "MSZcactuspink",
+      "type": "plant",
+      "sortid": 116,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "PGZflower",
+      "type": "plant",
+      "sortid": 165,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "PGZflower2",
+      "type": "plant",
+      "sortid": 166,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "PGZflower3",
+      "type": "plant",
+      "sortid": 167,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "XCrate",
+      "type": "block",
+      "sortid": 75,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "GreenTimeStone",
+      "type": "item",
+      "sortid": 180,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "SSZFUTUREFloor",
+      "type": "block",
+      "sortid": 83,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "SSZFUTUREBlock1",
+      "type": "block",
+      "sortid": 85,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "SSZFUTUREBlock2",
+      "type": "block",
+      "sortid": 84,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "SSZFUTUREBlock3",
+      "type": "block",
+      "sortid": 86,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "SSZFUTUREBlock4",
+      "type": "block",
+      "sortid": 87,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "CPZblock4",
+      "type": "block",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "MSZblock",
+      "type": "block",
+      "sortid": 93,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "MSZblock1",
+      "type": "block",
+      "sortid": 96,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "MSZblock2",
+      "type": "block",
+      "sortid": 97,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "FBZblock3",
+      "type": "block",
+      "sortid": 39,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "FBZblock4",
+      "type": "block",
+      "sortid": 40,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "FBZblock5",
+      "type": "block",
+      "sortid": 41,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "FBZblock6",
+      "type": "block",
+      "sortid": 42,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "FBZblock7",
+      "type": "block",
+      "sortid": 43,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "FBZblock8",
+      "type": "block",
+      "sortid": 44,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "PGZleavespink",
+      "type": "block",
+      "sortid": 70,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "PGZleavesred",
+      "type": "block",
+      "sortid": 68,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "CPZblock6",
+      "type": "block",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cpzblock5"
+    },
+    {
+      "name": "CPZblock7",
+      "type": "block",
+      "sortid": 15,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cpzblock6"
+    },
+    {
+      "name": "CPZblock8",
+      "type": "block",
+      "sortid": 18,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cpzblock9"
+    },
+    {
+      "name": "CPZblock9",
+      "type": "block",
+      "sortid": 21,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cpzdeco_tube2"
+    },
+    {
+      "name": "CPZblock10",
+      "type": "block",
+      "sortid": 19,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "CPZblock11",
+      "type": "block",
+      "sortid": 16,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cpzblock7"
+    },
+    {
+      "name": "CPZblock12",
+      "type": "block",
+      "sortid": 17,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cpzblock8"
+    },
+    {
+      "name": "CPZblock8RedstoneOff",
+      "type": "procedure",
+      "sortid": 202,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "metadata": {
+        "dependencies": []
+      }
+    },
+    {
+      "name": "Sounds",
+      "type": "gui",
+      "sortid": 203,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {
+        "0": 1
+      }
+    },
+    {
+      "name": "SOZblock7",
+      "type": "block",
+      "sortid": 32,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "SOZblock8",
+      "type": "block",
+      "sortid": 33,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Spikes",
+      "type": "block",
+      "sortid": 149,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "SSZFUTUREFloorside",
+      "type": "block",
+      "sortid": 82,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "SSZPASTFloorside",
+      "type": "block",
+      "sortid": 81,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "SoundsOnButtonClicked_super",
+      "type": "procedure",
+      "sortid": 204,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "int"
+          },
+          {
+            "name": "y",
+            "type": "int"
+          },
+          {
+            "name": "z",
+            "type": "int"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "SpikesEntityWalksOnTheBlock",
+      "type": "procedure",
+      "sortid": 205,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "int"
+          },
+          {
+            "name": "y",
+            "type": "int"
+          },
+          {
+            "name": "z",
+            "type": "int"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "SoundsOnButtonClicked_GHZ1",
+      "type": "procedure",
+      "sortid": 206,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "int"
+          },
+          {
+            "name": "y",
+            "type": "int"
+          },
+          {
+            "name": "z",
+            "type": "int"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "SoundsOnButtonClicked_ghz2",
+      "type": "procedure",
+      "sortid": 207,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "int"
+          },
+          {
+            "name": "y",
+            "type": "int"
+          },
+          {
+            "name": "z",
+            "type": "int"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "SoundsOnButtonClicked_ERZ",
+      "type": "procedure",
+      "sortid": 208,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "int"
+          },
+          {
+            "name": "y",
+            "type": "int"
+          },
+          {
+            "name": "z",
+            "type": "int"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "SoundsOnButtonClicked_SOZ1",
+      "type": "procedure",
+      "sortid": 209,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "int"
+          },
+          {
+            "name": "y",
+            "type": "int"
+          },
+          {
+            "name": "z",
+            "type": "int"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "SoundsOnButtonClicked",
+      "type": "procedure",
+      "sortid": 210,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "int"
+          },
+          {
+            "name": "y",
+            "type": "int"
+          },
+          {
+            "name": "z",
+            "type": "int"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "PGZfencedrago",
+      "type": "block",
+      "sortid": 73,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "PGZfencepost",
+      "type": "block",
+      "sortid": 74,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "CPZblock10BlockDestroyedByPlayer",
+      "type": "procedure",
+      "sortid": 211,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "int"
+          },
+          {
+            "name": "y",
+            "type": "int"
+          },
+          {
+            "name": "z",
+            "type": "int"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "CPZblock10OnBlockRightClicked",
+      "type": "procedure",
+      "sortid": 212,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "int"
+          },
+          {
+            "name": "y",
+            "type": "int"
+          },
+          {
+            "name": "z",
+            "type": "int"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "GHZtiki1",
+      "type": "block",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "GHZtiki2",
+      "type": "block",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "GHZtiki3",
+      "type": "block",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "PGZdirt",
+      "type": "block",
+      "sortid": 64,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "PGZdirtxsnow",
+      "type": "block",
+      "sortid": 65,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "CPZblock13",
+      "type": "block",
+      "sortid": 20,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cpzdeco_tube1"
+    },
+    {
+      "name": "TMZBlock1",
+      "type": "block",
+      "sortid": 136,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "TMZBlock2",
+      "type": "block",
+      "sortid": 137,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "TMZBlock3",
+      "type": "block",
+      "sortid": 138,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "TMZBlock4",
+      "type": "block",
+      "sortid": 139,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "GHZtikiwings",
+      "type": "block",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "SOZspeaker",
+      "type": "block",
+      "sortid": 37,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "SoundsOnButtonClicked_sky",
+      "type": "procedure",
+      "sortid": 213,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "int"
+          },
+          {
+            "name": "y",
+            "type": "int"
+          },
+          {
+            "name": "z",
+            "type": "int"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "EGGTV",
+      "type": "block",
+      "sortid": 38,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "SpringEntityWalksOnTheBlock",
+      "type": "procedure",
+      "sortid": 214,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "int"
+          },
+          {
+            "name": "y",
+            "type": "int"
+          },
+          {
+            "name": "z",
+            "type": "int"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "SOZblock9",
+      "type": "block",
+      "sortid": 34,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "SKZblock1",
+      "type": "block",
+      "sortid": 140,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "SKZblock2",
+      "type": "block",
+      "sortid": 141,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "SkZblock3",
+      "type": "block",
+      "sortid": 142,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "SKZblock4",
+      "type": "block",
+      "sortid": 143,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "SKZblock5",
+      "type": "block",
+      "sortid": 144,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "SKZblock6",
+      "type": "block",
+      "sortid": 145,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "SKZblock7",
+      "type": "block",
+      "sortid": 146,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "SKZblock8",
+      "type": "block",
+      "sortid": 147,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "SKZblock9",
+      "type": "block",
+      "sortid": 148,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Quartzholes",
+      "type": "block",
+      "sortid": 131,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "MMZgold",
+      "type": "block",
+      "sortid": 133,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "MMZvents",
+      "type": "block",
+      "sortid": 134,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "MMZwires",
+      "type": "block",
+      "sortid": 135,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "InWater",
+      "type": "procedure",
+      "sortid": 215,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "int"
+          },
+          {
+            "name": "y",
+            "type": "int"
+          },
+          {
+            "name": "z",
+            "type": "int"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "OOZpoles",
+      "type": "block",
+      "sortid": 122,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "OOZpole2",
+      "type": "block",
+      "sortid": 123,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "OOZpole3",
+      "type": "block",
+      "sortid": 124,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "OOZpole4",
+      "type": "block",
+      "sortid": 125,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "FBZoutsideA",
+      "type": "block",
+      "sortid": 45,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "FBZoutsideB",
+      "type": "block",
+      "sortid": 46,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "FBZoutsideC",
+      "type": "block",
+      "sortid": 47,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "FBZoutsideD",
+      "type": "block",
+      "sortid": 48,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "ContainerRing",
+      "type": "block",
+      "sortid": 152,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "ContainerSpeed",
+      "type": "block",
+      "sortid": 153,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "ContainerShield",
+      "type": "block",
+      "sortid": 154,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Gameover",
+      "type": "procedure",
+      "sortid": 216,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "int"
+          },
+          {
+            "name": "y",
+            "type": "int"
+          },
+          {
+            "name": "z",
+            "type": "int"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "TrophyblockOnBlockRightClicked",
+      "type": "procedure",
+      "sortid": 217,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "int"
+          },
+          {
+            "name": "y",
+            "type": "int"
+          },
+          {
+            "name": "z",
+            "type": "int"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "ContainerSpeedEntityWalksOnTheBlock",
+      "type": "procedure",
+      "sortid": 218,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "int"
+          },
+          {
+            "name": "y",
+            "type": "int"
+          },
+          {
+            "name": "z",
+            "type": "int"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "PGZleaves3",
+      "type": "block",
+      "sortid": 69,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "PGZpillar3",
+      "type": "block",
+      "sortid": 52,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "PGZpillar4",
+      "type": "block",
+      "sortid": 51,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "XCrate2",
+      "type": "block",
+      "sortid": 53,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Crateblue",
+      "type": "block",
+      "sortid": 54,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Crategreen",
+      "type": "block",
+      "sortid": 55,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Icerings",
+      "type": "block",
+      "sortid": 67,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "HCZ",
+      "type": "block",
+      "sortid": 89,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "LRZ",
+      "type": "block",
+      "sortid": 126,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "LRZ1",
+      "type": "block",
+      "sortid": 127,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "LRZ2",
+      "type": "block",
+      "sortid": 128,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "IcecreamFoodEaten",
+      "type": "procedure",
+      "sortid": 219,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Icecream",
+      "type": "food",
+      "sortid": 179,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "CheckpointOnBlockRightClicked",
+      "type": "procedure",
+      "sortid": 220,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "int"
+          },
+          {
+            "name": "y",
+            "type": "int"
+          },
+          {
+            "name": "z",
+            "type": "int"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Checkpoint",
+      "type": "block",
+      "sortid": 156,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "ContainerRingEntityWalksOnTheBlock",
+      "type": "procedure",
+      "sortid": 221,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "int"
+          },
+          {
+            "name": "y",
+            "type": "int"
+          },
+          {
+            "name": "z",
+            "type": "int"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "ContainerInvincibilityEntityWalksOnTheBlock",
+      "type": "procedure",
+      "sortid": 222,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "int"
+          },
+          {
+            "name": "y",
+            "type": "int"
+          },
+          {
+            "name": "z",
+            "type": "int"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "ContainerInvincibility",
+      "type": "block",
+      "sortid": 155,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "SOZblock10",
+      "type": "block",
+      "sortid": 22,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "SOZblock11",
+      "type": "block",
+      "sortid": 35,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "SOZblock12",
+      "type": "block",
+      "sortid": 36,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Manhole",
+      "type": "block",
+      "sortid": 223,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Icecreamrecipe",
+      "type": "recipe",
+      "sortid": 224,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Cactus",
+      "type": "plant",
+      "sortid": 225,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "MSZpinkflower",
+      "type": "plant",
+      "sortid": 226,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "FLOWER2",
+      "type": "recipe",
+      "sortid": 227,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Emerald",
+      "type": "achievement",
+      "sortid": 228,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [
+    {
+      "name": "super_sonic",
+      "file": "glimmering_gift",
+      "category": "music"
+    },
+    {
+      "name": "green_hill_act_1",
+      "file": "green_hill_zone_act_1_-_sonic_mania_ost",
+      "category": "music"
+    },
+    {
+      "name": "studiopolis_zone_act_1",
+      "file": "studiopolis_zone_act_1_-_sonic_mania_ost",
+      "category": "music"
+    },
+    {
+      "name": "chemical_plant_zone_act_1",
+      "file": "chemical_plant_zone_act_1_-_sonic_mania_ost",
+      "category": "music"
+    },
+    {
+      "name": "chemical_plant_zone_act2",
+      "file": "chemical_plant_zone_act_2_-_sonic_mania_ost",
+      "category": "music"
+    },
+    {
+      "name": "green_hill_act_2",
+      "file": "green_hill_zone_act_2_-_sonic_mania_ost",
+      "category": "music"
+    },
+    {
+      "name": "studiopolis_zone_act_2",
+      "file": "sonic_mania_ost_-_studiopolis_act_2",
+      "category": "music"
+    },
+    {
+      "name": "flying_battery_zone_act_1",
+      "file": "flying_battery_zone_act_1_-_sonic_mania_ost",
+      "category": "music"
+    },
+    {
+      "name": "flying_battery_zone_act_2",
+      "file": "flying_battery_zone_act_2_-_sonic_mania_ost",
+      "category": "music"
+    },
+    {
+      "name": "press_garden_zone_act_2",
+      "file": "sonic_mania_ost_-_press_garden_act_2",
+      "category": "music"
+    },
+    {
+      "name": "press_garden_zone_act_1",
+      "file": "sonic_mania_ost_-_press_garden_zone_act_1",
+      "category": "music"
+    },
+    {
+      "name": "stardust_speedway_zone_act_1",
+      "file": "stardust_speedway_zone_act_1_-_sonic_mania_ost",
+      "category": "music"
+    },
+    {
+      "name": "stardust_speedway_zone_act_2",
+      "file": "stardust_speedway_zone_act_2_-_sonic_mania_ost",
+      "category": "music"
+    },
+    {
+      "name": "hydrocity_zone_act_1",
+      "file": "hydrocity_zone_act_1_-_sonic_mania_ost",
+      "category": "music"
+    },
+    {
+      "name": "hydrocity_zone_act_2",
+      "file": "hydrocity_zone_act_2_-_sonic_mania_ost",
+      "category": "music"
+    },
+    {
+      "name": "mirage_saloon_zone_act_1_sonic",
+      "file": "mirage_saloon_zone_act_1_sonic_version_-_sonic_mania_ost",
+      "category": "music"
+    },
+    {
+      "name": "mirage_saloon_zone_act_1_knuckles",
+      "file": "mirage_saloon_zone_act_1__knuckles_version_",
+      "category": "music"
+    },
+    {
+      "name": "lava_reef_zone_act_1",
+      "file": "lava_reef_zone_act_1_-_sonic_mania_ost",
+      "category": "music"
+    },
+    {
+      "name": "lava_reef_zone_act_2",
+      "file": "lava_reef_zone_act_2_-_sonic_mania_ost",
+      "category": "music"
+    },
+    {
+      "name": "metallic_madness_zone_act_1",
+      "file": "metallic_madness_zone_act_1_-_sonic_mania_ost",
+      "category": "music"
+    },
+    {
+      "name": "metallic_madness_act_2",
+      "file": "metallic_madness_zone_act_2_-_sonic_mania_ost",
+      "category": "music"
+    },
+    {
+      "name": "titanic_monarch_zone_act_1",
+      "file": "titanic_monarch_zone_act_1_-_sonic_mania_ost",
+      "category": "music"
+    },
+    {
+      "name": "titanic_monarch_zone_act_2",
+      "file": "titanic_monarch_zone_act_2_-_sonic_mania_ost",
+      "category": "music"
+    },
+    {
+      "name": "oil_ocean_zone_act_1",
+      "file": "oil_ocean_zone_act_1_-_sonic_mania_ost",
+      "category": "music"
+    },
+    {
+      "name": "oil_ocean_zone_act_2",
+      "file": "oil_ocean_zone_act_2_-_sonic_mania_ost",
+      "category": "music"
+    },
+    {
+      "name": "metal_sonic",
+      "file": "metal_sonic",
+      "category": "music"
+    },
+    {
+      "name": "extra_life",
+      "file": "sonic_mania_ost_-_extra_life",
+      "category": "music"
+    },
+    {
+      "name": "speed_shoes",
+      "file": "sonic_mania_music_speed_shoes",
+      "category": "music"
+    },
+    {
+      "name": "game_over",
+      "file": "game_over_-_sonic_mania_music",
+      "category": "player"
+    },
+    {
+      "name": "act_clear",
+      "file": "act_clear_-_sonic_mania_ost",
+      "category": "music"
+    },
+    {
+      "name": "star_post",
+      "file": "starpost",
+      "category": "player"
+    },
+    {
+      "name": "destroy",
+      "file": "destroy",
+      "category": "block"
+    },
+    {
+      "name": "ring",
+      "file": "ring",
+      "category": "block"
+    },
+    {
+      "name": "ringo",
+      "file": "ringo",
+      "category": "block"
+    },
+    {
+      "name": "invincibiliity",
+      "file": "invincibility_-_sonic_mania_ost",
+      "category": "music"
+    }
+  ],
+  "language_map": {
+    "en_us": {
+      "block.sonic_mania.sozblock7": "SOZ Support ",
+      "block.sonic_mania.sozblock8": "SOZ Support",
+      "block.sonic_mania.sozblock9": "SOZ Block",
+      "item.supersonicmusic.name": "Super Sonic Ring",
+      "block.sonic_mania.eggtv": "Pirate TV",
+      "block.sonic_mania.skzblock2": "SKZ Stairs",
+      "block.sonic_mania.skzblock1": "Sky Sanctuary Bricks",
+      "tile.mszpillar2.name": "MSZ Wooden Beam",
+      "block.sonic_mania.skzblock6": "SK Zblock6",
+      "block.sonic_mania.sszpastfloorside": "SSZ(Past) Wall",
+      "block.sonic_mania.skzblock5": "SKZ Pillar",
+      "block.sonic_mania.ghztikiwings": "Tiki (Wings)",
+      "block.sonic_mania.sozblock1": "SOZ Block 1",
+      "block.sonic_mania.skzblock4": "SKZ Block",
+      "tile.oozpole3.name": "OOZ Pole Bottom",
+      "block.sonic_mania.skzblock3": "SKZ Wall",
+      "block.sonic_mania.sozblock3": "SOZ Lamp",
+      "block.sonic_mania.sozblock4": "SOZ Block 4",
+      "block.sonic_mania.skzblock9": "SKZ Block",
+      "block.sonic_mania.skzblock8": "SKZ Stairs",
+      "block.sonic_mania.sozblock5": "SOZ Block 5",
+      "block.sonic_mania.skzblock7": "SKZ Block",
+      "block.sonic_mania.sozblock6": "SOZ Block",
+      "tile.tmzblock1.name": "Purpur Block",
+      "tile.skzblock3.name": "SKZ Wall",
+      "tile.fbzblock6.name": "FBZ Block",
+      "tile.pgzbricks.name": "PGZ Bricks",
+      "tile.sozblock3.name": "SOZ Lamp",
+      "block.sonic_mania.containerspeed": "Speed Shoe Container",
+      "tile.mszbirdpole3.name": "Mirage Saloon Beak 2",
+      "tile.oozblock2.name": "OOZ Block",
+      "item.sonic_mania.supersonicmusic": "Super Sonic Ring",
+      "block.sonic_mania.mszpillar2body": "MSZ Wooden Beam",
+      "item.sonic_mania.sozact2": "Prime Time",
+      "tile.sozblock5.name": "SOZ Block 5",
+      "tile.skzblock5.name": "SKZ Pillar",
+      "item.miragesaloon1sonic.name": "Mirage Saloon Act 1",
+      "item.sonic_mania.sozact1": "Lights, Camera, Action!",
+      "tile.pgzfencedrago.name": "Fence Post",
+      "tile.rock.name": "Green Hill Rock",
+      "tile.containershield.name": "Shield Container",
+      "tile.mszbirdpole1.name": "Mirage Saloon Birdpole",
+      "block.sonic_mania.sszpastfloor": "SSZ(Past) Floor",
+      "block.sonic_mania.quartzholes": "Quartz ",
+      "tile.fbzoutsided.name": "FBZ Outside D",
+      "block.sonic_mania.pgzleavesred": "PGZ Red Leaves",
+      "item.ring.name": "Golden Ring",
+      "tile.pgzblock2.name": "PGZ Leafy Block",
+      "tile.pgzleavespink.name": "PGZ Pink Leaves",
+      "tile.mmzvents.name": "Iron Vents",
+      "tile.sozblock5support.name": "SOZ Block Support",
+      "block.sonic_mania.mszcactuspink": "Pink Flowering Cactus",
+      "tile.fbzblock8.name": "FBZ Pipes",
+      "tile.greenhillflower2.name": "Green Hill Sun Flower",
+      "tile.skzblock1.name": "Sky Sanctuary Bricks",
+      "block.sonic_mania.pgzfencepost": "Fence Post",
+      "tile.mszflower.name": "MSZ Flower Print Block",
+      "block.sonic_mania.mszflower": "MSZ Flower Print Block",
+      "tile.mszcactus.name": "Fruit Cactus",
+      "tile.lantern.name": "Lantern",
+      "block.sonic_mania.mszpillar": "MSZ Pillar",
+      "tile.cpzblock10.name": "CPZ Fluid Container",
+      "block.sonic_mania.pgzblock1": "PGZ Snowy Block",
+      "block.sonic_mania.icerings": "Ice (Rings)",
+      "tile.tmzblock3.name": "End Stone Arrow",
+      "tile.skzblock7.name": "SKZ Block",
+      "block.sonic_mania.pgzblock3": "PGZ Leafy Block",
+      "block.sonic_mania.pgzblock2": "PGZ Leafy Block",
+      "tile.sszfutureblock1.name": "SSZ(Future) Decoration",
+      "tile.mszblock1.name": "MSZ Chisled Sandstone",
+      "tile.mszpillarbody.name": "MSZ Pillar",
+      "item.sonic_mania.greentimestone": "Green Time Stone",
+      "tile.mszbirdbody1.name": "Mirage Saloon Bird Pole Body 1",
+      "tile.greenhilldirt.name": "GHZ Dirt",
+      "tile.mszblock4.name": "FBZ Block",
+      "tile.mszdecorstone.name": "Mirage Saloon Fancy Stone",
+      "tile.sszpastblock1.name": "SSZ(Past) Flower Block",
+      "tile.quartzsmooth.name": "Smooth Quartz",
+      "tile.sszpastblock4.name": "SSZ Block",
+      "tile.ghztikiwings.name": "Tiki (Wings)",
+      "tile.mszstone2.name": "MSZ Stone",
+      "tile.ghztiki1.name": "Tiki",
+      "block.sonic_mania.sozbars": "SOZ Bars",
+      "tile.sszpastfloor.name": "SSZ(Past) Floor",
+      "tile.sozblock7.name": "SOZ Support ",
+      "block.sonic_mania.containershield": "Shield Container",
+      "tile.sozblock1.name": "SOZ Block 1",
+      "tile.oozblock4.name": "OOZ Fencing",
+      "block.sonic_mania.sszfuturefloorside": "SSZ(Future) Wall",
+      "tile.pgzflower2.name": "PGZ Flower",
+      "block.sonic_mania.pgzflower": "PGZ Flower",
+      "tile.quartzholes.name": "Quartz ",
+      "item.greenhillact1.name": "Green Hill Act 1",
+      "block.sonic_mania.mmzgold": "Golden Vents",
+      "block.sonic_mania.mszpinkflower": "Pink Cactus Flower",
+      "item.sonicicon.name": "Sonic.Icon",
+      "block.sonic_mania.mszshortgrass": "Short Grass",
+      "tile.mszbirdbody3.name": "Mirage Saloon Bird Pole Base",
+      "block.sonic_mania.mszblock1": "MSZ Chisled Sandstone",
+      "tile.pgzleavesred.name": "PGZ Red Leaves",
+      "block.sonic_mania.mszblock2": "MSZ Sandstone",
+      "tile.mmz.name": "MMZ Blades",
+      "tile.cpzblock9.name": "CPZ Pipe",
+      "tile.oozpoles.name": "OOZ Pole",
+      "tile.sszfutureblock4.name": "SSZ(Present) Gold Block",
+      "block.sonic_mania.fbzblock8": "FBZ Pipes",
+      "block.sonic_mania.fbzblock7": "FBZ Pipes",
+      "block.sonic_mania.checkpoint": "Checkpoint",
+      "block.sonic_mania.fbzblock6": "FBZ Block",
+      "tile.pgzflower.name": "PGZ Flower",
+      "tile.cpzblock13.name": "CPZ Pipe",
+      "block.sonic_mania.fbzblock5": "FBZ Block",
+      "block.sonic_mania.fbzblock4": "FBZ Block",
+      "block.sonic_mania.fbzblock3": "FBZ Block",
+      "block.sonic_mania.lrz1": "Metal Pipes",
+      "tile.mszbirdbody2.name": "Mirage Saloon Bird Pole Body 2",
+      "block.sonic_mania.lrz2": "Pipe Connecter",
+      "block.sonic_mania.mszbirdbody2": "Mirage Saloon Bird Pole Body 2",
+      "block.sonic_mania.mszbirdbody1": "Mirage Saloon Bird Pole Body 1",
+      "tile.cpzblock7.name": "CPZ Platform",
+      "block.sonic_mania.mszbirdbody3": "Mirage Saloon Bird Pole Base",
+      "block.sonic_mania.mszcactus": "Fruit Cactus",
+      "tile.oozblock.name": "OOZ Block",
+      "tile.woodenbridge.name": "Wooden Bridge",
+      "block.sonic_mania.cpzdeco_tube1": "CPZ Pipe",
+      "block.sonic_mania.cpzdeco_tube2": "CPZ Pipe",
+      "block.sonic_mania.pgzfencedrago": "Fence Post",
+      "block.sonic_mania.manhole": "Manhole",
+      "tile.pgzpillar1base.name": "PGZ Cracked Pillar",
+      "tile.sozblock.name": "SOZ Block",
+      "block.sonic_mania.xcrate2": "Crate (Orange)",
+      "block.sonic_mania.tmzblock4": "Purpur Block (Slab)",
+      "item.sonic_mania.icecream": "Sonic Ice Cream Pop",
+      "block.sonic_mania.oozblock": "OOZ Block",
+      "block.sonic_mania.woodenbridge": "Wooden Bridge",
+      "item.sonic_mania.greenhillact1": "Green Hill Act 1",
+      "block.sonic_mania.cpzblock10": "CPZ Fluid Container",
+      "item.sonic_mania.greenhillact2": "Green Hill Act 2",
+      "block.sonic_mania.ghzblock4": "Green Hill Rock",
+      "block.sonic_mania.tmzblock2": "Purpur Block",
+      "block.sonic_mania.tmzblock3": "End Stone Arrow",
+      "tile.skzblock6.name": "SK Zblock6",
+      "block.sonic_mania.pgzlog2": "PGZ Log",
+      "block.sonic_mania.xcrate": "Crate (Blue)",
+      "block.sonic_mania.tmzblock1": "Purpur Block",
+      "block.sonic_mania.pgzdirt": "PGZ Dirt",
+      "tile.pgzblock.name": "PGZ Floor",
+      "block.sonic_mania.sozblock6a": "SOZ Block",
+      "tile.bridge.name": "GHZ Bridge",
+      "block.sonic_mania.ghzblock3": "Green Hill Stone",
+      "block.sonic_mania.ghzblock2": "GHZ Dirt",
+      "block.sonic_mania.ghzblock1": "GHZ Grasss",
+      "item.sonic_mania.sonicicon": "Sonic.Icon",
+      "block.sonic_mania.pgzdirtxsnow": "PGZ Dirt",
+      "tile.sozblock6.name": "SOZ Block",
+      "block.sonic_mania.spring": "Spring",
+      "block.sonic_mania.pgzflower3": "PGZ Flower",
+      "block.sonic_mania.pgzflower2": "PGZ Flower",
+      "block.sonic_mania.mszpillar2": "MSZ Wooden Beam",
+      "tile.mszflower2.name": "MSZ Flower Print Block",
+      "block.sonic_mania.msztoro": "PGZ Pillar",
+      "tile.mmzgold.name": "Gold Vents",
+      "block.sonic_mania.cactus": "Cactus",
+      "tile.spring.name": "Spring",
+      "item.mszfruit.name": "Cactus Fruit",
+      "tile.mszblock.name": "MSZ Sandstone",
+      "block.sonic_mania.lrz": "Metal Pipes",
+      "block.sonic_mania.sozblock5support": "SOZ Block Support",
+      "block.sonic_mania.mszstone": "MSZ Stone",
+      "tile.mszblock2.name": "MSZ Sandstone",
+      "block.sonic_mania.pgzbricks": "PGZ Bricks",
+      "tile.cpzblock2.name": "CPZ Floor",
+      "block.sonic_mania.mszdecorstone": "Mirage Saloon Fancy Stone",
+      "block.sonic_mania.oozpoles": "OOZ Pole",
+      "tile.cpzblock8.name": "Contraption",
+      "tile.pgzblock1.name": "PGZ Snowy Block",
+      "item.sonic_mania.mszfruit": "Cactus Fruit",
+      "tile.pgzpillar2body.name": "PGZ Pillar",
+      "block.sonic_mania.crateblue": "Crate (Blue)",
+      "tile.skzblock4.name": "SKZ Block",
+      "tile.fbzblock7.name": "FBZ Pipes",
+      "block.sonic_mania.pgzpillar1base": "PGZ Cracked Pillar",
+      "block.sonic_mania.oozblock1": "OOZ Block",
+      "block.sonic_mania.oozblock2": "OOZ Block",
+      "tile.pgzdirtxsnow.name": "PGZ Dirt",
+      "advancements.emerald.title": "Sonic Got Them All!",
+      "tile.oozblock3.name": "OOZ Platform",
+      "tile.hcz.name": "HCZ Decoration",
+      "tile.mszdecor1.name": "Mirage Saloon Blue Knitted Wool",
+      "item.miragesaloonact1knux.name": "Mirage Saloon Act 1",
+      "block.sonic_mania.container": "1-Up Container",
+      "block.sonic_mania.mszdecor": "Mirage Saloon Knitted Wool",
+      "tile.mszore.name": "Mirage Ore",
+      "block.sonic_mania.oozblock3": "OOZ Platform",
+      "block.sonic_mania.oozblock4": "OOZ Fencing",
+      "block.sonic_mania.sszfuturefloor": "SSZ(Future) Floor",
+      "block.sonic_mania.mmzwires": "MMZ Wires",
+      "tile.xcrate.name": "Crate",
+      "tile.pgzlog2.name": "PGZ Log",
+      "tile.tmzblock2.name": "Purpur Block",
+      "block.sonic_mania.lantern": "Lantern",
+      "block.sonic_mania.mszore": "Mirage Ore",
+      "tile.cpzblock4.name": "CPZ Block",
+      "tile.mszbirdpole4.name": "Mirage Saloon Bird Pole feathers",
+      "block.sonic_mania.mszpillarbody": "MSZ Pillar",
+      "tile.pgzlantern.name": "Lantern",
+      "tile.sozbars.name": "SOZ Bars",
+      "itemGroup.tabsonictab": "Sonic Mania Blocks",
+      "tile.sozblock6a.name": "SOZ Block",
+      "tile.mszstone.name": "MSZ Stone",
+      "block.sonic_mania.oozpole3": "OOZ Pole Bottom",
+      "block.sonic_mania.oozpole2": "OOZ Pole Top",
+      "tile.skzblock2.name": "SKZ Stairs",
+      "tile.fbzblock5.name": "FBZ Block",
+      "tile.oozpole4.name": "OOZ Pole Bottom",
+      "block.sonic_mania.oozpole4": "OOZ Pole Bottom",
+      "block.sonic_mania.mszstone2": "MSZ Stone",
+      "tile.fbzoutsidec.name": "FBZ Outside C",
+      "block.sonic_mania.ghzddeco_bridge": "GHZ Bridge",
+      "block.sonic_mania.mszbirdpole3": "Mirage Saloon Beak 2",
+      "block.sonic_mania.mszbirdpole4": "Mirage Saloon Bird Pole feathers",
+      "block.sonic_mania.mszbirdpole1": "Mirage Saloon Birdpole",
+      "block.sonic_mania.mszbirdpole2": "Mirage Saloon Birdpole Beak",
+      "block.sonic_mania.sszfutureblock4": "SSZ(Present) Gold Block",
+      "tile.spikes.name": "Spikes",
+      "tile.eggtv.name": "Pirate TV",
+      "block.sonic_mania.pgzpillar2body": "PGZ Pillar",
+      "block.sonic_mania.sszfutureblock3": "SSZ(Present) Block",
+      "block.sonic_mania.sszfutureblock2": "SSZ(Present) Metal Block",
+      "block.sonic_mania.sszfutureblock1": "SSZ(Future) Decoration",
+      "tile.pgzpillar1.name": "PGZ Cracked Pillar Base",
+      "tile.cpzblock6.name": "CPZ Support Block",
+      "block.sonic_mania.mszsand": "Mirage Saloon Sand",
+      "item.sonic_mania.miragesaloonact1knux": "Mirage Saloon Act 1",
+      "tile.fbzblock3.name": "FBZ Block",
+      "item.greentimestone.name": "Green Time Stone",
+      "block.sonic_mania.ghztiki1": "Tiki",
+      "block.sonic_mania.ghztiki3": "Tiki",
+      "tile.sozspeaker.name": "Speaker",
+      "block.sonic_mania.ghztiki2": "Tiki",
+      "tile.mszshortgrass.name": "Short Grass",
+      "block.sonic_mania.containerinvincibility": "Invincibility Container",
+      "item.sozact2.name": "Prime Time",
+      "item.mszpinkflower.name": "Cactus Flower",
+      "item.sonic_mania.miragesaloon1sonic": "Mirage Saloon Act 1",
+      "tile.greenhillflower1.name": "Green Hill Purple Flower",
+      "tile.oozpole2.name": "OOZ Pole Top",
+      "tile.mmzwires.name": "MMZ Wires",
+      "tile.pgzblock3.name": "PGZ Leafy Block",
+      "tile.mszpillar2body.name": "MSZ Wooden Beam",
+      "tile.cpzblock.name": "CPZ Floor",
+      "block.sonic_mania.pgzblock": "PGZ Floor",
+      "tile.mszlechuza.name": "MSZ Pillar",
+      "tile.icesonic.name": "Frozen Rings",
+      "tile.ghzblock1.name": "GHZ Grasss",
+      "tile.sozblock4.name": "SOZ Block 4",
+      "tile.mszbirdpole2.name": "Mirage Saloon Birdpole Beak",
+      "tile.oozblock1.name": "OOZ Block",
+      "block.sonic_mania.pgzlog": "PGZ Log",
+      "block.sonic_mania.greenhillbush": "Green Hill Bush",
+      "block.sonic_mania.mszlechuza": "MSZ Pillar",
+      "block.sonic_mania.spikes": "Spikes",
+      "block.sonic_mania.fbzoutsidea": "FBZ Outside A",
+      "block.sonic_mania.fbzoutsideb": "FBZ Outside B",
+      "item.sonic_mania.pgzact1": "Tabloid Jargon",
+      "block.sonic_mania.fbzoutsidec": "FBZ Outside C",
+      "tile.sozblock9.name": "SOZ Block",
+      "item.sonic_mania.pgzact2": "Blossom Haze",
+      "block.sonic_mania.fbzoutsided": "FBZ Outside D",
+      "advancements.emerald.descr": "Collect Seven Emeralds",
+      "block.sonic_mania.mszflower2": "MSZ Flower Print Block",
+      "item.pgzact1.name": "Tabloid Jargon",
+      "tile.sszpastblock2.name": "SSZ(Past) Vine Block",
+      "block.sonic_mania.containerring": "Ring Container",
+      "block.sonic_mania.greenhillflower2": "Green Hill Sun Flower",
+      "block.sonic_mania.sszpastblock3": "Harp-Chiseled Block",
+      "block.sonic_mania.greenhillflower1": "Green Hill Purple Flower",
+      "block.sonic_mania.sszpastblock4": "SSZ Block",
+      "block.sonic_mania.sszpastblock1": "SSZ(Past) Flower Block",
+      "block.sonic_mania.sszpastblock2": "SSZ(Past) Vine Block",
+      "tile.greenhillbush.name": "Green Hill Bush",
+      "tile.sszpastblock3.name": "Harp-Chiseled Block",
+      "tile.trophyblock.name": "Silver Sonic Trophy",
+      "tile.pgzflower3.name": "PGZ Flower",
+      "item.sonic_mania.mszoredrop": "Mirage Stone",
+      "block.sonic_mania.sozblock12": "SOZ Block 12",
+      "block.sonic_mania.pgzpillar4": "PGZ Pillar",
+      "block.sonic_mania.pgzpillar3": "PGZ Pillar",
+      "block.sonic_mania.pgzpillar2": "PGZ Pillar Base",
+      "block.sonic_mania.pgzpillar1": "PGZ Cracked Pillar Base",
+      "tile.cpzblock12.name": "CPZ Block",
+      "tile.containerring.name": "Ring Container",
+      "item.sozact1.name": "Lights, Camera, Action!",
+      "tile.skzblock8.name": "SKZ Stairs",
+      "tile.sozblock8.name": "SOZ Support",
+      "tile.pgzbrick.name": "PGZ Brick",
+      "tile.fbzoutsidea.name": "FBZ Outside A",
+      "block.sonic_mania.pgzleaves3": "PGZ Red Leaves",
+      "tile.ghztiki3.name": "Tiki",
+      "block.sonic_mania.pgzbrick": "PGZ Brick",
+      "block.sonic_mania.crategreen": "Crate (Green)",
+      "block.sonic_mania.sozspeaker": "Speaker",
+      "tile.sszfutureblock3.name": "SSZ(Present) Block",
+      "tile.containerspeed.name": "Speed Shoe Container",
+      "item.pgzact2.name": "Blossom Haze",
+      "tile.pgzdirt.name": "PGZ Dirt",
+      "tile.sszfutureblock2.name": "SSZ(Present) Metal Block",
+      "block.sonic_mania.mmz": "MMZ Blades",
+      "item.sonic_mania.ring": "Golden Ring",
+      "tile.mszsand.name": "Mirage Saloon Sand",
+      "block.sonic_mania.hcz": "Prismarine Decoration",
+      "tile.tmzblock4.name": "Purpur Block (Slab)",
+      "tile.fbzblock4.name": "FBZ Block",
+      "tile.mszblock5.name": "FBZ Block",
+      "block.sonic_mania.cpzblock": "CPZ Floor",
+      "block.sonic_mania.cpzblock2": "CPZ Floor",
+      "item.greenhillact2.name": "Green Hill Act 2",
+      "block.sonic_mania.cpzblock3": "CPZ Block",
+      "tile.sszpastfloorside.name": "SSZ(Past) Wall",
+      "block.sonic_mania.pgzleavespink": "PGZ Pink Leaves",
+      "block.sonic_mania.cpzblock6": "CPZ Platform",
+      "block.sonic_mania.mszblock": "MSZ Sandstone",
+      "block.sonic_mania.cpzblock7": "CPZ Support",
+      "tile.pgzlog.name": "PGZ Log",
+      "block.sonic_mania.cpzblock4": "CPZ Block",
+      "itemGroup.tabitems": "Sonic Mania Items",
+      "tile.mszpillar.name": "MSZ Pillar",
+      "block.sonic_mania.cpzblock5": "CPZ Support Block",
+      "tile.fbzoutsideb.name": "FBZ Outside B",
+      "block.sonic_mania.mmzvents": "Iron Vents",
+      "block.sonic_mania.cpzblock8": "CPZ Block",
+      "block.sonic_mania.cpzblock9": "Contraption",
+      "tile.ghztiki2.name": "Tiki",
+      "tile.container.name": "1-Up Container",
+      "tile.mszdecor.name": "Mirage Saloon Knitted Wool",
+      "tile.dingding.name": "Checkpoint",
+      "block.sonic_mania.sozblock11": "SOZ Block 11",
+      "block.sonic_mania.sozblock10": "SOZ Stone Road",
+      "tile.sszfuturefloorside.name": "SSZ(Future) Wall",
+      "tile.sszfuturefloor.name": "SSZ(Future) Floor",
+      "tile.greehillstone.name": "Green Hill Stone",
+      "tile.pgzfencepost.name": "Fence Post",
+      "item.mszoredrop.name": "Mirage Stone",
+      "tile.msztoro.name": "PGZ Pillar",
+      "block.sonic_mania.mszdecor1": "Mirage Saloon Blue Knitted Wool",
+      "block.sonic_mania.sozblock": "SOZ Block",
+      "tile.skzblock9.name": "SKZ Block",
+      "block.sonic_mania.trophyblock": "Silver Sonic Trophy",
+      "tile.cpzblock5.name": "CPZ Block",
+      "tile.pgzpillar2.name": "PGZ Pillar Base",
+      "tile.mszcactuspink.name": "Pink Flowering Cactus",
+      "tile.cpzblock11.name": "CPZ Support"
+    }
+  },
+  "workspaceSettings": {
+    "modid": "sonic_mania",
+    "modName": "Sonic Mania",
+    "version": "1.2.0",
+    "description": "For the Mania, by the Mania",
+    "author": "CarltheSpiny",
+    "websiteURL": "https://mcreator.net",
+    "disableForgeVersionCheck": false,
+    "serverSideOnly": false,
+    "modPicture": "sonic_mania_icon",
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "1.14.4",
+    "usesProFeatures": false,
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202000105419
+}

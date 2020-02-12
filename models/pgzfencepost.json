@@ -1,0 +1,48 @@
+{
+    "__comment": "Model generated using MrCrayfish's Model Creator (https://mrcrayfish.com/tools?id=mc)",
+    "textures": {
+        "PGZfence": "minecraft:blocks/PGZfence"
+    },
+    "display": {
+        "gui": {
+            "rotation": [ 25, 209, 0 ],
+            "translation": [ 0, -2, 0 ],
+            "scale": [ 0.625, 0.625, 0.625 ]
+        },
+        "ground": {
+            "rotation": [ 0, 0, 0 ],
+            "translation": [ 0, 3, 0 ],
+            "scale": [ 0.25, 0.25, 0.25 ]
+        },
+        "fixed": {
+            "rotation": [ 0, 0, 0 ],
+            "translation": [ 0, 0, 0 ],
+            "scale": [ 0.5, 0.5, 0.5 ]
+        },
+        "firstperson_righthand": {
+            "rotation": [ 0, 45, 0 ],
+            "translation": [ 0, 2.5, 0 ],
+            "scale": [ 0.4, 0.4, 0.4 ]
+        },
+        "thirdperson_righthand": {
+            "rotation": [ 180, 9, 180 ],
+            "translation": [ 0, 2.5, 0 ],
+            "scale": [ 0.375, 0.375, 0.375 ]
+        }
+    },
+    "elements": [
+        {
+            "name": "Cube",
+            "from": [ 4, 0, 4 ], 
+            "to": [ 12, 16, 12 ], 
+            "faces": {
+                "north": { "texture": "#PGZfence", "uv": [ 0, 0, 4, 8 ] },
+                "east": { "texture": "#PGZfence", "uv": [ 0, 0, 4, 8 ] },
+                "south": { "texture": "#PGZfence", "uv": [ 0, 0, 4, 8 ] },
+                "west": { "texture": "#PGZfence", "uv": [ 0, 0, 4, 8 ] },
+                "up": { "texture": "#PGZfence", "uv": [ 0, 8, 8, 16 ] },
+                "down": { "texture": "#PGZfence", "uv": [ 8, 8, 16, 16 ] }
+            }
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+  "group": "sonic_mania",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " 1",
+    " 3",
+    "45"
+  ],
+  "key": {
+    "1": {
+      "item": "minecraft:blue_dye"
+    },
+    "3": {
+      "item": "minecraft:snowball"
+    },
+    "4": {
+      "item": "minecraft:sugar"
+    },
+    "5": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "sonic_mania:icecream",
+    "count": 2
+  }
+}

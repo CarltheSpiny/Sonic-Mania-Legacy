@@ -1,0 +1,11 @@
+{
+  "parent": "sonic_mania:custom/mszpolefeathers",
+  "textures": {
+    "all": "sonic_mania:blocks/birdpolef",
+    "particle": "sonic_mania:blocks/birdpolef",
+    "SideA": "sonic_mania:blocks/sidea",
+    "SideB": "sonic_mania:blocks/sideb",
+    "SideC": "sonic_mania:blocks/sidec",
+    "SideD": "sonic_mania:blocks/sided"
+  }
+}

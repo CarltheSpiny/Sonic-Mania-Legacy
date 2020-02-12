@@ -1,0 +1,10 @@
+{
+  "parent": "sonic_mania:custom/better_version_mmz",
+  "textures": {
+    "all": "sonic_mania:blocks/anitile",
+    "particle": "sonic_mania:blocks/anitile",
+    "top": "sonic_mania:blocks/top",
+    "anitile": "sonic_mania:blocks/sdfh",
+    "anitile5": "sonic_mania:blocks/anitile5"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "group": "sonic_mania",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "sonic_mania:mszsand"
+    },
+    "1": {
+      "item": "sonic_mania:mszsand"
+    },
+    "2": {
+      "item": "sonic_mania:mszsand"
+    },
+    "3": {
+      "item": "sonic_mania:mszsand"
+    },
+    "4": {
+      "item": "sonic_mania:mszoredrop"
+    },
+    "5": {
+      "item": "sonic_mania:mszsand"
+    },
+    "6": {
+      "item": "sonic_mania:mszsand"
+    },
+    "7": {
+      "item": "sonic_mania:mszsand"
+    },
+    "8": {
+      "item": "sonic_mania:mszsand"
+    }
+  },
+  "result": {
+    "item": "sonic_mania:mszdecorstone",
+    "count": 4
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "block/wall_inventory",
+  "textures": {
+    "wall": "sonic_mania:blocks/skzblock_5",
+    "particle": "sonic_mania:blocks/skzblock_5"
+  }
+}

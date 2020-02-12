@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "sonic_mania:block/trophyblock"
+    },
+    "facing=east": {
+      "model": "sonic_mania:block/trophyblock",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "sonic_mania:block/trophyblock",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "sonic_mania:block/trophyblock",
+      "y": 270
+    }
+  }
+}

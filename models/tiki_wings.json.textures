@@ -1,0 +1,15 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "1_TIKI_wings_right": "tiki_wings_right",
+        "1_TIKI_wings_left": "tiki_wings_left",
+        "missing": "",
+        "1_tiki_side": "tiki_side",
+        "1_tiki_b_no_wings": "tiki_b_no_wings",
+        "1_TIKI_wings_side": "tiki_wings_side"
+      },
+      "name": "default"
+    }
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "parent": "sonic_mania:custom/ghz_bridge",
+  "textures": {
+    "all": "sonic_mania:blocks/bridgeghz_top",
+    "particle": "sonic_mania:blocks/bridgeghz_top",
+    "bridgeghz": "sonic_mania:blocks/bridgeghz",
+    "bridgeghz_top": "sonic_mania:blocks/bridgeghz_top"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "sonic_mania:blocks/crate_blue",
+    "up": "sonic_mania:blocks/crate_blue",
+    "north": "sonic_mania:blocks/crate_blue",
+    "east": "sonic_mania:blocks/crate_blue",
+    "south": "sonic_mania:blocks/crate_blue",
+    "west": "sonic_mania:blocks/crate_blue",
+    "particle": "sonic_mania:blocks/crate_blue"
+  }
+}

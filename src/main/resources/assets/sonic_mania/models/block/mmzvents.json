@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "sonic_mania:blocks/mmz_vents",
+    "up": "sonic_mania:blocks/mmz_vents",
+    "north": "sonic_mania:blocks/mmz_vents",
+    "east": "sonic_mania:blocks/mmz_vents",
+    "south": "sonic_mania:blocks/mmz_vents",
+    "west": "sonic_mania:blocks/mmz_vents",
+    "particle": "sonic_mania:blocks/mmz_vents"
+  }
+}

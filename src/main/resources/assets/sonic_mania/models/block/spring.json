@@ -1,0 +1,9 @@
+{
+  "parent": "sonic_mania:custom/spring",
+  "textures": {
+    "all": "sonic_mania:blocks/base2",
+    "particle": "sonic_mania:blocks/base2",
+    "spring": "sonic_mania:blocks/spring",
+    "spring_top": "sonic_mania:blocks/spring_top"
+  }
+}

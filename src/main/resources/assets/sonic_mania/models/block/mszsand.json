@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "sonic_mania:blocks/mszblock6_bottom",
+    "up": "sonic_mania:blocks/msztoplayer",
+    "north": "sonic_mania:blocks/mszblock6",
+    "east": "sonic_mania:blocks/mszblock6",
+    "south": "sonic_mania:blocks/mszblock6",
+    "west": "sonic_mania:blocks/mszblock6",
+    "particle": "sonic_mania:blocks/mszblock6_bottom"
+  }
+}

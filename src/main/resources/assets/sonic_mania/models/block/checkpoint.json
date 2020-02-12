@@ -1,0 +1,9 @@
+{
+  "parent": "sonic_mania:custom/checkpoint",
+  "textures": {
+    "all": "sonic_mania:blocks/cpzbluefloortop",
+    "particle": "sonic_mania:blocks/cpzbluefloortop",
+    "0": "sonic_mania:blocks/star_post",
+    "missing": "sonic_mania:blocks/star_post"
+  }
+}

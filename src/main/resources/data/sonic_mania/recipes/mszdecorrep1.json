@@ -1,0 +1,42 @@
+{
+  "group": "sonic_mania",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "sonic_mania:mszdecorstone"
+    },
+    "1": {
+      "item": "sonic_mania:mszdecorstone"
+    },
+    "2": {
+      "item": "sonic_mania:mszdecorstone"
+    },
+    "3": {
+      "item": "minecraft:cyan_wool"
+    },
+    "4": {
+      "item": "minecraft:light_blue_wool"
+    },
+    "5": {
+      "item": "minecraft:cyan_wool"
+    },
+    "6": {
+      "item": "minecraft:light_blue_wool"
+    },
+    "7": {
+      "item": "minecraft:cyan_wool"
+    },
+    "8": {
+      "item": "minecraft:light_blue_wool"
+    }
+  },
+  "result": {
+    "item": "sonic_mania:mszdecor",
+    "count": 8
+  }
+}

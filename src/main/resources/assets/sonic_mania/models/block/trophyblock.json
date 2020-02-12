@@ -1,0 +1,10 @@
+{
+  "parent": "sonic_mania:custom/silver_sonic_trophy",
+  "textures": {
+    "all": "sonic_mania:blocks/silver_sonic_trophy_3",
+    "particle": "sonic_mania:blocks/silver_sonic_trophy_3",
+    "silver_sonic_trophy": "sonic_mania:blocks/silver_sonic_trophy",
+    "ring": "sonic_mania:blocks/ringbase",
+    "silver_sonic_trophy_2": "sonic_mania:blocks/silver_sonic_trophy_2"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "group": "sonic_mania",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "sonic_mania:greenhillflower2"
+    }
+  ],
+  "result": {
+    "item": "minecraft:yellow_dye",
+    "count": 2
+  }
+}

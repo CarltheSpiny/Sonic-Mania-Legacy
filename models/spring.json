@@ -1,0 +1,140 @@
+{
+    "__comment": "Model generated using MrCrayfish's Model Creator (https://mrcrayfish.com/tools?id=mc)",
+    "textures": {
+        "spring": "minecraft:blocks/spring",
+        "spring_top": "minecraft:blocks/spring_top"
+    },
+    "display": {
+        "gui": {
+            "rotation": [ 30, 45, 0 ],
+            "translation": [ 0, 0, 0 ],
+            "scale": [ 0.625, 0.625, 0.625 ]
+        },
+        "ground": {
+            "rotation": [ 0, 0, 0 ],
+            "translation": [ 0, 3, 0 ],
+            "scale": [ 0.25, 0.25, 0.25 ]
+        },
+        "fixed": {
+            "rotation": [ 0, 180, 0 ],
+            "translation": [ 0, 0, 0 ],
+            "scale": [ 1, 1, 1 ]
+        },
+        "head": {
+            "rotation": [ 0, 180, 0 ],
+            "translation": [ 0, 0, 0 ],
+            "scale": [ 1, 1, 1 ]
+        },
+        "firstperson_righthand": {
+            "rotation": [ 0, 315, 0 ],
+            "translation": [ 0, 2.5, 0 ],
+            "scale": [ 0.4, 0.4, 0.4 ]
+        },
+        "thirdperson_righthand": {
+            "rotation": [ 75, 315, 0 ],
+            "translation": [ 0, 2.5, 0 ],
+            "scale": [ 0.375, 0.375, 0.375 ]
+        }
+    },
+    "elements": [
+        {
+            "name": "Cube",
+            "from": [ 3, 2, 3.5 ], 
+            "to": [ 13, 7, 12.5 ], 
+            "faces": {
+                "north": { "texture": "#spring", "uv": [ 4.5, 4, 11.5, 8 ] },
+                "east": { "texture": "#spring", "uv": [ 4.5, 4, 11.5, 8 ] },
+                "south": { "texture": "#spring", "uv": [ 4.5, 4, 11.5, 8 ] },
+                "west": { "texture": "#spring", "uv": [ 4.5, 4, 11.5, 8 ] }
+            }
+        },
+        {
+            "name": "Cube",
+            "from": [ 2.5, 3.75, 3 ], 
+            "to": [ 13.5, 4.5, 13 ], 
+            "faces": {
+                "north": { "texture": "#spring", "uv": [ 4, 6.5, 12, 6 ] },
+                "east": { "texture": "#spring", "uv": [ 4, 6, 12, 6.5 ] },
+                "south": { "texture": "#spring", "uv": [ 4, 6, 12, 6.5 ] },
+                "west": { "texture": "#spring", "uv": [ 4, 6, 12, 6.5 ] },
+                "up": { "texture": "#spring", "uv": [ 5, 4, 6, 4 ] },
+                "down": { "texture": "#spring", "uv": [ 5, 4, 6, 4 ] }
+            }
+        },
+        {
+            "name": "Cube",
+            "from": [ 2.5, 6.25, 3 ], 
+            "to": [ 13.5, 7, 13 ], 
+            "faces": {
+                "north": { "texture": "#spring", "uv": [ 4, 4, 12, 4.5 ] },
+                "east": { "texture": "#spring", "uv": [ 4, 4, 12, 4.5 ] },
+                "south": { "texture": "#spring", "uv": [ 4, 4, 12, 4.5 ] },
+                "west": { "texture": "#spring", "uv": [ 4, 4, 12, 4.5 ] },
+                "down": { "texture": "#spring", "uv": [ 5, 4, 6, 4.5 ] }
+            }
+        },
+        {
+            "name": "Cube",
+            "from": [ 2.5, 5, 3 ], 
+            "to": [ 13.5, 5.75, 13 ], 
+            "faces": {
+                "north": { "texture": "#spring", "uv": [ 4, 5.5, 12, 5 ] },
+                "east": { "texture": "#spring", "uv": [ 4, 5, 12, 5.5 ] },
+                "south": { "texture": "#spring", "uv": [ 4, 5, 12, 5.5 ] },
+                "west": { "texture": "#spring", "uv": [ 4, 5, 12, 5.5 ] },
+                "up": { "texture": "#spring", "uv": [ 5, 4, 6, 4 ] },
+                "down": { "texture": "#spring", "uv": [ 5, 4, 6, 4 ] }
+            }
+        },
+        {
+            "name": "Cube",
+            "from": [ 0.5, 7, 0.5 ], 
+            "to": [ 15.5, 8, 15.5 ], 
+            "faces": {
+                "north": { "texture": "#spring", "uv": [ 0.5, 3.5, 15.5, 4 ] },
+                "east": { "texture": "#spring", "uv": [ 0.5, 4, 15.5, 3.5 ] },
+                "south": { "texture": "#spring", "uv": [ 0.5, 4, 15.5, 3.5 ] },
+                "west": { "texture": "#spring", "uv": [ 0.5, 3.5, 15.5, 4 ] },
+                "down": { "texture": "#spring_top", "uv": [ 0, 0, 15, 15 ] }
+            }
+        },
+        {
+            "name": "Cube",
+            "from": [ 0, 7.5, 0 ], 
+            "to": [ 16, 10.5, 16 ], 
+            "faces": {
+                "north": { "texture": "#spring", "uv": [ 0, 0, 16, 3.5 ] },
+                "east": { "texture": "#spring", "uv": [ 0, 0, 16, 3.5 ] },
+                "south": { "texture": "#spring", "uv": [ 0, 0, 16, 3.5 ] },
+                "west": { "texture": "#spring", "uv": [ 0, 0, 16, 3.5 ] },
+                "up": { "texture": "#spring_top", "uv": [ 0, 0, 16, 16 ] },
+                "down": { "texture": "#spring_top", "uv": [ 0, 0, 16, 16 ] }
+            }
+        },
+        {
+            "name": "Cube",
+            "from": [ 2.5, 1, 2.5 ], 
+            "to": [ 13.5, 2, 13.5 ], 
+            "faces": {
+                "north": { "texture": "#spring", "uv": [ 3, 7.5, 13, 7 ] },
+                "east": { "texture": "#spring", "uv": [ 3, 7, 13, 7.5 ] },
+                "south": { "texture": "#spring", "uv": [ 3, 7, 13, 7.5 ] },
+                "west": { "texture": "#spring", "uv": [ 3, 7, 13, 7.5 ] },
+                "up": { "texture": "#spring", "uv": [ 5, 4.5, 6, 4 ] }
+            }
+        },
+        {
+            "name": "Cube",
+            "from": [ 2, 0, 2 ], 
+            "to": [ 14, 1, 14 ], 
+            "faces": {
+                "north": { "texture": "#spring", "uv": [ 2.5, 7.5, 13.5, 8 ] },
+                "east": { "texture": "#spring", "uv": [ 2.5, 7.5, 13.5, 8 ] },
+                "south": { "texture": "#spring", "uv": [ 2.5, 7.5, 13.5, 8 ] },
+                "west": { "texture": "#spring", "uv": [ 2.5, 7.5, 13.5, 8 ] },
+                "up": { "texture": "#spring", "uv": [ 5, 4.5, 6, 4 ] },
+                "down": { "texture": "#spring", "uv": [ 5, 4.5, 6, 4 ] }
+            }
+        }
+    ]
+}

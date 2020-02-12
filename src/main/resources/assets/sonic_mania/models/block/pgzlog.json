@@ -1,0 +1,9 @@
+{
+  "parent": "sonic_mania:custom/pgzlog2",
+  "textures": {
+    "all": "sonic_mania:blocks/pgz_log1",
+    "particle": "sonic_mania:blocks/pgz_log1",
+    "PGZbark_2": "sonic_mania:blocks/pgz_log1",
+    "PGZbark_a": "sonic_mania:blocks/pgzbark_a"
+  }
+}

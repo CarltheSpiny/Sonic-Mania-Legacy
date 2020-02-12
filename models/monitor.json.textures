@@ -1,0 +1,49 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "1-up": "1-up",
+        "based": "monitor_button",
+        "Monitor_front": "monitor_front",
+        "Monitor_color": "monitor_color"
+      },
+      "name": "default"
+    },
+    "ring": {
+      "map": {
+        "1-up": "10-rings",
+        "based": "monitor_button",
+        "Monitor_front": "monitor_front",
+        "Monitor_color": "monitor_color"
+      },
+      "name": "ring"
+    },
+    "speed": {
+      "map": {
+        "1-up": "speed-shoes",
+        "based": "monitor_button",
+        "Monitor_front": "monitor_front",
+        "Monitor_color": "monitor_color"
+      },
+      "name": "speed"
+    },
+    "shield": {
+      "map": {
+        "1-up": "shield",
+        "based": "monitor_button",
+        "Monitor_front": "monitor_front",
+        "Monitor_color": "monitor_color"
+      },
+      "name": "shield"
+    },
+    "invincibility": {
+      "map": {
+        "1-up": "invincibility",
+        "based": "monitor_button",
+        "Monitor_front": "monitor_front",
+        "Monitor_color": "monitor_color"
+      },
+      "name": "invincibility"
+    }
+  }
+}

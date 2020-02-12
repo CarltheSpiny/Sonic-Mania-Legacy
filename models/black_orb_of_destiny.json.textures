@@ -1,0 +1,11 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "brick": "brick",
+        "something from Hydrocity": "black_orb"
+      },
+      "name": "default"
+    }
+  }
+}

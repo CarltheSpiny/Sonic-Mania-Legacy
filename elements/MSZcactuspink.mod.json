@@ -1,0 +1,45 @@
+{
+  "_fv": 5,
+  "_type": "plant",
+  "definition": {
+    "renderType": 12,
+    "texture": "cactus_tall",
+    "customModelName": "Cross model",
+    "plantType": "growapable",
+    "growapableSpawnType": "Desert",
+    "growapableMaxHeight": 4,
+    "name": "Pink Flowering Cactus",
+    "creativeTab": {
+      "value": "CUSTOM:Sonictab"
+    },
+    "hardness": 0.01,
+    "resistance": 2.0,
+    "luminance": 0.0,
+    "unbreakable": false,
+    "soundOnStep": {
+      "value": "PLANT"
+    },
+    "customDrop": {
+      "value": "CUSTOM:MSZpinkflower"
+    },
+    "dropAmount": 1,
+    "isReplaceable": false,
+    "isFlammable": false,
+    "colorOnMap": "DEFAULT",
+    "creativePickItem": {
+      "value": ""
+    },
+    "frequencyOnChunks": 20,
+    "spawnWorldTypes": [
+      "Surface"
+    ],
+    "restrictionBiomes": [
+      {
+        "value": "desert"
+      }
+    ],
+    "onEntityCollides": {
+      "name": "MSZcactusMobplayerColidesBlock"
+    }
+  }
+}

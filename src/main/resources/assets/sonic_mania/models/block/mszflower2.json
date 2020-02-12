@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "sonic_mania:blocks/mszstainedstone2",
+    "up": "sonic_mania:blocks/mszstainedstone2",
+    "north": "sonic_mania:blocks/mszstainedstone2",
+    "east": "sonic_mania:blocks/mszstainedstone2",
+    "south": "sonic_mania:blocks/mszstainedstone2",
+    "west": "sonic_mania:blocks/mszstainedstone2",
+    "particle": "sonic_mania:blocks/mszstainedstone2"
+  }
+}

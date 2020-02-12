@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "sonic_mania:block/pgzpillar2body"
+    },
+    "facing=east": {
+      "model": "sonic_mania:block/pgzpillar2body",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "sonic_mania:block/pgzpillar2body",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "sonic_mania:block/pgzpillar2body",
+      "y": 270
+    }
+  }
+}

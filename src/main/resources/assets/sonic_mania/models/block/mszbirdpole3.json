@@ -1,0 +1,11 @@
+{
+  "parent": "sonic_mania:custom/beak_tip_final",
+  "textures": {
+    "all": "sonic_mania:blocks/birdpolek",
+    "particle": "sonic_mania:blocks/birdpolek",
+    "BIRDPOLEj - Copy": "sonic_mania:blocks/birdpolej-copy",
+    "BIRDPOLEl": "sonic_mania:blocks/birdpolel",
+    "BIRDPOLEj": "sonic_mania:blocks/birdpolejver4",
+    "BIRDPOLEj TOP": "sonic_mania:blocks/birdpolejtop"
+  }
+}

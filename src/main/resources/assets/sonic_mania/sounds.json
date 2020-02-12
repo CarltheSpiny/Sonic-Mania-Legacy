@@ -1,0 +1,317 @@
+{
+  "super_sonic": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "sonic_mania:glimmering_gift",
+        "stream": true
+      }
+    ]
+  },
+  "green_hill_act_1": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "sonic_mania:green_hill_zone_act_1_-_sonic_mania_ost",
+        "stream": true
+      }
+    ]
+  },
+  "studiopolis_zone_act_1": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "sonic_mania:studiopolis_zone_act_1_-_sonic_mania_ost",
+        "stream": true
+      }
+    ]
+  },
+  "chemical_plant_zone_act_1": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "sonic_mania:chemical_plant_zone_act_1_-_sonic_mania_ost",
+        "stream": true
+      }
+    ]
+  },
+  "chemical_plant_zone_act2": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "sonic_mania:chemical_plant_zone_act_2_-_sonic_mania_ost",
+        "stream": true
+      }
+    ]
+  },
+  "green_hill_act_2": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "sonic_mania:green_hill_zone_act_2_-_sonic_mania_ost",
+        "stream": true
+      }
+    ]
+  },
+  "studiopolis_zone_act_2": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "sonic_mania:sonic_mania_ost_-_studiopolis_act_2",
+        "stream": true
+      }
+    ]
+  },
+  "flying_battery_zone_act_1": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "sonic_mania:flying_battery_zone_act_1_-_sonic_mania_ost",
+        "stream": true
+      }
+    ]
+  },
+  "flying_battery_zone_act_2": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "sonic_mania:flying_battery_zone_act_2_-_sonic_mania_ost",
+        "stream": true
+      }
+    ]
+  },
+  "press_garden_zone_act_2": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "sonic_mania:sonic_mania_ost_-_press_garden_act_2",
+        "stream": true
+      }
+    ]
+  },
+  "press_garden_zone_act_1": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "sonic_mania:sonic_mania_ost_-_press_garden_zone_act_1",
+        "stream": true
+      }
+    ]
+  },
+  "stardust_speedway_zone_act_1": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "sonic_mania:stardust_speedway_zone_act_1_-_sonic_mania_ost",
+        "stream": true
+      }
+    ]
+  },
+  "stardust_speedway_zone_act_2": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "sonic_mania:stardust_speedway_zone_act_2_-_sonic_mania_ost",
+        "stream": true
+      }
+    ]
+  },
+  "hydrocity_zone_act_1": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "sonic_mania:hydrocity_zone_act_1_-_sonic_mania_ost",
+        "stream": true
+      }
+    ]
+  },
+  "hydrocity_zone_act_2": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "sonic_mania:hydrocity_zone_act_2_-_sonic_mania_ost",
+        "stream": true
+      }
+    ]
+  },
+  "mirage_saloon_zone_act_1_sonic": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "sonic_mania:mirage_saloon_zone_act_1_sonic_version_-_sonic_mania_ost",
+        "stream": true
+      }
+    ]
+  },
+  "mirage_saloon_zone_act_1_knuckles": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "sonic_mania:mirage_saloon_zone_act_1__knuckles_version_",
+        "stream": true
+      }
+    ]
+  },
+  "lava_reef_zone_act_1": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "sonic_mania:lava_reef_zone_act_1_-_sonic_mania_ost",
+        "stream": true
+      }
+    ]
+  },
+  "lava_reef_zone_act_2": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "sonic_mania:lava_reef_zone_act_2_-_sonic_mania_ost",
+        "stream": true
+      }
+    ]
+  },
+  "metallic_madness_zone_act_1": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "sonic_mania:metallic_madness_zone_act_1_-_sonic_mania_ost",
+        "stream": true
+      }
+    ]
+  },
+  "metallic_madness_act_2": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "sonic_mania:metallic_madness_zone_act_2_-_sonic_mania_ost",
+        "stream": true
+      }
+    ]
+  },
+  "titanic_monarch_zone_act_1": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "sonic_mania:titanic_monarch_zone_act_1_-_sonic_mania_ost",
+        "stream": true
+      }
+    ]
+  },
+  "titanic_monarch_zone_act_2": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "sonic_mania:titanic_monarch_zone_act_2_-_sonic_mania_ost",
+        "stream": true
+      }
+    ]
+  },
+  "oil_ocean_zone_act_1": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "sonic_mania:oil_ocean_zone_act_1_-_sonic_mania_ost",
+        "stream": true
+      }
+    ]
+  },
+  "oil_ocean_zone_act_2": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "sonic_mania:oil_ocean_zone_act_2_-_sonic_mania_ost",
+        "stream": true
+      }
+    ]
+  },
+  "metal_sonic": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "sonic_mania:metal_sonic",
+        "stream": true
+      }
+    ]
+  },
+  "extra_life": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "sonic_mania:sonic_mania_ost_-_extra_life",
+        "stream": true
+      }
+    ]
+  },
+  "speed_shoes": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "sonic_mania:sonic_mania_music_speed_shoes",
+        "stream": true
+      }
+    ]
+  },
+  "game_over": {
+    "category": "player",
+    "sounds": [
+      {
+        "name": "sonic_mania:game_over_-_sonic_mania_music",
+        "stream": false
+      }
+    ]
+  },
+  "act_clear": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "sonic_mania:act_clear_-_sonic_mania_ost",
+        "stream": true
+      }
+    ]
+  },
+  "star_post": {
+    "category": "player",
+    "sounds": [
+      {
+        "name": "sonic_mania:starpost",
+        "stream": false
+      }
+    ]
+  },
+  "destroy": {
+    "category": "block",
+    "sounds": [
+      {
+        "name": "sonic_mania:destroy",
+        "stream": false
+      }
+    ]
+  },
+  "ring": {
+    "category": "block",
+    "sounds": [
+      {
+        "name": "sonic_mania:ring",
+        "stream": false
+      }
+    ]
+  },
+  "ringo": {
+    "category": "block",
+    "sounds": [
+      {
+        "name": "sonic_mania:ringo",
+        "stream": false
+      }
+    ]
+  },
+  "invincibiliity": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "sonic_mania:invincibility_-_sonic_mania_ost",
+        "stream": true
+      }
+    ]
+  }
+}

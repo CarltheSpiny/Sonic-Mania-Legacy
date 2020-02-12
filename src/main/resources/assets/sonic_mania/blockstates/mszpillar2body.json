@@ -1,0 +1,28 @@
+{
+  "variants": {
+    "facing=south": {
+      "model": "sonic_mania:block/mszpillar2body"
+    },
+    "facing=north": {
+      "model": "sonic_mania:block/mszpillar2body"
+    },
+    "facing=east": {
+      "model": "sonic_mania:block/mszpillar2body",
+      "x": 90
+    },
+    "facing=west": {
+      "model": "sonic_mania:block/mszpillar2body",
+      "x": 90
+    },
+    "facing=up": {
+      "model": "sonic_mania:block/mszpillar2body",
+      "x": 90,
+      "y": 90
+    },
+    "facing=down": {
+      "model": "sonic_mania:block/mszpillar2body",
+      "x": 90,
+      "y": 90
+    }
+  }
+}

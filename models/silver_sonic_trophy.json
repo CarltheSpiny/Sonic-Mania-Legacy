@@ -1,0 +1,678 @@
+{
+    "__comment": "Model generated using MrCrayfish's Model Creator (https://mrcrayfish.com/tools?id=mc)",
+    "textures": {
+        "silver_sonic_trophy": "minecraft:blocks/silver_sonic_trophy",
+        "ring": "minecraft:blocks/ring",
+        "silver_sonic_trophy_2": "minecraft:blocks/silver_sonic_trophy_2"
+    },
+    "display": {
+        "gui": {
+            "rotation": [ 30, 45, 0 ],
+            "translation": [ 0, 0, 0 ],
+            "scale": [ 0.625, 0.625, 0.625 ]
+        },
+        "ground": {
+            "rotation": [ 0, 0, 0 ],
+            "translation": [ 0, 3, 0 ],
+            "scale": [ 0.25, 0.25, 0.25 ]
+        },
+        "fixed": {
+            "rotation": [ 0, 180, 0 ],
+            "translation": [ 0, 0, 0 ],
+            "scale": [ 1, 1, 1 ]
+        },
+        "head": {
+            "rotation": [ 0, 180, 0 ],
+            "translation": [ 0, 0, 0 ],
+            "scale": [ 1, 1, 1 ]
+        },
+        "firstperson_righthand": {
+            "rotation": [ 0, 315, 0 ],
+            "translation": [ 0, 2.5, 0 ],
+            "scale": [ 0.4, 0.4, 0.4 ]
+        },
+        "thirdperson_righthand": {
+            "rotation": [ 75, 315, 0 ],
+            "translation": [ 0, 2.5, 0 ],
+            "scale": [ 0.375, 0.375, 0.375 ]
+        }
+    },
+    "elements": [
+        {
+            "name": "Cube",
+            "from": [ 4, 0.5, 7.8 ], 
+            "to": [ 11.5, 1, 8.3 ], 
+            "faces": {
+                "north": { "texture": "#silver_sonic_trophy", "uv": [ 2.5, 15.5, 11.5, 16 ] },
+                "east": { "texture": "#silver_sonic_trophy_2", "uv": [ 0, 0, 0.5, 0.5 ] },
+                "south": { "texture": "#silver_sonic_trophy_2", "uv": [ 0, 0, 7.5, 0.5 ] },
+                "west": { "texture": "#silver_sonic_trophy_2", "uv": [ 0, 0, 0.5, 0.5 ] },
+                "up": { "texture": "#silver_sonic_trophy_2", "uv": [ 0, 0, 7.5, 0.5 ] }
+            }
+        },
+        {
+            "name": "Cube",
+            "from": [ 4.5, 1, 7.8 ], 
+            "to": [ 11.5, 1.5, 8.3 ], 
+            "faces": {
+                "north": { "texture": "#silver_sonic_trophy", "uv": [ 3, 15, 10.5, 15.5 ] },
+                "east": { "texture": "#silver_sonic_trophy_2", "uv": [ 0, 0, 0.5, 0.5 ] },
+                "south": { "texture": "#silver_sonic_trophy_2", "uv": [ 0, 0, 7, 4.5 ] },
+                "west": { "texture": "#silver_sonic_trophy_2", "uv": [ 0, 0, 0.5, 0.5 ] },
+                "up": { "texture": "#silver_sonic_trophy_2", "uv": [ 0, 0, 7, 0.5 ] }
+            }
+        },
+        {
+            "name": "Cube",
+            "from": [ 5.5, 1.5, 7.8 ], 
+            "to": [ 11, 2, 8.3 ], 
+            "faces": {
+                "north": { "texture": "#silver_sonic_trophy", "uv": [ 3.5, 14.5, 9, 15 ] },
+                "east": { "texture": "#silver_sonic_trophy_2", "uv": [ 0, 0, 0.5, 0.5 ] },
+                "south": { "texture": "#silver_sonic_trophy_2", "uv": [ 0, 0, 6.5, 0.5 ] },
+                "west": { "texture": "#silver_sonic_trophy_2", "uv": [ 0, 0, 0.5, 0.5 ] },
+                "up": { "texture": "#silver_sonic_trophy_2", "uv": [ 0, 0, 5.5, 0.5 ] }
+            }
+        },
+        {
+            "name": "Cube",
+            "from": [ 7, 2, 7.8 ], 
+            "to": [ 8, 13, 8.3 ], 
+            "faces": {
+                "north": { "texture": "#silver_sonic_trophy", "uv": [ 6.5, 1, 7.5, 14.5 ] },
+                "south": { "texture": "#silver_sonic_trophy_2", "uv": [ 0, 0, 1, 11 ] },
+                "west": { "texture": "#silver_sonic_trophy_2", "uv": [ 0, 0, 6.5, 12 ] },
+                "up": { "texture": "#silver_sonic_trophy_2", "uv": [ 0, 0, 4, 0.5 ] }
+            }
+        },
+        {
+            "name": "Cube",
+            "from": [ 9, 2, 7.8 ], 
+            "to": [ 10, 13.755, 8.3 ], 
+            "faces": {
+                "north": { "texture": "#silver_sonic_trophy", "uv": [ 4.5, 0, 5.5, 14.5 ] },
+                "east": { "texture": "#silver_sonic_trophy_2", "uv": [ 0, 0, 0.5, 11.755 ] },
+                "south": { "texture": "#silver_sonic_trophy_2", "uv": [ 0, 0, 1, 11.755 ] },
+                "west": { "texture": "#silver_sonic_trophy_2", "uv": [ 0, 0, 0.5, 11.755 ] },
+                "up": { "texture": "#silver_sonic_trophy_2", "uv": [ 0, 0, 1, 0.5 ] }
+            }
+        },
+        {
+            "name": "Cube",
+            "from": [ 8, 2, 7.8 ], 
+            "to": [ 9, 13.4, 8.3 ], 
+            "faces": {
+                "north": { "texture": "#silver_sonic_trophy", "uv": [ 5.5, 0.5, 6.5, 14.5 ] },
+                "south": { "texture": "#silver_sonic_trophy_2", "uv": [ 0, 0, 1, 11.4 ] },
+                "west": { "texture": "#silver_sonic_trophy_2", "uv": [ 0, 0, 0.5, 11.4 ] },
+                "up": { "texture": "#silver_sonic_trophy_2", "uv": [ 0, 0, 1, 0.5 ] }
+            }
+        },
+        {
+            "name": "Cube",
+            "from": [ 10, 7.3, 7.8 ], 
+            "to": [ 11.5, 13.75, 8.3 ], 
+            "faces": {
+                "north": { "texture": "#silver_sonic_trophy", "uv": [ 3, 0, 4.5, 8 ], "cullface": "north" },
+                "east": { "texture": "#silver_sonic_trophy_2", "uv": [ 0, 0, 0.5, 10.66 ] },
+                "south": { "texture": "#silver_sonic_trophy_2", "uv": [ 0, 0, 1.5, 6.45 ] },
+                "up": { "texture": "#silver_sonic_trophy_2", "uv": [ 0, 0, 1.5, 0.5 ] },
+                "down": { "texture": "#silver_sonic_trophy_2", "uv": [ 0, 0, 1.5, 0.5 ] }
+            }
+        },
+        {
+            "name": "Cube",
+            "from": [ 6.5, 4.03, 7.8 ], 
+            "to": [ 7, 13, 8.3 ], 
+            "faces": {
+                "north": { "texture": "#silver_sonic_trophy", "uv": [ 7.5, 1, 8, 12 ] },
+                "south": { "texture": "#silver_sonic_trophy_2", "uv": [ 0, 0, 2.5, 9 ] },
+                "west": { "texture": "#silver_sonic_trophy_2", "uv": [ 0, 0, 0.5, 9 ] },
+                "up": { "texture": "#silver_sonic_trophy_2", "uv": [ 0, 0, 0.5, 0.5 ] },
+                "down": { "texture": "#silver_sonic_trophy_2", "uv": [ 0, 0, 7.5, 0.5 ] }
+            }
+        },
+        {
+            "name": "Cube",
+            "from": [ 6, 3.55, 7.8 ], 
+            "to": [ 6.5, 6.45, 8.3 ], 
+            "faces": {
+                "north": { "texture": "#silver_sonic_trophy", "uv": [ 8, 9, 8.5, 12.5 ] },
+                "east": { "texture": "#silver_sonic_trophy_2", "uv": [ 0, 0, 0.5, 2.9 ] },
+                "south": { "texture": "#silver_sonic_trophy_2", "uv": [ 0, 0, 0.5, 2.9 ] },
+                "west": { "texture": "#silver_sonic_trophy_2", "uv": [ 0, 0, 0.5, 2.9 ] },
+                "up": { "texture": "#silver_sonic_trophy_2", "uv": [ 0, 0, 0.5, 0.5 ] },
+                "down": { "texture": "#silver_sonic_trophy_2", "uv": [ 0, 0, 0.5, 0.5 ] }
+            }
+        },
+        {
+            "name": "Cube",
+            "from": [ 6, 6.88, 7.8 ], 
+            "to": [ 6.5, 12.59, 8.3 ], 
+            "faces": {
+                "north": { "texture": "#silver_sonic_trophy", "uv": [ 8, 1.5, 8.5, 8.5 ] },
+                "south": { "texture": "#silver_sonic_trophy_2", "uv": [ 0, 0, 0.5, 5.71 ] },
+                "up": { "texture": "#silver_sonic_trophy_2", "uv": [ 0, 0, 0.5, 0.5 ] },
+                "down": { "texture": "#silver_sonic_trophy_2", "uv": [ 0, 0, 0.5, 0.5 ] }
+            }
+        },
+        {
+            "name": "Cube",
+            "from": [ 5.5, 6.88, 7.8 ], 
+            "to": [ 6, 12.59, 8.3 ], 
+            "faces": {
+                "north": { "texture": "#silver_sonic_trophy", "uv": [ 8.5, 1.5, 9, 8.5 ] },
+                "south": { "texture": "#silver_sonic_trophy_2", "uv": [ 0, 0, 0.5, 5.71 ] },
+                "west": { "texture": "#silver_sonic_trophy_2", "uv": [ 0, 0, 0.5, 5.8 ] },
+                "up": { "texture": "#silver_sonic_trophy_2", "uv": [ 0, 0, 2.5, 0.5 ] },
+                "down": { "texture": "#silver_sonic_trophy_2", "uv": [ 0, 0, 0.5, 0.5 ] }
+            }
+        },
+        {
+            "name": "Cube",
+            "from": [ 7.5, 13, 7.8 ], 
+            "to": [ 8, 13.4, 8.3 ], 
+            "faces": {
+                "north": { "texture": "#silver_sonic_trophy", "uv": [ 6, 0.5, 6.5, 0.9 ] },
+                "south": { "texture": "#silver_sonic_trophy_2", "uv": [ 0, 0, 0.5, 0.4 ] },
+                "west": { "texture": "#silver_sonic_trophy_2", "uv": [ 0, 0, 0.5, 0.4 ] },
+                "up": { "texture": "#silver_sonic_trophy_2", "uv": [ 0, 0, 0.5, 0.5 ] }
+            }
+        },
+        {
+            "name": "Cube",
+            "from": [ 5, 6.88, 7.8 ], 
+            "to": [ 5.5, 12.19, 8.3 ], 
+            "faces": {
+                "north": { "texture": "#silver_sonic_trophy", "uv": [ 9.5, 2, 9, 8.5 ] },
+                "south": { "texture": "#silver_sonic_trophy_2", "uv": [ 0, 0, 2.5, 5.35 ] },
+                "west": { "texture": "#silver_sonic_trophy_2", "uv": [ 0, 0, 0.5, 5.35 ] },
+                "up": { "texture": "#silver_sonic_trophy_2", "uv": [ 0, 0, 0.5, 0.5 ] },
+                "down": { "texture": "#silver_sonic_trophy_2", "uv": [ 0, 0, 0.5, 0.5 ] }
+            }
+        },
+        {
+            "name": "Cube",
+            "from": [ 4.5, 7.29, 7.8 ], 
+            "to": [ 5, 11.37, 8.3 ], 
+            "faces": {
+                "north": { "texture": "#silver_sonic_trophy", "uv": [ 9.5, 3, 10, 8 ] },
+                "south": { "texture": "#silver_sonic_trophy_2", "uv": [ 0, 0, 0.5, 4.08 ] },
+                "west": { "texture": "#silver_sonic_trophy_2", "uv": [ 0, 0, 0.5, 4.12 ] },
+                "up": { "texture": "#silver_sonic_trophy_2", "uv": [ 0, 0, 0.5, 0.5 ] },
+                "down": { "texture": "#silver_sonic_trophy_2", "uv": [ 0, 0, 0.5, 0.5 ] }
+            }
+        },
+        {
+            "name": "Cube",
+            "from": [ 4, 9.74, 7.8 ], 
+            "to": [ 4.5, 10.56, 8.3 ], 
+            "faces": {
+                "north": { "texture": "#silver_sonic_trophy", "uv": [ 10, 4, 10, 5 ] },
+                "south": { "texture": "#silver_sonic_trophy_2", "uv": [ 0, 0, 0.5, 0.85 ] },
+                "west": { "texture": "#silver_sonic_trophy_2", "uv": [ 0, 0, 0.5, 0.85 ] },
+                "up": { "texture": "#silver_sonic_trophy_2", "uv": [ 0, 0, 0.5, 0.5 ] },
+                "down": { "texture": "#silver_sonic_trophy_2", "uv": [ 0, 0, 0.5, 0.5 ] }
+            }
+        },
+        {
+            "name": "Cube",
+            "from": [ 4, 7.7, 7.8 ], 
+            "to": [ 4.5, 9.33, 8.3 ], 
+            "faces": {
+                "north": { "texture": "#silver_sonic_trophy", "uv": [ 10, 5.5, 10.5, 7.5 ] },
+                "south": { "texture": "#silver_sonic_trophy_2", "uv": [ 0, 0, 1.5, 1.68 ] },
+                "west": { "texture": "#silver_sonic_trophy_2", "uv": [ 0, 0, 0.5, 1.68 ] },
+                "up": { "texture": "#silver_sonic_trophy_2", "uv": [ 0, 0, 0.5, 0.5 ] },
+                "down": { "texture": "#silver_sonic_trophy_2", "uv": [ 0, 0, 0.5, 0.5 ] }
+            }
+        },
+        {
+            "name": "Cube",
+            "from": [ 3.6, 8.1, 7.8 ], 
+            "to": [ 4.01, 8.51, 8.3 ], 
+            "faces": {
+                "north": { "texture": "#silver_sonic_trophy", "uv": [ 10.5, 6.5, 10.91, 6.91 ] },
+                "south": { "texture": "#silver_sonic_trophy_2", "uv": [ 0, 0, 1.5, 0.5 ] },
+                "west": { "texture": "#silver_sonic_trophy_2", "uv": [ 0, 0, 5.5, 0.5 ] },
+                "up": { "texture": "#silver_sonic_trophy_2", "uv": [ 0, 0, 5.5, 0.5 ] },
+                "down": { "texture": "#silver_sonic_trophy_2", "uv": [ 0, 0, 3.5, 0.5 ] }
+            }
+        },
+        {
+            "name": "Cube",
+            "from": [ 5.5, 3.55, 7.8 ], 
+            "to": [ 6, 6.05, 8.3 ], 
+            "faces": {
+                "north": { "texture": "#silver_sonic_trophy", "uv": [ 8.5, 10, 9, 13 ] },
+                "south": { "texture": "#silver_sonic_trophy_2", "uv": [ 0, 0, 1.5, 2.4 ] },
+                "west": { "texture": "#silver_sonic_trophy_2", "uv": [ 0, 0, 0.5, 2.4 ] },
+                "up": { "texture": "#silver_sonic_trophy_2", "uv": [ 0, 0, 0.5, 2.5 ] },
+                "down": { "texture": "#silver_sonic_trophy_2", "uv": [ 0, 0, 0.5, 0.5 ] }
+            }
+        },
+        {
+            "name": "Cube",
+            "from": [ 5, 3.55, 7.8 ], 
+            "to": [ 5.5, 4.39, 8.3 ], 
+            "faces": {
+                "north": { "texture": "#silver_sonic_trophy", "uv": [ 9, 12, 9.5, 13 ] },
+                "south": { "texture": "#silver_sonic_trophy_2", "uv": [ 0, 0, 1.5, 0.8 ] },
+                "west": { "texture": "#silver_sonic_trophy_2", "uv": [ 0, 0, 6.5, 0.8 ] },
+                "up": { "texture": "#silver_sonic_trophy_2", "uv": [ 0, 0, 0.5, 0.5 ] },
+                "down": { "texture": "#silver_sonic_trophy_2", "uv": [ 0, 0, 0.5, 0.5 ] }
+            }
+        },
+        {
+            "name": "Cube",
+            "from": [ 5, 5.23, 7.8 ], 
+            "to": [ 5.5, 6.05, 8.3 ], 
+            "faces": {
+                "north": { "texture": "#silver_sonic_trophy", "uv": [ 9, 10, 9.5, 11 ] },
+                "east": { "texture": "#silver_sonic_trophy_2", "uv": [ 0, 0, 0.5, 0.79 ] },
+                "south": { "texture": "#silver_sonic_trophy_2", "uv": [ 0, 0, 4.5, 1.8 ] },
+                "west": { "texture": "#silver_sonic_trophy_2", "uv": [ 0, 0, 0.5, 0.79 ] },
+                "up": { "texture": "#silver_sonic_trophy_2", "uv": [ 0, 0, 0.5, 0.5 ] },
+                "down": { "texture": "#silver_sonic_trophy_2", "uv": [ 0, 0, 0.5, 0.5 ] }
+            }
+        },
+        {
+            "name": "Cube",
+            "from": [ 4.5, 4.85, 7.8 ], 
+            "to": [ 5, 6.05, 8.3 ], 
+            "faces": {
+                "north": { "texture": "#silver_sonic_trophy", "uv": [ 10, 10.5, 10.5, 12 ] },
+                "east": { "texture": "#silver_sonic_trophy_2", "uv": [ 0, 0, 0.5, 1.1 ] },
+                "south": { "texture": "#silver_sonic_trophy_2", "uv": [ 0, 0, 0.5, 1.1 ] },
+                "west": { "texture": "#silver_sonic_trophy_2", "uv": [ 0, 0, 7.5, 1 ] },
+                "up": { "texture": "#silver_sonic_trophy_2", "uv": [ 0, 0, 0.5, 0.5 ] },
+                "down": { "texture": "#silver_sonic_trophy_2", "uv": [ 0, 0, 0.5, 0.5 ] }
+            }
+        },
+        {
+            "name": "Cube",
+            "from": [ 4, 4.55, 7.8 ], 
+            "to": [ 4.5, 5.65, 8.3 ], 
+            "faces": {
+                "north": { "texture": "#silver_sonic_trophy", "uv": [ 10, 10.5, 10.5, 12 ] },
+                "east": { "texture": "#silver_sonic_trophy_2", "uv": [ 0, 0, 0.5, 1.1 ] },
+                "south": { "texture": "#silver_sonic_trophy_2", "uv": [ 0, 0, 0.5, 1.1 ] },
+                "west": { "texture": "#silver_sonic_trophy_2", "uv": [ 0, 0, 0.5, 1.1 ] },
+                "up": { "texture": "#silver_sonic_trophy_2", "uv": [ 0, 0, 0.5, 0.5 ] },
+                "down": { "texture": "#silver_sonic_trophy_2", "uv": [ 0, 0, 0.5, 0.5 ] }
+            }
+        },
+        {
+            "name": "Cube",
+            "from": [ 3.6, 4.55, 7.8 ], 
+            "to": [ 4, 5.28, 8.3 ], 
+            "faces": {
+                "north": { "texture": "#silver_sonic_trophy", "uv": [ 10.5, 11, 11, 12 ] },
+                "south": { "texture": "#silver_sonic_trophy_2", "uv": [ 0, 0, 0.4, 0.73 ] },
+                "west": { "texture": "#silver_sonic_trophy_2", "uv": [ 0, 0, 0.5, 0.75 ] },
+                "up": { "texture": "#silver_sonic_trophy_2", "uv": [ 0, 0, 0.5, 0.5 ] },
+                "down": { "texture": "#silver_sonic_trophy_2", "uv": [ 0, 0, 0.5, 0.5 ] }
+            }
+        },
+        {
+            "name": "Cube",
+            "from": [ 11.5, 7.3, 7.8 ], 
+            "to": [ 12, 12.15, 8.3 ], 
+            "faces": {
+                "north": { "texture": "#silver_sonic_trophy", "uv": [ 3, 2, 2.5, 7.9 ] },
+                "east": { "texture": "#silver_sonic_trophy_2", "uv": [ 0, 0, 0.5, 6.56 ] },
+                "south": { "texture": "#silver_sonic_trophy_2", "uv": [ 0, 0, 4.5, 7.56 ] },
+                "up": { "texture": "#silver_sonic_trophy_2", "uv": [ 0, 0, 0.5, 0.5 ] },
+                "down": { "texture": "#silver_sonic_trophy_2", "uv": [ 0, 0, 0.5, 0.5 ] }
+            }
+        },
+        {
+            "name": "Cube",
+            "from": [ 12, 12.92, 7.8 ], 
+            "to": [ 13, 13.35, 8.3 ], 
+            "faces": {
+                "north": { "texture": "#silver_sonic_trophy", "uv": [ 1.5, 0.5, 2.5, 0.9 ] },
+                "east": { "texture": "#silver_sonic_trophy_2", "uv": [ 0, 0, 0.5, 0.4 ] },
+                "south": { "texture": "#silver_sonic_trophy_2", "uv": [ 0, 0, 1, 0.4 ] },
+                "up": { "texture": "#silver_sonic_trophy_2", "uv": [ 0, 0, 6, 0.5 ] },
+                "down": { "texture": "#silver_sonic_trophy_2", "uv": [ 0, 0, 1, 0.5 ] }
+            }
+        },
+        {
+            "name": "Cube",
+            "from": [ 12, 7.3, 7.8 ], 
+            "to": [ 12.5, 9.64, 8.3 ], 
+            "faces": {
+                "north": { "texture": "#silver_sonic_trophy", "uv": [ 2, 5, 2.5, 8 ] },
+                "east": { "texture": "#silver_sonic_trophy_2", "uv": [ 0, 0, 0.5, 0.8 ] },
+                "south": { "texture": "#silver_sonic_trophy_2", "uv": [ 0, 0, 0.5, 0.8 ] },
+                "up": { "texture": "#silver_sonic_trophy_2", "uv": [ 0, 0, 0.5, 0.5 ] },
+                "down": { "texture": "#silver_sonic_trophy_2", "uv": [ 0, 0, 0.5, 0.5 ] }
+            }
+        },
+        {
+            "name": "Cube",
+            "from": [ 13, 7.3, 7.8 ], 
+            "to": [ 13.5, 8.1, 8.3 ], 
+            "faces": {
+                "north": { "texture": "#silver_sonic_trophy", "uv": [ 2, 6, 2.5, 5 ] },
+                "east": { "texture": "#silver_sonic_trophy_2", "uv": [ 0, 0, 7.5, 3.86 ] },
+                "south": { "texture": "#silver_sonic_trophy_2", "uv": [ 0, 0, 0.5, 0.86 ] },
+                "up": { "texture": "#silver_sonic_trophy_2", "uv": [ 0, 0, 0.5, 0.5 ] },
+                "down": { "texture": "#silver_sonic_trophy_2", "uv": [ 0, 0, 0.5, 0.5 ] }
+            }
+        },
+        {
+            "name": "Cube",
+            "from": [ 12, 10.1, 7.8 ], 
+            "to": [ 13, 11.74, 8.3 ], 
+            "faces": {
+                "north": { "texture": "#silver_sonic_trophy", "uv": [ 1.5, 2.5, 2.5, 4.5 ] },
+                "east": { "texture": "#silver_sonic_trophy_2", "uv": [ 0, 0, 0.5, 1.7 ] },
+                "south": { "texture": "#silver_sonic_trophy_2", "uv": [ 0, 0, 1, 1.7 ] },
+                "up": { "texture": "#silver_sonic_trophy_2", "uv": [ 0, 0, 1, 0.5 ] },
+                "down": { "texture": "#silver_sonic_trophy_2", "uv": [ 0, 0, 7, 0.5 ] }
+            }
+        },
+        {
+            "name": "Cube",
+            "from": [ 13, 10.1, 7.8 ], 
+            "to": [ 13.5, 11.37, 8.3 ], 
+            "faces": {
+                "north": { "texture": "#silver_sonic_trophy", "uv": [ 1, 3, 1.5, 4.5 ] },
+                "east": { "texture": "#silver_sonic_trophy_2", "uv": [ 0, 0, 0.5, 1.35 ] },
+                "south": { "texture": "#silver_sonic_trophy_2", "uv": [ 0, 0, 0.5, 1.35 ] },
+                "up": { "texture": "#silver_sonic_trophy_2", "uv": [ 0, 0, 1.5, 0.5 ] },
+                "down": { "texture": "#silver_sonic_trophy_2", "uv": [ 0, 0, 0.5, 0.5 ] }
+            }
+        },
+        {
+            "name": "Cube",
+            "from": [ 14, 10.1, 7.8 ], 
+            "to": [ 14.4, 10.52, 8.3 ], 
+            "faces": {
+                "north": { "texture": "#silver_sonic_trophy", "uv": [ 0, 4, 0.4, 4.42 ] },
+                "east": { "texture": "#silver_sonic_trophy_2", "uv": [ 0, 0, 0.5, 0.5 ] },
+                "south": { "texture": "#silver_sonic_trophy_2", "uv": [ 0, 0, 0.4, 0.42 ] },
+                "up": { "texture": "#silver_sonic_trophy_2", "uv": [ 0, 0, 3.5, 0.5 ] },
+                "down": { "texture": "#silver_sonic_trophy_2", "uv": [ 0, 0, 0.5, 0.5 ] }
+            }
+        },
+        {
+            "name": "Cube",
+            "from": [ 13.5, 10.1, 7.8 ], 
+            "to": [ 14, 10.94, 8.3 ], 
+            "faces": {
+                "north": { "texture": "#silver_sonic_trophy", "uv": [ 1, 3.5, 0.5, 4.5 ] },
+                "east": { "texture": "#silver_sonic_trophy_2", "uv": [ 0, 0, 0.5, 0.9 ] },
+                "south": { "texture": "#silver_sonic_trophy_2", "uv": [ 0, 0, 0.5, 0.9 ] },
+                "up": { "texture": "#silver_sonic_trophy_2", "uv": [ 0, 0, 0.5, 0.5 ] },
+                "down": { "texture": "#silver_sonic_trophy_2", "uv": [ 0, 0, 0.5, 0.5 ] }
+            }
+        },
+        {
+            "name": "Cube",
+            "from": [ 5, 0, 0 ], 
+            "to": [ 11, 0.5, 3 ], 
+            "faces": {
+                "north": { "texture": "#ring", "uv": [ 5, 0, 11, 0.5 ] },
+                "east": { "texture": "#ring", "uv": [ 10, 0, 11, 1 ] },
+                "south": { "texture": "#ring", "uv": [ 5, 2, 11, 2.5 ] },
+                "west": { "texture": "#ring", "uv": [ 5, 1, 6, 0 ] },
+                "up": { "texture": "#ring", "uv": [ 5, 0, 11, 3 ] },
+                "down": { "texture": "#ring", "uv": [ 5, 13, 11, 16 ] }
+            }
+        },
+        {
+            "name": "Cube",
+            "from": [ 3, 0, 1 ], 
+            "to": [ 6, 0.5, 4 ], 
+            "faces": {
+                "north": { "texture": "#ring", "uv": [ 1, 4, 4, 4.5 ] },
+                "east": { "texture": "#ring", "uv": [ 6, 2, 9, 2.5 ] },
+                "south": { "texture": "#ring", "uv": [ 3, 3, 6, 3.5 ] },
+                "up": { "texture": "#ring", "uv": [ 3, 1, 6, 4 ] },
+                "down": { "texture": "#ring", "uv": [ 3, 12, 6, 15 ] }
+            }
+        },
+        {
+            "name": "Cube",
+            "from": [ 2, 0, 2 ], 
+            "to": [ 4, 0.5, 6 ], 
+            "faces": {
+                "north": { "texture": "#ring", "uv": [ 12, 2, 14, 2.5 ] },
+                "east": { "texture": "#ring", "uv": [ 3, 13, 7, 13.5 ] },
+                "south": { "texture": "#ring", "uv": [ 2, 5, 4, 5.5 ] },
+                "west": { "texture": "#ring", "uv": [ 2, 8, 6, 8.5 ] },
+                "up": { "texture": "#ring", "uv": [ 2, 2, 4, 6 ] },
+                "down": { "texture": "#ring", "uv": [ 2, 10, 4, 14 ] }
+            }
+        },
+        {
+            "name": "Cube",
+            "from": [ 1, 0, 3 ], 
+            "to": [ 3, 0.5, 13 ], 
+            "faces": {
+                "north": { "texture": "#ring", "uv": [ 1, 2, 3, 2.5 ] },
+                "east": { "texture": "#ring", "uv": [ 9, 0, 11.5, 1 ] },
+                "south": { "texture": "#ring", "uv": [ 1, 12, 3, 12.5 ] },
+                "west": { "texture": "#ring", "uv": [ 9, 14, 11, 15 ] },
+                "up": { "texture": "#ring", "uv": [ 1, 3, 3, 13 ] },
+                "down": { "texture": "#ring", "uv": [ 1, 3, 3, 13 ] }
+            }
+        },
+        {
+            "name": "Cube",
+            "from": [ 0, 0, 5 ], 
+            "to": [ 1, 0.5, 11 ], 
+            "faces": {
+                "north": { "texture": "#ring", "uv": [ 0, 6, 1, 6.5 ] },
+                "south": { "texture": "#ring", "uv": [ 0, 5, 1, 5.5 ] },
+                "west": { "texture": "#ring", "uv": [ 0, 6, 6, 6.5 ] },
+                "up": { "texture": "#ring", "uv": [ 0, 5, 1, 11 ] },
+                "down": { "texture": "#ring", "uv": [ 0, 5, 1, 11 ] }
+            }
+        },
+        {
+            "name": "Cube",
+            "from": [ 15, 0, 5 ], 
+            "to": [ 16, 0.5, 11 ], 
+            "faces": {
+                "north": { "texture": "#ring", "uv": [ 0, 5, 1, 5.5 ] },
+                "east": { "texture": "#ring", "uv": [ 15, 7, 16, 7.5 ] },
+                "south": { "texture": "#ring", "uv": [ 0, 8, 1, 8.5 ] },
+                "up": { "texture": "#ring", "uv": [ 0, 5, 1, 11 ] },
+                "down": { "texture": "#ring", "uv": [ 0, 5, 1, 11 ] }
+            }
+        },
+        {
+            "name": "Cube",
+            "from": [ 13, 0, 3 ], 
+            "to": [ 15, 0.5, 13 ], 
+            "faces": {
+                "north": { "texture": "#ring", "uv": [ 1, 4, 3, 4.5 ] },
+                "east": { "texture": "#ring", "uv": [ 13, 14, 14, 13.5 ] },
+                "south": { "texture": "#ring", "uv": [ 13, 12, 15, 12.5 ] },
+                "west": { "texture": "#ring", "uv": [ 15, 5, 13.34, 4 ], "cullface": "west" },
+                "up": { "texture": "#ring", "uv": [ 13, 3, 15, 13 ] },
+                "down": { "texture": "#ring", "uv": [ 13, 3, 15, 13 ] }
+            }
+        },
+        {
+            "name": "Cube",
+            "from": [ 12, 0, 2 ], 
+            "to": [ 14, 0.5, 6 ], 
+            "faces": {
+                "north": { "texture": "#ring", "uv": [ 12, 1, 14, 1.5 ] },
+                "east": { "texture": "#ring", "uv": [ 10, 2, 14, 2.5 ] },
+                "south": { "texture": "#ring", "uv": [ 12, 5, 14, 5.5 ] },
+                "west": { "texture": "#ring", "uv": [ 12, 10, 16, 10.5 ] },
+                "up": { "texture": "#ring", "uv": [ 12, 2, 14, 6 ] },
+                "down": { "texture": "#ring", "uv": [ 12, 10, 14, 14 ] }
+            }
+        },
+        {
+            "name": "Cube",
+            "from": [ 10, 0, 1 ], 
+            "to": [ 13, 0.5, 4 ], 
+            "faces": {
+                "north": { "texture": "#ring", "uv": [ 12, 4, 15, 4.5 ] },
+                "east": { "texture": "#ring", "uv": [ 10, 1, 13, 1.5 ] },
+                "south": { "texture": "#ring", "uv": [ 10, 3, 13, 3.5 ] },
+                "west": { "texture": "#ring", "uv": [ 6, 2, 9, 2.5 ] },
+                "up": { "texture": "#ring", "uv": [ 10, 1, 13, 4 ] },
+                "down": { "texture": "#ring", "uv": [ 10, 12, 13, 15 ] }
+            }
+        },
+        {
+            "name": "Cube",
+            "from": [ 10, 0, 12 ], 
+            "to": [ 13, 0.5, 15 ], 
+            "faces": {
+                "north": { "texture": "#ring", "uv": [ 1, 4, 4, 4.5 ] },
+                "east": { "texture": "#ring", "uv": [ 3, 14, 6, 14.5 ] },
+                "south": { "texture": "#ring", "uv": [ 10, 14, 13, 14.5 ] },
+                "west": { "texture": "#ring", "uv": [ 1, 5, 4, 5.5 ] },
+                "up": { "texture": "#ring", "uv": [ 10, 12, 13, 15 ] },
+                "down": { "texture": "#ring", "uv": [ 10, 1, 13, 4 ] }
+            }
+        },
+        {
+            "name": "Cube",
+            "from": [ 3, 0, 12 ], 
+            "to": [ 6, 0.5, 15 ], 
+            "faces": {
+                "north": { "texture": "#ring", "uv": [ 3, 12, 6, 12.5 ] },
+                "east": { "texture": "#ring", "uv": [ 0, 5, 3, 5.5 ] },
+                "south": { "texture": "#ring", "uv": [ 3, 14, 6, 14.5 ] },
+                "west": { "texture": "#ring", "uv": [ 0, 13, 3, 13.5 ] },
+                "up": { "texture": "#ring", "uv": [ 3, 12, 6, 15 ] },
+                "down": { "texture": "#ring", "uv": [ 3, 1, 6, 4 ] }
+            }
+        },
+        {
+            "name": "Cube",
+            "from": [ 5, 0, 13 ], 
+            "to": [ 11, 0.5, 16 ], 
+            "faces": {
+                "north": { "texture": "#ring", "uv": [ 5, 13, 11, 13.5 ] },
+                "east": { "texture": "#ring", "uv": [ 5, 15, 8, 15.5 ] },
+                "south": { "texture": "#ring", "uv": [ 5, 15, 11, 15.5 ] },
+                "west": { "texture": "#ring", "uv": [ 5, 16, 11, 15.5 ] },
+                "up": { "texture": "#ring", "uv": [ 5, 13, 11, 16 ] },
+                "down": { "texture": "#ring", "uv": [ 5, 0, 11, 3 ] }
+            }
+        },
+        {
+            "name": "Cube",
+            "from": [ 12, 0, 10 ], 
+            "to": [ 14, 0.5, 14 ], 
+            "faces": {
+                "north": { "texture": "#ring", "uv": [ 2, 1, 4, 1.5 ] },
+                "east": { "texture": "#ring", "uv": [ 13, 13, 16, 13.5 ] },
+                "south": { "texture": "#ring", "uv": [ 3, 14, 5, 14.5 ] },
+                "west": { "texture": "#ring", "uv": [ 1, 4, 5, 4.5 ] },
+                "up": { "texture": "#ring", "uv": [ 12, 10, 14, 14 ] },
+                "down": { "texture": "#ring", "uv": [ 12, 2, 14, 6 ] }
+            }
+        },
+        {
+            "name": "Cube",
+            "from": [ 2, 0, 10 ], 
+            "to": [ 4, 0.5, 14 ], 
+            "faces": {
+                "north": { "texture": "#ring", "uv": [ 1, 10, 3, 10.5 ] },
+                "east": { "texture": "#ring", "uv": [ 0, 10, 4, 10.5 ] },
+                "south": { "texture": "#ring", "uv": [ 2, 13, 4, 13.5 ] },
+                "west": { "texture": "#ring", "uv": [ 6, 15, 10, 15.5 ] },
+                "up": { "texture": "#ring", "uv": [ 2, 10, 4, 14 ] },
+                "down": { "texture": "#ring", "uv": [ 2, 2, 4, 6 ] }
+            }
+        },
+        {
+            "name": "Cube",
+            "from": [ 4, 0, 4 ], 
+            "to": [ 12, 0.5, 12 ], 
+            "faces": {
+                "north": { "texture": "#ring", "uv": [ 4, 7, 12, 7.5 ] },
+                "east": { "texture": "#ring", "uv": [ 4, 7, 12, 7.5 ] },
+                "south": { "texture": "#ring", "uv": [ 4, 7, 12, 7.5 ] },
+                "west": { "texture": "#ring", "uv": [ 4, 6, 12, 6.5 ] },
+                "up": { "texture": "#ring", "uv": [ 4, 4, 12, 12 ] },
+                "down": { "texture": "#ring", "uv": [ 4, 4, 12, 12 ] }
+            }
+        },
+        {
+            "name": "Cube",
+            "from": [ 10, 3.18, 7.8 ], 
+            "to": [ 10.5, 7.28, 8.3 ], 
+            "faces": {
+                "north": { "texture": "#silver_sonic_trophy", "uv": [ 4, 8, 4.5, 13 ], "cullface": "north" },
+                "east": { "texture": "#silver_sonic_trophy_2", "uv": [ 0, 0, 0.5, 10.66 ] },
+                "south": { "texture": "#silver_sonic_trophy_2", "uv": [ 0, 0, 0.5, 4.1 ] },
+                "up": { "texture": "#silver_sonic_trophy_2", "uv": [ 0, 0, 1.5, 0.5 ] },
+                "down": { "texture": "#silver_sonic_trophy_2", "uv": [ 0, 0, 1.5, 0.5 ] }
+            }
+        },
+        {
+            "name": "Cube",
+            "from": [ 11.5, 12.53, 7.8 ], 
+            "to": [ 12, 13.75, 8.3 ], 
+            "faces": {
+                "north": { "texture": "#silver_sonic_trophy", "uv": [ 3, 0, 2.5, 1.5 ] },
+                "east": { "texture": "#silver_sonic_trophy_2", "uv": [ 0, 0, 0.5, 6.56 ] },
+                "south": { "texture": "#silver_sonic_trophy_2", "uv": [ 0, 0, 4.5, 7.56 ] },
+                "up": { "texture": "#silver_sonic_trophy_2", "uv": [ 0, 0, 0.5, 0.5 ] },
+                "down": { "texture": "#silver_sonic_trophy_2", "uv": [ 0, 0, 0.5, 0.5 ] }
+            }
+        },
+        {
+            "name": "Cube",
+            "from": [ 12.5, 7.3, 7.8 ], 
+            "to": [ 13, 8.89, 8.3 ], 
+            "faces": {
+                "north": { "texture": "#silver_sonic_trophy", "uv": [ 1.5, 6, 2, 8 ] },
+                "east": { "texture": "#silver_sonic_trophy_2", "uv": [ 0, 0, 0.5, 0.8 ] },
+                "south": { "texture": "#silver_sonic_trophy_2", "uv": [ 0, 0, 0.5, 0.8 ] },
+                "up": { "texture": "#silver_sonic_trophy_2", "uv": [ 0, 0, 0.5, 0.5 ] },
+                "down": { "texture": "#silver_sonic_trophy_2", "uv": [ 0, 0, 0.5, 0.5 ] }
+            }
+        },
+        {
+            "name": "Cube",
+            "from": [ 10.5, 3.6, 7.8 ], 
+            "to": [ 11, 6.87, 8.3 ], 
+            "faces": {
+                "north": { "texture": "#silver_sonic_trophy", "uv": [ 4, 8.5, 3.5, 12.5 ] },
+                "east": { "texture": "#silver_sonic_trophy_2", "uv": [ 0, 0, 0.5, 3.27 ] },
+                "south": { "texture": "#silver_sonic_trophy_2", "uv": [ 0, 0, 0.5, 3.27 ] },
+                "up": { "texture": "#silver_sonic_trophy_2", "uv": [ 0, 0, 0.5, 0.5 ] },
+                "down": { "texture": "#silver_sonic_trophy_2", "uv": [ 0, 0, 0.5, 0.5 ] }
+            }
+        },
+        {
+            "name": "Cube",
+            "from": [ 11, 4.008, 7.8 ], 
+            "to": [ 11.5, 6.458, 8.3 ], 
+            "faces": {
+                "north": { "texture": "#silver_sonic_trophy", "uv": [ 3, 9, 3.5, 12 ] },
+                "east": { "texture": "#silver_sonic_trophy_2", "uv": [ 0, 0, 0.5, 2.45 ] },
+                "south": { "texture": "#silver_sonic_trophy_2", "uv": [ 0, 0, 0.5, 2.45 ] },
+                "up": { "texture": "#silver_sonic_trophy_2", "uv": [ 0, 0, 0.5, 0.5 ] },
+                "down": { "texture": "#silver_sonic_trophy_2", "uv": [ 0, 0, 0.5, 0.5 ] }
+            }
+        },
+        {
+            "name": "Cube",
+            "from": [ 11.5, 5.23, 7.8 ], 
+            "to": [ 12, 6.05, 8.3 ], 
+            "faces": {
+                "north": { "texture": "#silver_sonic_trophy", "uv": [ 3, 9, 3.5, 10 ] },
+                "east": { "texture": "#silver_sonic_trophy_2", "uv": [ 0, 0, 0.5, 0.82 ] },
+                "south": { "texture": "#silver_sonic_trophy_2", "uv": [ 0, 0, 0.5, 0.82 ] },
+                "up": { "texture": "#silver_sonic_trophy_2", "uv": [ 0, 0, 0.5, 0.5 ] },
+                "down": { "texture": "#silver_sonic_trophy_2", "uv": [ 0, 0, 0.5, 0.5 ] }
+            }
+        }
+    ]
+}

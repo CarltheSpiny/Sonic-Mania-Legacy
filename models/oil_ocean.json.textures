@@ -1,0 +1,11 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "OOZpoles_top": "oozpoles_top",
+        "red_orb": "red_orb"
+      },
+      "name": "default"
+    }
+  }
+}

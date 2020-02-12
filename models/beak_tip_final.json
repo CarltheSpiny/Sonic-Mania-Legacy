@@ -1,0 +1,252 @@
+{
+    "__comment": "Model generated using MrCrayfish's Model Creator (https://mrcrayfish.com/tools?id=mc)",
+    "textures": {
+        "BIRDPOLEj - Copy": "minecraft:blocks/BIRDPOLEj - Copy",
+        "BIRDPOLEl": "minecraft:blocks/BIRDPOLEl",
+        "BIRDPOLEj": "minecraft:blocks/BIRDPOLEj",
+        "BIRDPOLEj TOP": "minecraft:blocks/BIRDPOLEj TOP"
+    },
+    "display": {
+        "gui": {
+            "rotation": [ 30, 45, 0 ],
+            "translation": [ 0, 0, 0 ],
+            "scale": [ 0.625, 0.625, 0.625 ]
+        },
+        "ground": {
+            "rotation": [ 0, 0, 0 ],
+            "translation": [ 0, 3, 0 ],
+            "scale": [ 0.25, 0.25, 0.25 ]
+        },
+        "fixed": {
+            "rotation": [ 0, 180, 0 ],
+            "translation": [ 0, 0, 0 ],
+            "scale": [ 1, 1, 1 ]
+        },
+        "head": {
+            "rotation": [ 0, 180, 0 ],
+            "translation": [ 0, 0, 0 ],
+            "scale": [ 1, 1, 1 ]
+        },
+        "firstperson_righthand": {
+            "rotation": [ 0, 315, 0 ],
+            "translation": [ 0, 2.5, 0 ],
+            "scale": [ 0.4, 0.4, 0.4 ]
+        },
+        "thirdperson_righthand": {
+            "rotation": [ 75, 315, 0 ],
+            "translation": [ 0, 2.5, 0 ],
+            "scale": [ 0.375, 0.375, 0.375 ]
+        }
+    },
+    "elements": [
+        {
+            "name": "Cube",
+            "from": [ 15.5, 8, 0 ], 
+            "to": [ 16, 16, 16 ], 
+            "faces": {
+                "north": { "texture": "#BIRDPOLEj", "uv": [ 1, 0, 0, 16 ] },
+                "east": { "texture": "#BIRDPOLEj", "uv": [ 0, 0, 0.5, 16 ] },
+                "south": { "texture": "#BIRDPOLEj - Copy", "uv": [ 16, 0, 15, 16 ] },
+                "west": { "texture": "#BIRDPOLEj", "uv": [ 0, 0, 1, 16 ] },
+                "up": { "texture": "#BIRDPOLEj TOP", "uv": [ 15, 0, 15.5, 16 ] },
+                "down": { "texture": "#BIRDPOLEj", "uv": [ 0, 15, 0.5, 16 ] }
+            }
+        },
+        {
+            "name": "Cube",
+            "from": [ 14, 8, 0 ], 
+            "to": [ 15.5, 15.5, 16 ], 
+            "faces": {
+                "north": { "texture": "#BIRDPOLEj", "uv": [ 1, 1, 4, 16 ] },
+                "south": { "texture": "#BIRDPOLEj - Copy", "uv": [ 12, 1, 15, 16 ] },
+                "west": { "texture": "#BIRDPOLEj", "uv": [ 4, 1, 2.5, 16 ] },
+                "up": { "texture": "#BIRDPOLEj TOP", "uv": [ 16, 0, 13, 16 ] },
+                "down": { "texture": "#BIRDPOLEj", "uv": [ 0, 15, 0.5, 16 ] }
+            }
+        },
+        {
+            "name": "Cube",
+            "from": [ 12, 8, 0 ], 
+            "to": [ 12.5, 14.5, 16 ], 
+            "faces": {
+                "north": { "texture": "#BIRDPOLEj", "uv": [ 8, 3, 7, 16 ] },
+                "south": { "texture": "#BIRDPOLEj - Copy", "uv": [ 8, 3, 9, 16 ] },
+                "west": { "texture": "#BIRDPOLEj", "uv": [ 7, 3, 8, 16 ] },
+                "up": { "texture": "#BIRDPOLEj TOP", "uv": [ 12.5, 0, 13, 16 ] }
+            }
+        },
+        {
+            "name": "Cube",
+            "from": [ 11, 8, 0 ], 
+            "to": [ 12, 14, 16 ], 
+            "faces": {
+                "north": { "texture": "#BIRDPOLEj", "uv": [ 8, 4, 10, 16 ] },
+                "south": { "texture": "#BIRDPOLEj - Copy", "uv": [ 6, 4, 8, 16 ] },
+                "west": { "texture": "#BIRDPOLEj", "uv": [ 0, -1, 0, 16 ] },
+                "up": { "texture": "#BIRDPOLEj TOP", "uv": [ 15, 0, 13, 16 ] }
+            }
+        },
+        {
+            "name": "Cube",
+            "from": [ 10.5, 8, 0 ], 
+            "to": [ 11, 13.5, 16 ], 
+            "faces": {
+                "north": { "texture": "#BIRDPOLEj", "uv": [ 10, 5, 11, 16 ] },
+                "south": { "texture": "#BIRDPOLEj - Copy", "uv": [ 5, 5, 6, 16 ] },
+                "west": { "texture": "#BIRDPOLEj", "uv": [ 1, -1, 0, 16 ] },
+                "up": { "texture": "#BIRDPOLEj TOP", "uv": [ 11.5, 0, 13, 16 ] }
+            }
+        },
+        {
+            "name": "Cube",
+            "from": [ 10, 8, 0 ], 
+            "to": [ 10.5, 13, 16 ], 
+            "faces": {
+                "north": { "texture": "#BIRDPOLEj", "uv": [ 11, 6, 12, 16 ] },
+                "south": { "texture": "#BIRDPOLEj - Copy", "uv": [ 4, 6, 5, 16 ] },
+                "west": { "texture": "#BIRDPOLEj", "uv": [ 0, 0, 0.5, 2 ] },
+                "up": { "texture": "#BIRDPOLEj TOP", "uv": [ 11.5, 0, 13, 16 ] }
+            }
+        },
+        {
+            "name": "Cube",
+            "from": [ 9.5, 8, 0 ], 
+            "to": [ 10, 12.5, 16 ], 
+            "faces": {
+                "north": { "texture": "#BIRDPOLEj", "uv": [ 13, 7, 12, 16 ] },
+                "south": { "texture": "#BIRDPOLEj - Copy", "uv": [ 3, 7, 4, 16 ] },
+                "west": { "texture": "#BIRDPOLEj", "uv": [ 13, 7, 12, 16 ] },
+                "up": { "texture": "#BIRDPOLEj TOP", "uv": [ 11.5, 0, 13, 16 ] }
+            }
+        },
+        {
+            "name": "Cube",
+            "from": [ 9, 8, 0 ], 
+            "to": [ 9.5, 11.5, 16 ], 
+            "faces": {
+                "north": { "texture": "#BIRDPOLEj", "uv": [ 14, 9, 13, 16 ] },
+                "south": { "texture": "#BIRDPOLEj - Copy", "uv": [ 2, 9, 3, 16 ] },
+                "west": { "texture": "#BIRDPOLEj", "uv": [ 4, 1, 2.5, 2 ] },
+                "up": { "texture": "#BIRDPOLEj TOP", "uv": [ 11.5, 0, 13, 16 ] }
+            }
+        },
+        {
+            "name": "Cube",
+            "from": [ 8.5, 8, 0 ], 
+            "to": [ 9, 11, 16 ], 
+            "faces": {
+                "north": { "texture": "#BIRDPOLEj", "uv": [ 15, 10, 14, 16 ] },
+                "south": { "texture": "#BIRDPOLEj - Copy", "uv": [ 1, 10, 2, 16 ] },
+                "west": { "texture": "#BIRDPOLEj", "uv": [ 15, 10, 14, 16 ] },
+                "up": { "texture": "#BIRDPOLEj TOP", "uv": [ 11.5, 0, 13, 16 ] }
+            }
+        },
+        {
+            "name": "Cube",
+            "from": [ 8, 8, 0 ], 
+            "to": [ 8.5, 9.5, 16 ], 
+            "faces": {
+                "north": { "texture": "#BIRDPOLEj", "uv": [ 16, 13, 15, 16 ] },
+                "south": { "texture": "#BIRDPOLEj - Copy", "uv": [ 0, 13, 1, 16 ] },
+                "west": { "texture": "#BIRDPOLEj", "uv": [ 16, 13, 15.5, 16 ] },
+                "up": { "texture": "#BIRDPOLEj TOP", "uv": [ 11.5, 0, 13, 16 ] }
+            }
+        },
+        {
+            "name": "Cube",
+            "from": [ 8, 7.5, 0 ], 
+            "to": [ 13.5, 8, 16 ], 
+            "faces": {
+                "north": { "texture": "#BIRDPOLEl", "uv": [ 5, 0, 16, 1 ] },
+                "east": { "texture": "#BIRDPOLEj TOP", "uv": [ 2, 2, 9, 1.5 ] },
+                "south": { "texture": "#BIRDPOLEl", "uv": [ 16, 0, 5, 0.5 ] },
+                "west": { "texture": "#BIRDPOLEl", "uv": [ 15, 0, 16, 0.5 ] },
+                "down": { "texture": "#BIRDPOLEl", "uv": [ 16, 0, 5, 1 ] }
+            }
+        },
+        {
+            "name": "Cube",
+            "from": [ 8, 7, 0 ], 
+            "to": [ 11.5, 7.5, 16 ], 
+            "faces": {
+                "north": { "texture": "#BIRDPOLEl", "uv": [ 9, 2, 16, 1 ] },
+                "east": { "texture": "#BIRDPOLEj TOP", "uv": [ 2, 2, 9, 1.5 ] },
+                "south": { "texture": "#BIRDPOLEl", "uv": [ 16, 1, 9, 1.5 ] },
+                "west": { "texture": "#BIRDPOLEl", "uv": [ 15, 2, 16, 1.5 ] },
+                "down": { "texture": "#BIRDPOLEl", "uv": [ 16, 2, 9, 1 ] }
+            }
+        },
+        {
+            "name": "Cube",
+            "from": [ 8, 6.5, 0 ], 
+            "to": [ 10.5, 7, 16 ], 
+            "faces": {
+                "north": { "texture": "#BIRDPOLEl", "uv": [ 11, 2, 16, 3 ] },
+                "east": { "texture": "#BIRDPOLEl", "uv": [ 11, 2, 12, 2.5 ] },
+                "south": { "texture": "#BIRDPOLEl", "uv": [ 16, 3, 11, 2 ] },
+                "west": { "texture": "#BIRDPOLEl", "uv": [ 15, 2, 16, 2.5 ] },
+                "down": { "texture": "#BIRDPOLEl", "uv": [ 16, 2, 11, 3 ] }
+            }
+        },
+        {
+            "name": "Cube",
+            "from": [ 8, 6, 0 ], 
+            "to": [ 10, 6.5, 16 ], 
+            "faces": {
+                "north": { "texture": "#BIRDPOLEl", "uv": [ 12, 3, 16, 4 ] },
+                "east": { "texture": "#BIRDPOLEl", "uv": [ 11, 2, 12, 2.5 ] },
+                "south": { "texture": "#BIRDPOLEl", "uv": [ 16, 4, 12, 3 ] },
+                "west": { "texture": "#BIRDPOLEl", "uv": [ 15, 2, 16, 2.5 ] },
+                "down": { "texture": "#BIRDPOLEl", "uv": [ 12, 2, 11, 3 ] }
+            }
+        },
+        {
+            "name": "Cube",
+            "from": [ 8, 5.5, 0 ], 
+            "to": [ 9.5, 6, 16 ], 
+            "faces": {
+                "north": { "texture": "#BIRDPOLEl", "uv": [ 13, 5, 16, 4 ] },
+                "east": { "texture": "#BIRDPOLEl", "uv": [ 11, 2, 12, 2.5 ] },
+                "south": { "texture": "#BIRDPOLEl", "uv": [ 16, 4, 13, 5 ] },
+                "west": { "texture": "#BIRDPOLEl", "uv": [ 15, 2, 16, 2.5 ] },
+                "down": { "texture": "#BIRDPOLEl", "uv": [ 12, 2, 11, 3 ] }
+            }
+        },
+        {
+            "name": "Cube",
+            "from": [ 8, 5, 0 ], 
+            "to": [ 9, 5.5, 16 ], 
+            "faces": {
+                "north": { "texture": "#BIRDPOLEl", "uv": [ 14, 5, 16, 6 ] },
+                "east": { "texture": "#BIRDPOLEl", "uv": [ 11, 2, 12, 2.5 ] },
+                "south": { "texture": "#BIRDPOLEl", "uv": [ 16, 5, 14, 6 ] },
+                "west": { "texture": "#BIRDPOLEl", "uv": [ 15, 2, 16, 2.5 ] },
+                "down": { "texture": "#BIRDPOLEl", "uv": [ 12, 2, 11, 3 ] }
+            }
+        },
+        {
+            "name": "Cube",
+            "from": [ 8, 4.5, 0 ], 
+            "to": [ 8.5, 5, 16 ], 
+            "faces": {
+                "north": { "texture": "#BIRDPOLEl", "uv": [ 15, 6, 16, 7 ] },
+                "east": { "texture": "#BIRDPOLEl", "uv": [ 11, 2, 12, 2.5 ] },
+                "south": { "texture": "#BIRDPOLEl", "uv": [ 15, 5, 14, 6 ] },
+                "west": { "texture": "#BIRDPOLEl", "uv": [ 15, 6, 16, 6.5 ] },
+                "down": { "texture": "#BIRDPOLEl", "uv": [ 12, 2, 11, 3 ] }
+            }
+        },
+        {
+            "name": "Cube",
+            "from": [ 12.5, 8, 0 ], 
+            "to": [ 14, 15, 16 ], 
+            "faces": {
+                "north": { "texture": "#BIRDPOLEj", "uv": [ 4, 2, 7, 16 ] },
+                "south": { "texture": "#BIRDPOLEj - Copy", "uv": [ 9, 2, 12, 16 ] },
+                "west": { "texture": "#BIRDPOLEj", "uv": [ 0, 0, 0.5, 16 ] },
+                "up": { "texture": "#BIRDPOLEj TOP", "uv": [ 16, 0, 13, 16 ] },
+                "down": { "texture": "#BIRDPOLEj", "uv": [ 0, 15, 0.5, 16 ] }
+            }
+        }
+    ]
+}

@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "sonic_mania:blocks/woddenbridgetoplayer",
+    "up": "sonic_mania:blocks/woddenbridgetoplayer",
+    "north": "sonic_mania:blocks/woodenbridge",
+    "east": "sonic_mania:blocks/woodenbridgesidelayer",
+    "south": "sonic_mania:blocks/woodenbridge",
+    "west": "sonic_mania:blocks/woodenbridgesidelayer",
+    "particle": "sonic_mania:blocks/woddenbridgetoplayer"
+  }
+}

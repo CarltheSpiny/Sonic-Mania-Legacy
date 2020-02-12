@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "sonic_mania:blocks/birdpoleg",
+    "up": "sonic_mania:blocks/birdpoleb",
+    "north": "sonic_mania:blocks/birdpoled",
+    "east": "sonic_mania:blocks/birdpoleaver3",
+    "south": "sonic_mania:blocks/birdpolec",
+    "west": "sonic_mania:blocks/birdpoleflippedver3",
+    "particle": "sonic_mania:blocks/birdpoleg"
+  }
+}

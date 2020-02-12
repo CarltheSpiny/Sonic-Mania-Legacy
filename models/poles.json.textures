@@ -1,0 +1,10 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "OOZpoles": "oozpoles"
+      },
+      "name": "default"
+    }
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:diamond_helmet"
+    },
+    "title": {
+      "translate": "advancements.emerald.title"
+    },
+    "description": {
+      "translate": "advancements.emerald.descr"
+    },
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "emerald": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "minecraft:emerald",
+            "count": {
+              "min": 7,
+              "max": 7
+            }
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "experience": 1
+  },
+  "parent": "minecraft:adventure/sniper_duel"
+}

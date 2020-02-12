@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "sonic_mania:blocks/ssz_present_top-bottom",
+    "up": "sonic_mania:blocks/ssz_present_top-bottom",
+    "north": "sonic_mania:blocks/sszblock_10",
+    "east": "sonic_mania:blocks/sszblock_10",
+    "south": "sonic_mania:blocks/sszblock_10",
+    "west": "sonic_mania:blocks/sszblock_10",
+    "particle": "sonic_mania:blocks/ssz_present_top-bottom"
+  }
+}
