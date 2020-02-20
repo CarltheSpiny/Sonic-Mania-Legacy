@@ -23,7 +23,7 @@ public class MCreatorCrateblue extends Elementssonic_mania.ModElement {
 	public static final Block block = null;
 
 	public MCreatorCrateblue(Elementssonic_mania instance) {
-		super(instance, 54);
+		super(instance, 56);
 	}
 
 	@Override

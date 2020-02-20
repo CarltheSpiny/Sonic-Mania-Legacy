@@ -30,7 +30,7 @@ public class MCreatorContainerShield extends Elementssonic_mania.ModElement {
 	public static final Block block = null;
 
 	public MCreatorContainerShield(Elementssonic_mania instance) {
-		super(instance, 154);
+		super(instance, 158);
 	}
 
 	@Override

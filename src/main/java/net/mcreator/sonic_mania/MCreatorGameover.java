@@ -14,7 +14,7 @@ import net.minecraft.entity.Entity;
 @Elementssonic_mania.ModElement.Tag
 public class MCreatorGameover extends Elementssonic_mania.ModElement {
 	public MCreatorGameover(Elementssonic_mania instance) {
-		super(instance, 216);
+		super(instance, 222);
 		MinecraftForge.EVENT_BUS.register(this);
 	}
 

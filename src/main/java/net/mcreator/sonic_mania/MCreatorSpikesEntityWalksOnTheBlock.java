@@ -15,7 +15,7 @@ import java.util.Collection;
 @Elementssonic_mania.ModElement.Tag
 public class MCreatorSpikesEntityWalksOnTheBlock extends Elementssonic_mania.ModElement {
 	public MCreatorSpikesEntityWalksOnTheBlock(Elementssonic_mania instance) {
-		super(instance, 205);
+		super(instance, 211);
 	}
 
 	public static void executeProcedure(java.util.HashMap<String, Object> dependencies) {

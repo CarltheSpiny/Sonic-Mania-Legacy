@@ -21,7 +21,7 @@ public class MCreatorPGZdirtxsnow extends Elementssonic_mania.ModElement {
 	public static final Block block = null;
 
 	public MCreatorPGZdirtxsnow(Elementssonic_mania instance) {
-		super(instance, 65);
+		super(instance, 67);
 	}
 
 	@Override

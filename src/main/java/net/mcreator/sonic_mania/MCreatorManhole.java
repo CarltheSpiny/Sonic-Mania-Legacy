@@ -36,7 +36,7 @@ public class MCreatorManhole extends Elementssonic_mania.ModElement {
 	public static final Block block = null;
 
 	public MCreatorManhole(Elementssonic_mania instance) {
-		super(instance, 223);
+		super(instance, 40);
 	}
 
 	@Override

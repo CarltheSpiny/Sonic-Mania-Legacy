@@ -10,7 +10,7 @@ import net.minecraft.entity.player.PlayerEntity;
 @Elementssonic_mania.ModElement.Tag
 public class MCreatorSOZact2RightClicked extends Elementssonic_mania.ModElement {
 	public MCreatorSOZact2RightClicked(Elementssonic_mania instance) {
-		super(instance, 199);
+		super(instance, 205);
 	}
 
 	public static void executeProcedure(java.util.HashMap<String, Object> dependencies) {

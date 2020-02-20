@@ -10,7 +10,7 @@ import net.minecraft.entity.player.PlayerEntity;
 @Elementssonic_mania.ModElement.Tag
 public class MCreatorTrophyblockOnBlockRightClicked extends Elementssonic_mania.ModElement {
 	public MCreatorTrophyblockOnBlockRightClicked(Elementssonic_mania instance) {
-		super(instance, 217);
+		super(instance, 223);
 	}
 
 	public static void executeProcedure(java.util.HashMap<String, Object> dependencies) {

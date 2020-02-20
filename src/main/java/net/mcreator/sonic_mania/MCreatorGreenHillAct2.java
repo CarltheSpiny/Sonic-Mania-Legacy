@@ -27,7 +27,7 @@ public class MCreatorGreenHillAct2 extends Elementssonic_mania.ModElement {
 	public static final Item block = null;
 
 	public MCreatorGreenHillAct2(Elementssonic_mania instance) {
-		super(instance, 170);
+		super(instance, 173);
 	}
 
 	@Override

@@ -1,8 +1,8 @@
 {
   "id_map": {
-    "GUI": 1,
     "DIMENSION": 1,
-    "ENTITY": 14
+    "ENTITY": 14,
+    "GUI": 1
   },
   "mod_elements": [
     {
@@ -17,7 +17,7 @@
     {
       "name": "Sonictab",
       "type": "tab",
-      "sortid": 181,
+      "sortid": 187,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -25,7 +25,7 @@
     {
       "name": "SonicIcon",
       "type": "item",
-      "sortid": 171,
+      "sortid": 174,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -42,7 +42,7 @@
     {
       "name": "Ring",
       "type": "item",
-      "sortid": 168,
+      "sortid": 171,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -50,7 +50,7 @@
     {
       "name": "GreenHillFlower1",
       "type": "plant",
-      "sortid": 158,
+      "sortid": 162,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -67,7 +67,7 @@
     {
       "name": "GreenHillFlower2",
       "type": "plant",
-      "sortid": 159,
+      "sortid": 163,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -75,7 +75,7 @@
     {
       "name": "GreenHillBush",
       "type": "plant",
-      "sortid": 161,
+      "sortid": 165,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -92,7 +92,7 @@
     {
       "name": "WoodenBridge",
       "type": "block",
-      "sortid": 157,
+      "sortid": 10,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -100,7 +100,7 @@
     {
       "name": "MSZDECORSTONE",
       "type": "block",
-      "sortid": 91,
+      "sortid": 93,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -108,7 +108,7 @@
     {
       "name": "MSZSAND",
       "type": "block",
-      "sortid": 90,
+      "sortid": 92,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -116,7 +116,7 @@
     {
       "name": "MSZDECOR",
       "type": "block",
-      "sortid": 100,
+      "sortid": 102,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -124,7 +124,7 @@
     {
       "name": "MSZDECOR1",
       "type": "block",
-      "sortid": 101,
+      "sortid": 103,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -132,7 +132,7 @@
     {
       "name": "MSZBIRDPOLE1",
       "type": "block",
-      "sortid": 110,
+      "sortid": 112,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -140,7 +140,7 @@
     {
       "name": "MSZBIRDPOLE2",
       "type": "block",
-      "sortid": 111,
+      "sortid": 113,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -148,7 +148,7 @@
     {
       "name": "MSZBIRDPOLE3",
       "type": "block",
-      "sortid": 112,
+      "sortid": 114,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -156,7 +156,7 @@
     {
       "name": "MSZBIRDPOLE4",
       "type": "block",
-      "sortid": 113,
+      "sortid": 115,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -164,7 +164,7 @@
     {
       "name": "MSZBIRDBODY1",
       "type": "block",
-      "sortid": 107,
+      "sortid": 109,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -172,7 +172,7 @@
     {
       "name": "MSZBIRDBODY2",
       "type": "block",
-      "sortid": 108,
+      "sortid": 110,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -180,7 +180,7 @@
     {
       "name": "MSZBIRDBODY3",
       "type": "block",
-      "sortid": 109,
+      "sortid": 111,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -188,7 +188,7 @@
     {
       "name": "MSZORE",
       "type": "block",
-      "sortid": 99,
+      "sortid": 101,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -196,7 +196,7 @@
     {
       "name": "MSZOREDROP",
       "type": "item",
-      "sortid": 162,
+      "sortid": 166,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -204,7 +204,7 @@
     {
       "name": "MSZDECORSTONEREP",
       "type": "recipe",
-      "sortid": 182,
+      "sortid": 188,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -212,7 +212,7 @@
     {
       "name": "MSZDECORREP1",
       "type": "recipe",
-      "sortid": 183,
+      "sortid": 189,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -220,7 +220,7 @@
     {
       "name": "GHZGRASSrep",
       "type": "recipe",
-      "sortid": 184,
+      "sortid": 190,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -228,7 +228,7 @@
     {
       "name": "Ringrep",
       "type": "recipe",
-      "sortid": 185,
+      "sortid": 191,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -236,7 +236,7 @@
     {
       "name": "MSZDECORrep2",
       "type": "recipe",
-      "sortid": 186,
+      "sortid": 192,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -244,7 +244,7 @@
     {
       "name": "FLOWER1",
       "type": "recipe",
-      "sortid": 187,
+      "sortid": 193,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -252,7 +252,7 @@
     {
       "name": "FLOWER3",
       "type": "recipe",
-      "sortid": 188,
+      "sortid": 194,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -260,7 +260,7 @@
     {
       "name": "Lantern",
       "type": "block",
-      "sortid": 66,
+      "sortid": 68,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -268,7 +268,7 @@
     {
       "name": "Container",
       "type": "block",
-      "sortid": 151,
+      "sortid": 155,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -276,7 +276,7 @@
     {
       "name": "PGZBlock",
       "type": "block",
-      "sortid": 49,
+      "sortid": 51,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -284,7 +284,7 @@
     {
       "name": "SupersonicmusicRightClickedInAir",
       "type": "procedure",
-      "sortid": 189,
+      "sortid": 195,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -312,289 +312,13 @@
     {
       "name": "Supersonicmusic",
       "type": "item",
-      "sortid": 169,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {}
-    },
-    {
-      "name": "ContainerEntityWalksOnTheBlock",
-      "type": "procedure",
-      "sortid": 190,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "metadata": {
-        "dependencies": [
-          {
-            "name": "x",
-            "type": "int"
-          },
-          {
-            "name": "y",
-            "type": "int"
-          },
-          {
-            "name": "z",
-            "type": "int"
-          },
-          {
-            "name": "world",
-            "type": "world"
-          }
-        ]
-      }
-    },
-    {
-      "name": "SOZblock1",
-      "type": "block",
-      "sortid": 23,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {}
-    },
-    {
-      "name": "SOZblock3",
-      "type": "block",
-      "sortid": 24,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {}
-    },
-    {
-      "name": "SOZblock4",
-      "type": "block",
-      "sortid": 25,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {}
-    },
-    {
-      "name": "GreenHillAct1RightClickedInAir",
-      "type": "procedure",
-      "sortid": 191,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "metadata": {
-        "dependencies": [
-          {
-            "name": "x",
-            "type": "int"
-          },
-          {
-            "name": "y",
-            "type": "int"
-          },
-          {
-            "name": "z",
-            "type": "int"
-          },
-          {
-            "name": "world",
-            "type": "world"
-          }
-        ]
-      }
-    },
-    {
-      "name": "GreenHillAct1",
-      "type": "item",
-      "sortid": 160,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {}
-    },
-    {
-      "name": "GreenHillAct2RightClicked",
-      "type": "procedure",
-      "sortid": 192,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "metadata": {
-        "dependencies": [
-          {
-            "name": "x",
-            "type": "int"
-          },
-          {
-            "name": "y",
-            "type": "int"
-          },
-          {
-            "name": "z",
-            "type": "int"
-          },
-          {
-            "name": "world",
-            "type": "world"
-          }
-        ]
-      }
-    },
-    {
-      "name": "GreenHillAct2",
-      "type": "item",
-      "sortid": 170,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {}
-    },
-    {
-      "name": "MirageSaloon1sonicRightClicked",
-      "type": "procedure",
-      "sortid": 193,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "metadata": {
-        "dependencies": [
-          {
-            "name": "x",
-            "type": "int"
-          },
-          {
-            "name": "y",
-            "type": "int"
-          },
-          {
-            "name": "z",
-            "type": "int"
-          },
-          {
-            "name": "world",
-            "type": "world"
-          }
-        ]
-      }
-    },
-    {
-      "name": "MirageSaloon1sonic",
-      "type": "item",
       "sortid": 172,
       "compiles": true,
       "locked_code": false,
       "ids": {}
     },
     {
-      "name": "SOZblock5",
-      "type": "block",
-      "sortid": 26,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {}
-    },
-    {
-      "name": "SOZbars",
-      "type": "block",
-      "sortid": 27,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {}
-    },
-    {
-      "name": "MirageSaloonAct1knuxRightClicked",
-      "type": "procedure",
-      "sortid": 194,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "metadata": {
-        "dependencies": [
-          {
-            "name": "x",
-            "type": "int"
-          },
-          {
-            "name": "y",
-            "type": "int"
-          },
-          {
-            "name": "z",
-            "type": "int"
-          },
-          {
-            "name": "world",
-            "type": "world"
-          }
-        ]
-      }
-    },
-    {
-      "name": "MirageSaloonAct1knux",
-      "type": "item",
-      "sortid": 173,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {}
-    },
-    {
-      "name": "PGZblock1",
-      "type": "block",
-      "sortid": 57,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {}
-    },
-    {
-      "name": "SOZblock5support",
-      "type": "block",
-      "sortid": 28,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {}
-    },
-    {
-      "name": "PGZblock2",
-      "type": "block",
-      "sortid": 58,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {}
-    },
-    {
-      "name": "PGZpillar1",
-      "type": "block",
-      "sortid": 56,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {}
-    },
-    {
-      "name": "Items",
-      "type": "tab",
-      "sortid": 195,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {}
-    },
-    {
-      "name": "PGZpillar2",
-      "type": "block",
-      "sortid": 59,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {}
-    },
-    {
-      "name": "PGZpillar1base",
-      "type": "block",
-      "sortid": 60,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {}
-    },
-    {
-      "name": "PGZpillar2body",
-      "type": "block",
-      "sortid": 61,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {}
-    },
-    {
-      "name": "PGZact1RightClicked",
+      "name": "ContainerEntityWalksOnTheBlock",
       "type": "procedure",
       "sortid": 196,
       "compiles": true,
@@ -622,15 +346,31 @@
       }
     },
     {
-      "name": "PGZact1",
-      "type": "item",
-      "sortid": 174,
+      "name": "SOZblock1",
+      "type": "block",
+      "sortid": 24,
       "compiles": true,
       "locked_code": false,
       "ids": {}
     },
     {
-      "name": "PGZact2RightClicked",
+      "name": "SOZblock3",
+      "type": "block",
+      "sortid": 25,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "SOZblock4",
+      "type": "block",
+      "sortid": 26,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "GreenHillAct1RightClickedInAir",
       "type": "procedure",
       "sortid": 197,
       "compiles": true,
@@ -658,15 +398,15 @@
       }
     },
     {
-      "name": "PGZact2",
+      "name": "GreenHillAct1",
       "type": "item",
-      "sortid": 178,
+      "sortid": 164,
       "compiles": true,
       "locked_code": false,
       "ids": {}
     },
     {
-      "name": "SOZact1RightClicked",
+      "name": "GreenHillAct2RightClicked",
       "type": "procedure",
       "sortid": 198,
       "compiles": true,
@@ -694,15 +434,15 @@
       }
     },
     {
-      "name": "SOZact1",
+      "name": "GreenHillAct2",
       "type": "item",
-      "sortid": 175,
+      "sortid": 173,
       "compiles": true,
       "locked_code": false,
       "ids": {}
     },
     {
-      "name": "SOZact2RightClicked",
+      "name": "MirageSaloon1sonicRightClicked",
       "type": "procedure",
       "sortid": 199,
       "compiles": true,
@@ -730,7 +470,59 @@
       }
     },
     {
-      "name": "SOZact2",
+      "name": "MirageSaloon1sonic",
+      "type": "item",
+      "sortid": 175,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "SOZblock5",
+      "type": "block",
+      "sortid": 27,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "SOZbars",
+      "type": "block",
+      "sortid": 28,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "MirageSaloonAct1knuxRightClicked",
+      "type": "procedure",
+      "sortid": 200,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "int"
+          },
+          {
+            "name": "y",
+            "type": "int"
+          },
+          {
+            "name": "z",
+            "type": "int"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "MirageSaloonAct1knux",
       "type": "item",
       "sortid": 176,
       "compiles": true,
@@ -738,249 +530,15 @@
       "ids": {}
     },
     {
-      "name": "PGZblock3",
+      "name": "PGZblock1",
       "type": "block",
-      "sortid": 62,
+      "sortid": 59,
       "compiles": true,
       "locked_code": false,
       "ids": {}
     },
     {
-      "name": "PGZbricks",
-      "type": "block",
-      "sortid": 63,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {}
-    },
-    {
-      "name": "MSZPillar",
-      "type": "block",
-      "sortid": 103,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {}
-    },
-    {
-      "name": "MSZtoro",
-      "type": "block",
-      "sortid": 104,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {}
-    },
-    {
-      "name": "MSZlechuza",
-      "type": "block",
-      "sortid": 105,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {}
-    },
-    {
-      "name": "MSZpillarbody",
-      "type": "block",
-      "sortid": 102,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {}
-    },
-    {
-      "name": "MSZflower",
-      "type": "block",
-      "sortid": 94,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {}
-    },
-    {
-      "name": "MSZflower2",
-      "type": "block",
-      "sortid": 95,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {}
-    },
-    {
-      "name": "MSZstone",
-      "type": "block",
-      "sortid": 92,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {}
-    },
-    {
-      "name": "MSZpillar2",
-      "type": "block",
-      "sortid": 177,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {}
-    },
-    {
-      "name": "MSZpillar2body",
-      "type": "block",
-      "sortid": 106,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {}
-    },
-    {
-      "name": "MSZstone2",
-      "type": "block",
-      "sortid": 98,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {}
-    },
-    {
-      "name": "Bridge",
-      "type": "block",
-      "sortid": 5,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "ghzddeco_bridge"
-    },
-    {
-      "name": "Spring",
-      "type": "block",
-      "sortid": 150,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {}
-    },
-    {
-      "name": "Trophyblock",
-      "type": "block",
-      "sortid": 88,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {}
-    },
-    {
-      "name": "Trophyrep",
-      "type": "recipe",
-      "sortid": 200,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {}
-    },
-    {
-      "name": "PGZbrick",
-      "type": "block",
-      "sortid": 50,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {}
-    },
-    {
-      "name": "MMZ",
-      "type": "block",
-      "sortid": 132,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {}
-    },
-    {
-      "name": "SSZPASTBlock1",
-      "type": "block",
-      "sortid": 76,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {}
-    },
-    {
-      "name": "SSZPASTBlock2",
-      "type": "block",
-      "sortid": 77,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {}
-    },
-    {
-      "name": "SSZPASTBlock3",
-      "type": "block",
-      "sortid": 78,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {}
-    },
-    {
-      "name": "SSZPASTBlock4",
-      "type": "block",
-      "sortid": 79,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {}
-    },
-    {
-      "name": "SSZPASTFloor",
-      "type": "block",
-      "sortid": 80,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {}
-    },
-    {
-      "name": "OOZblock1",
-      "type": "block",
-      "sortid": 117,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {}
-    },
-    {
-      "name": "OOZblock2",
-      "type": "block",
-      "sortid": 118,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {}
-    },
-    {
-      "name": "PGZLog",
-      "type": "block",
-      "sortid": 71,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {}
-    },
-    {
-      "name": "PGZLog2",
-      "type": "block",
-      "sortid": 72,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {}
-    },
-    {
-      "name": "CPZblock",
-      "type": "block",
-      "sortid": 10,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {}
-    },
-    {
-      "name": "CPZblock2",
-      "type": "block",
-      "sortid": 11,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {}
-    },
-    {
-      "name": "CPZblock5",
-      "type": "block",
-      "sortid": 12,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "cpzblock3"
-    },
-    {
-      "name": "SOZBLock",
+      "name": "SOZblock5support",
       "type": "block",
       "sortid": 29,
       "compiles": true,
@@ -988,394 +546,127 @@
       "ids": {}
     },
     {
-      "name": "SOZblock6",
+      "name": "PGZblock2",
       "type": "block",
-      "sortid": 30,
+      "sortid": 60,
       "compiles": true,
       "locked_code": false,
       "ids": {}
     },
     {
-      "name": "SOZblock6a",
+      "name": "PGZpillar1",
       "type": "block",
-      "sortid": 31,
+      "sortid": 58,
       "compiles": true,
       "locked_code": false,
       "ids": {}
     },
     {
-      "name": "OOZblock",
-      "type": "block",
-      "sortid": 119,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {}
-    },
-    {
-      "name": "OOZblock3",
-      "type": "block",
-      "sortid": 120,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {}
-    },
-    {
-      "name": "OOZblock4",
-      "type": "block",
-      "sortid": 121,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {}
-    },
-    {
-      "name": "MSZshortgrass",
-      "type": "plant",
-      "sortid": 114,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {}
-    },
-    {
-      "name": "MSZcactusMobplayerColidesBlock",
-      "type": "procedure",
+      "name": "Items",
+      "type": "tab",
       "sortid": 201,
       "compiles": true,
       "locked_code": false,
-      "ids": {},
-      "metadata": {
-        "dependencies": [
-          {
-            "name": "entity",
-            "type": "entity"
-          }
-        ]
-      }
-    },
-    {
-      "name": "MSZcactus",
-      "type": "plant",
-      "sortid": 115,
-      "compiles": true,
-      "locked_code": false,
       "ids": {}
     },
     {
-      "name": "MSZfruit",
-      "type": "food",
-      "sortid": 163,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {}
-    },
-    {
-      "name": "MSZcactuspink",
-      "type": "plant",
-      "sortid": 116,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {}
-    },
-    {
-      "name": "PGZflower",
-      "type": "plant",
-      "sortid": 165,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {}
-    },
-    {
-      "name": "PGZflower2",
-      "type": "plant",
-      "sortid": 166,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {}
-    },
-    {
-      "name": "PGZflower3",
-      "type": "plant",
-      "sortid": 167,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {}
-    },
-    {
-      "name": "XCrate",
+      "name": "PGZpillar2",
       "type": "block",
-      "sortid": 75,
+      "sortid": 61,
       "compiles": true,
       "locked_code": false,
       "ids": {}
     },
     {
-      "name": "GreenTimeStone",
-      "type": "item",
-      "sortid": 180,
+      "name": "PGZpillar1base",
+      "type": "block",
+      "sortid": 62,
       "compiles": true,
       "locked_code": false,
       "ids": {}
     },
     {
-      "name": "SSZFUTUREFloor",
+      "name": "PGZpillar2body",
       "type": "block",
-      "sortid": 83,
+      "sortid": 63,
       "compiles": true,
       "locked_code": false,
       "ids": {}
     },
     {
-      "name": "SSZFUTUREBlock1",
-      "type": "block",
-      "sortid": 85,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {}
-    },
-    {
-      "name": "SSZFUTUREBlock2",
-      "type": "block",
-      "sortid": 84,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {}
-    },
-    {
-      "name": "SSZFUTUREBlock3",
-      "type": "block",
-      "sortid": 86,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {}
-    },
-    {
-      "name": "SSZFUTUREBlock4",
-      "type": "block",
-      "sortid": 87,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {}
-    },
-    {
-      "name": "CPZblock4",
-      "type": "block",
-      "sortid": 13,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {}
-    },
-    {
-      "name": "MSZblock",
-      "type": "block",
-      "sortid": 93,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {}
-    },
-    {
-      "name": "MSZblock1",
-      "type": "block",
-      "sortid": 96,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {}
-    },
-    {
-      "name": "MSZblock2",
-      "type": "block",
-      "sortid": 97,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {}
-    },
-    {
-      "name": "FBZblock3",
-      "type": "block",
-      "sortid": 39,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {}
-    },
-    {
-      "name": "FBZblock4",
-      "type": "block",
-      "sortid": 40,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {}
-    },
-    {
-      "name": "FBZblock5",
-      "type": "block",
-      "sortid": 41,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {}
-    },
-    {
-      "name": "FBZblock6",
-      "type": "block",
-      "sortid": 42,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {}
-    },
-    {
-      "name": "FBZblock7",
-      "type": "block",
-      "sortid": 43,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {}
-    },
-    {
-      "name": "FBZblock8",
-      "type": "block",
-      "sortid": 44,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {}
-    },
-    {
-      "name": "PGZleavespink",
-      "type": "block",
-      "sortid": 70,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {}
-    },
-    {
-      "name": "PGZleavesred",
-      "type": "block",
-      "sortid": 68,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {}
-    },
-    {
-      "name": "CPZblock6",
-      "type": "block",
-      "sortid": 14,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "cpzblock5"
-    },
-    {
-      "name": "CPZblock7",
-      "type": "block",
-      "sortid": 15,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "cpzblock6"
-    },
-    {
-      "name": "CPZblock8",
-      "type": "block",
-      "sortid": 18,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "cpzblock9"
-    },
-    {
-      "name": "CPZblock9",
-      "type": "block",
-      "sortid": 21,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "cpzdeco_tube2"
-    },
-    {
-      "name": "CPZblock10",
-      "type": "block",
-      "sortid": 19,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {}
-    },
-    {
-      "name": "CPZblock11",
-      "type": "block",
-      "sortid": 16,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "cpzblock7"
-    },
-    {
-      "name": "CPZblock12",
-      "type": "block",
-      "sortid": 17,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "cpzblock8"
-    },
-    {
-      "name": "CPZblock8RedstoneOff",
+      "name": "PGZact1RightClicked",
       "type": "procedure",
       "sortid": 202,
       "compiles": true,
       "locked_code": false,
       "ids": {},
       "metadata": {
-        "dependencies": []
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "int"
+          },
+          {
+            "name": "y",
+            "type": "int"
+          },
+          {
+            "name": "z",
+            "type": "int"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
       }
     },
     {
-      "name": "Sounds",
-      "type": "gui",
+      "name": "PGZact1",
+      "type": "item",
+      "sortid": 177,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "PGZact2RightClicked",
+      "type": "procedure",
       "sortid": 203,
       "compiles": true,
       "locked_code": false,
-      "ids": {
-        "0": 1
+      "ids": {},
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "int"
+          },
+          {
+            "name": "y",
+            "type": "int"
+          },
+          {
+            "name": "z",
+            "type": "int"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
       }
     },
     {
-      "name": "SOZblock7",
-      "type": "block",
-      "sortid": 32,
+      "name": "PGZact2",
+      "type": "item",
+      "sortid": 181,
       "compiles": true,
       "locked_code": false,
       "ids": {}
     },
     {
-      "name": "SOZblock8",
-      "type": "block",
-      "sortid": 33,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {}
-    },
-    {
-      "name": "Spikes",
-      "type": "block",
-      "sortid": 149,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {}
-    },
-    {
-      "name": "SSZFUTUREFloorside",
-      "type": "block",
-      "sortid": 82,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {}
-    },
-    {
-      "name": "SSZPASTFloorside",
-      "type": "block",
-      "sortid": 81,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {}
-    },
-    {
-      "name": "SoundsOnButtonClicked_super",
+      "name": "SOZact1RightClicked",
       "type": "procedure",
       "sortid": 204,
       "compiles": true,
@@ -1403,9 +694,718 @@
       }
     },
     {
-      "name": "SpikesEntityWalksOnTheBlock",
+      "name": "SOZact1",
+      "type": "item",
+      "sortid": 178,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "SOZact2RightClicked",
       "type": "procedure",
       "sortid": 205,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "int"
+          },
+          {
+            "name": "y",
+            "type": "int"
+          },
+          {
+            "name": "z",
+            "type": "int"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "SOZact2",
+      "type": "item",
+      "sortid": 179,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "PGZblock3",
+      "type": "block",
+      "sortid": 64,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "PGZbricks",
+      "type": "block",
+      "sortid": 65,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "MSZPillar",
+      "type": "block",
+      "sortid": 105,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "MSZtoro",
+      "type": "block",
+      "sortid": 106,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "MSZlechuza",
+      "type": "block",
+      "sortid": 107,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "MSZpillarbody",
+      "type": "block",
+      "sortid": 104,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "MSZflower",
+      "type": "block",
+      "sortid": 96,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "MSZflower2",
+      "type": "block",
+      "sortid": 97,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "MSZstone",
+      "type": "block",
+      "sortid": 94,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "MSZpillar2",
+      "type": "block",
+      "sortid": 180,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "MSZpillar2body",
+      "type": "block",
+      "sortid": 108,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "MSZstone2",
+      "type": "block",
+      "sortid": 100,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Bridge",
+      "type": "block",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ghzddeco_bridge"
+    },
+    {
+      "name": "Spring",
+      "type": "block",
+      "sortid": 154,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Trophyblock",
+      "type": "block",
+      "sortid": 90,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Trophyrep",
+      "type": "recipe",
+      "sortid": 206,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "PGZbrick",
+      "type": "block",
+      "sortid": 52,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "MMZ",
+      "type": "block",
+      "sortid": 132,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "SSZPASTBlock1",
+      "type": "block",
+      "sortid": 78,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "SSZPASTBlock2",
+      "type": "block",
+      "sortid": 79,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "SSZPASTBlock3",
+      "type": "block",
+      "sortid": 80,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "SSZPASTBlock4",
+      "type": "block",
+      "sortid": 81,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "SSZPASTFloor",
+      "type": "block",
+      "sortid": 82,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "OOZblock1",
+      "type": "block",
+      "sortid": 119,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "OOZblock2",
+      "type": "block",
+      "sortid": 120,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "PGZLog",
+      "type": "block",
+      "sortid": 73,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "PGZLog2",
+      "type": "block",
+      "sortid": 74,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "CPZblock",
+      "type": "block",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "CPZblock2",
+      "type": "block",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "CPZblock5",
+      "type": "block",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cpzblock3"
+    },
+    {
+      "name": "SOZBLock",
+      "type": "block",
+      "sortid": 30,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "SOZblock6",
+      "type": "block",
+      "sortid": 31,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "SOZblock6a",
+      "type": "block",
+      "sortid": 32,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "OOZblock",
+      "type": "block",
+      "sortid": 121,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "OOZblock3",
+      "type": "block",
+      "sortid": 122,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "OOZblock4",
+      "type": "block",
+      "sortid": 123,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "MSZshortgrass",
+      "type": "plant",
+      "sortid": 116,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "MSZcactusMobplayerColidesBlock",
+      "type": "procedure",
+      "sortid": 207,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "MSZcactus",
+      "type": "plant",
+      "sortid": 161,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "MSZfruit",
+      "type": "food",
+      "sortid": 167,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "MSZcactuspink",
+      "type": "plant",
+      "sortid": 117,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "PGZflower",
+      "type": "plant",
+      "sortid": 168,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "PGZflower2",
+      "type": "plant",
+      "sortid": 169,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "PGZflower3",
+      "type": "plant",
+      "sortid": 170,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "XCrate",
+      "type": "block",
+      "sortid": 77,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "GreenTimeStone",
+      "type": "item",
+      "sortid": 183,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "SSZFUTUREFloor",
+      "type": "block",
+      "sortid": 85,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "SSZFUTUREBlock1",
+      "type": "block",
+      "sortid": 87,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "SSZFUTUREBlock2",
+      "type": "block",
+      "sortid": 86,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "SSZFUTUREBlock3",
+      "type": "block",
+      "sortid": 88,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "SSZFUTUREBlock4",
+      "type": "block",
+      "sortid": 89,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "CPZblock4",
+      "type": "block",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "MSZblock",
+      "type": "block",
+      "sortid": 95,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "MSZblock1",
+      "type": "block",
+      "sortid": 98,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "MSZblock2",
+      "type": "block",
+      "sortid": 99,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "FBZblock3",
+      "type": "block",
+      "sortid": 41,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "FBZblock4",
+      "type": "block",
+      "sortid": 42,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "FBZblock5",
+      "type": "block",
+      "sortid": 43,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "FBZblock6",
+      "type": "block",
+      "sortid": 44,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "FBZblock7",
+      "type": "block",
+      "sortid": 45,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "FBZblock8",
+      "type": "block",
+      "sortid": 46,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "PGZleavespink",
+      "type": "block",
+      "sortid": 72,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "PGZleavesred",
+      "type": "block",
+      "sortid": 70,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "CPZblock6",
+      "type": "block",
+      "sortid": 15,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cpzblock5"
+    },
+    {
+      "name": "CPZblock7",
+      "type": "block",
+      "sortid": 16,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cpzblock6"
+    },
+    {
+      "name": "CPZblock8",
+      "type": "block",
+      "sortid": 19,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cpzblock9"
+    },
+    {
+      "name": "CPZblock9",
+      "type": "block",
+      "sortid": 22,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cpzdeco_tube2"
+    },
+    {
+      "name": "CPZblock10",
+      "type": "block",
+      "sortid": 20,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "CPZblock11",
+      "type": "block",
+      "sortid": 17,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cpzblock7"
+    },
+    {
+      "name": "CPZblock12",
+      "type": "block",
+      "sortid": 18,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cpzblock8"
+    },
+    {
+      "name": "CPZblock8RedstoneOff",
+      "type": "procedure",
+      "sortid": 208,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "metadata": {
+        "dependencies": []
+      }
+    },
+    {
+      "name": "Sounds",
+      "type": "gui",
+      "sortid": 209,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {
+        "0": 1
+      }
+    },
+    {
+      "name": "SOZblock7",
+      "type": "block",
+      "sortid": 33,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "SOZblock8",
+      "type": "block",
+      "sortid": 34,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Spikes",
+      "type": "block",
+      "sortid": 153,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "SSZFUTUREFloorside",
+      "type": "block",
+      "sortid": 84,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "SSZPASTFloorside",
+      "type": "block",
+      "sortid": 83,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "SoundsOnButtonClicked_super",
+      "type": "procedure",
+      "sortid": 210,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "int"
+          },
+          {
+            "name": "y",
+            "type": "int"
+          },
+          {
+            "name": "z",
+            "type": "int"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "SpikesEntityWalksOnTheBlock",
+      "type": "procedure",
+      "sortid": 211,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1437,7 +1437,7 @@
     {
       "name": "SoundsOnButtonClicked_GHZ1",
       "type": "procedure",
-      "sortid": 206,
+      "sortid": 212,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1465,7 +1465,7 @@
     {
       "name": "SoundsOnButtonClicked_ghz2",
       "type": "procedure",
-      "sortid": 207,
+      "sortid": 213,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1493,7 +1493,7 @@
     {
       "name": "SoundsOnButtonClicked_ERZ",
       "type": "procedure",
-      "sortid": 208,
+      "sortid": 214,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1521,7 +1521,7 @@
     {
       "name": "SoundsOnButtonClicked_SOZ1",
       "type": "procedure",
-      "sortid": 209,
+      "sortid": 215,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1549,7 +1549,7 @@
     {
       "name": "SoundsOnButtonClicked",
       "type": "procedure",
-      "sortid": 210,
+      "sortid": 216,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1577,7 +1577,7 @@
     {
       "name": "PGZfencedrago",
       "type": "block",
-      "sortid": 73,
+      "sortid": 75,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -1585,7 +1585,7 @@
     {
       "name": "PGZfencepost",
       "type": "block",
-      "sortid": 74,
+      "sortid": 76,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -1593,7 +1593,7 @@
     {
       "name": "CPZblock10BlockDestroyedByPlayer",
       "type": "procedure",
-      "sortid": 211,
+      "sortid": 217,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1621,7 +1621,7 @@
     {
       "name": "CPZblock10OnBlockRightClicked",
       "type": "procedure",
-      "sortid": 212,
+      "sortid": 218,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1677,7 +1677,7 @@
     {
       "name": "PGZdirt",
       "type": "block",
-      "sortid": 64,
+      "sortid": 66,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -1685,7 +1685,7 @@
     {
       "name": "PGZdirtxsnow",
       "type": "block",
-      "sortid": 65,
+      "sortid": 67,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -1693,7 +1693,7 @@
     {
       "name": "CPZblock13",
       "type": "block",
-      "sortid": 20,
+      "sortid": 21,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1742,7 +1742,7 @@
     {
       "name": "SOZspeaker",
       "type": "block",
-      "sortid": 37,
+      "sortid": 38,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -1750,7 +1750,7 @@
     {
       "name": "SoundsOnButtonClicked_sky",
       "type": "procedure",
-      "sortid": 213,
+      "sortid": 219,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1778,7 +1778,7 @@
     {
       "name": "EGGTV",
       "type": "block",
-      "sortid": 38,
+      "sortid": 39,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -1786,7 +1786,7 @@
     {
       "name": "SpringEntityWalksOnTheBlock",
       "type": "procedure",
-      "sortid": 214,
+      "sortid": 220,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1818,7 +1818,7 @@
     {
       "name": "SOZblock9",
       "type": "block",
-      "sortid": 34,
+      "sortid": 35,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -1930,7 +1930,7 @@
     {
       "name": "InWater",
       "type": "procedure",
-      "sortid": 215,
+      "sortid": 221,
       "compiles": true,
       "locked_code": false,
       "ids": {},
@@ -1962,7 +1962,7 @@
     {
       "name": "OOZpoles",
       "type": "block",
-      "sortid": 122,
+      "sortid": 124,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -1970,7 +1970,7 @@
     {
       "name": "OOZpole2",
       "type": "block",
-      "sortid": 123,
+      "sortid": 125,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -1978,7 +1978,7 @@
     {
       "name": "OOZpole3",
       "type": "block",
-      "sortid": 124,
+      "sortid": 126,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -1986,7 +1986,7 @@
     {
       "name": "OOZpole4",
       "type": "block",
-      "sortid": 125,
+      "sortid": 127,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -1994,7 +1994,7 @@
     {
       "name": "FBZoutsideA",
       "type": "block",
-      "sortid": 45,
+      "sortid": 47,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -2002,7 +2002,7 @@
     {
       "name": "FBZoutsideB",
       "type": "block",
-      "sortid": 46,
+      "sortid": 48,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -2010,7 +2010,7 @@
     {
       "name": "FBZoutsideC",
       "type": "block",
-      "sortid": 47,
+      "sortid": 49,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -2018,7 +2018,7 @@
     {
       "name": "FBZoutsideD",
       "type": "block",
-      "sortid": 48,
+      "sortid": 50,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -2026,7 +2026,7 @@
     {
       "name": "ContainerRing",
       "type": "block",
-      "sortid": 152,
+      "sortid": 156,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -2034,7 +2034,7 @@
     {
       "name": "ContainerSpeed",
       "type": "block",
-      "sortid": 153,
+      "sortid": 157,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -2042,289 +2042,13 @@
     {
       "name": "ContainerShield",
       "type": "block",
-      "sortid": 154,
+      "sortid": 158,
       "compiles": true,
       "locked_code": false,
       "ids": {}
     },
     {
       "name": "Gameover",
-      "type": "procedure",
-      "sortid": 216,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "metadata": {
-        "dependencies": [
-          {
-            "name": "entity",
-            "type": "entity"
-          },
-          {
-            "name": "x",
-            "type": "int"
-          },
-          {
-            "name": "y",
-            "type": "int"
-          },
-          {
-            "name": "z",
-            "type": "int"
-          },
-          {
-            "name": "world",
-            "type": "world"
-          }
-        ]
-      }
-    },
-    {
-      "name": "TrophyblockOnBlockRightClicked",
-      "type": "procedure",
-      "sortid": 217,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "metadata": {
-        "dependencies": [
-          {
-            "name": "x",
-            "type": "int"
-          },
-          {
-            "name": "y",
-            "type": "int"
-          },
-          {
-            "name": "z",
-            "type": "int"
-          },
-          {
-            "name": "world",
-            "type": "world"
-          }
-        ]
-      }
-    },
-    {
-      "name": "ContainerSpeedEntityWalksOnTheBlock",
-      "type": "procedure",
-      "sortid": 218,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "metadata": {
-        "dependencies": [
-          {
-            "name": "entity",
-            "type": "entity"
-          },
-          {
-            "name": "x",
-            "type": "int"
-          },
-          {
-            "name": "y",
-            "type": "int"
-          },
-          {
-            "name": "z",
-            "type": "int"
-          },
-          {
-            "name": "world",
-            "type": "world"
-          }
-        ]
-      }
-    },
-    {
-      "name": "PGZleaves3",
-      "type": "block",
-      "sortid": 69,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {}
-    },
-    {
-      "name": "PGZpillar3",
-      "type": "block",
-      "sortid": 52,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {}
-    },
-    {
-      "name": "PGZpillar4",
-      "type": "block",
-      "sortid": 51,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {}
-    },
-    {
-      "name": "XCrate2",
-      "type": "block",
-      "sortid": 53,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {}
-    },
-    {
-      "name": "Crateblue",
-      "type": "block",
-      "sortid": 54,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {}
-    },
-    {
-      "name": "Crategreen",
-      "type": "block",
-      "sortid": 55,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {}
-    },
-    {
-      "name": "Icerings",
-      "type": "block",
-      "sortid": 67,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {}
-    },
-    {
-      "name": "HCZ",
-      "type": "block",
-      "sortid": 89,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {}
-    },
-    {
-      "name": "LRZ",
-      "type": "block",
-      "sortid": 126,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {}
-    },
-    {
-      "name": "LRZ1",
-      "type": "block",
-      "sortid": 127,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {}
-    },
-    {
-      "name": "LRZ2",
-      "type": "block",
-      "sortid": 128,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {}
-    },
-    {
-      "name": "IcecreamFoodEaten",
-      "type": "procedure",
-      "sortid": 219,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "metadata": {
-        "dependencies": [
-          {
-            "name": "entity",
-            "type": "entity"
-          }
-        ]
-      }
-    },
-    {
-      "name": "Icecream",
-      "type": "food",
-      "sortid": 179,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {}
-    },
-    {
-      "name": "CheckpointOnBlockRightClicked",
-      "type": "procedure",
-      "sortid": 220,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "metadata": {
-        "dependencies": [
-          {
-            "name": "entity",
-            "type": "entity"
-          },
-          {
-            "name": "x",
-            "type": "int"
-          },
-          {
-            "name": "y",
-            "type": "int"
-          },
-          {
-            "name": "z",
-            "type": "int"
-          },
-          {
-            "name": "world",
-            "type": "world"
-          }
-        ]
-      }
-    },
-    {
-      "name": "Checkpoint",
-      "type": "block",
-      "sortid": 156,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {}
-    },
-    {
-      "name": "ContainerRingEntityWalksOnTheBlock",
-      "type": "procedure",
-      "sortid": 221,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "metadata": {
-        "dependencies": [
-          {
-            "name": "entity",
-            "type": "entity"
-          },
-          {
-            "name": "x",
-            "type": "int"
-          },
-          {
-            "name": "y",
-            "type": "int"
-          },
-          {
-            "name": "z",
-            "type": "int"
-          },
-          {
-            "name": "world",
-            "type": "world"
-          }
-        ]
-      }
-    },
-    {
-      "name": "ContainerInvincibilityEntityWalksOnTheBlock",
       "type": "procedure",
       "sortid": 222,
       "compiles": true,
@@ -2356,9 +2080,285 @@
       }
     },
     {
+      "name": "TrophyblockOnBlockRightClicked",
+      "type": "procedure",
+      "sortid": 223,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "int"
+          },
+          {
+            "name": "y",
+            "type": "int"
+          },
+          {
+            "name": "z",
+            "type": "int"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "ContainerSpeedEntityWalksOnTheBlock",
+      "type": "procedure",
+      "sortid": 224,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "int"
+          },
+          {
+            "name": "y",
+            "type": "int"
+          },
+          {
+            "name": "z",
+            "type": "int"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "PGZleaves3",
+      "type": "block",
+      "sortid": 71,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "PGZpillar3",
+      "type": "block",
+      "sortid": 54,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "PGZpillar4",
+      "type": "block",
+      "sortid": 53,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "XCrate2",
+      "type": "block",
+      "sortid": 55,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Crateblue",
+      "type": "block",
+      "sortid": 56,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Crategreen",
+      "type": "block",
+      "sortid": 57,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Icerings",
+      "type": "block",
+      "sortid": 69,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "HCZ",
+      "type": "block",
+      "sortid": 91,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "LRZ",
+      "type": "block",
+      "sortid": 128,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "LRZ1",
+      "type": "block",
+      "sortid": 129,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "LRZ2",
+      "type": "block",
+      "sortid": 130,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "IcecreamFoodEaten",
+      "type": "procedure",
+      "sortid": 225,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Icecream",
+      "type": "food",
+      "sortid": 182,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "CheckpointOnBlockRightClicked",
+      "type": "procedure",
+      "sortid": 226,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "int"
+          },
+          {
+            "name": "y",
+            "type": "int"
+          },
+          {
+            "name": "z",
+            "type": "int"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Checkpoint",
+      "type": "block",
+      "sortid": 160,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "ContainerRingEntityWalksOnTheBlock",
+      "type": "procedure",
+      "sortid": 227,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "int"
+          },
+          {
+            "name": "y",
+            "type": "int"
+          },
+          {
+            "name": "z",
+            "type": "int"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "ContainerInvincibilityEntityWalksOnTheBlock",
+      "type": "procedure",
+      "sortid": 228,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "int"
+          },
+          {
+            "name": "y",
+            "type": "int"
+          },
+          {
+            "name": "z",
+            "type": "int"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
       "name": "ContainerInvincibility",
       "type": "block",
-      "sortid": 155,
+      "sortid": 159,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -2366,7 +2366,7 @@
     {
       "name": "SOZblock10",
       "type": "block",
-      "sortid": 22,
+      "sortid": 23,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -2374,7 +2374,7 @@
     {
       "name": "SOZblock11",
       "type": "block",
-      "sortid": 35,
+      "sortid": 36,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -2382,7 +2382,7 @@
     {
       "name": "SOZblock12",
       "type": "block",
-      "sortid": 36,
+      "sortid": 37,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -2390,7 +2390,7 @@
     {
       "name": "Manhole",
       "type": "block",
-      "sortid": 223,
+      "sortid": 40,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -2398,7 +2398,7 @@
     {
       "name": "Icecreamrecipe",
       "type": "recipe",
-      "sortid": 224,
+      "sortid": 229,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -2406,7 +2406,7 @@
     {
       "name": "Cactus",
       "type": "plant",
-      "sortid": 225,
+      "sortid": 118,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -2414,7 +2414,7 @@
     {
       "name": "MSZpinkflower",
       "type": "plant",
-      "sortid": 226,
+      "sortid": 184,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -2422,7 +2422,7 @@
     {
       "name": "FLOWER2",
       "type": "recipe",
-      "sortid": 227,
+      "sortid": 230,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -2430,7 +2430,85 @@
     {
       "name": "Emerald",
       "type": "achievement",
-      "sortid": 228,
+      "sortid": 231,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "GreenHillGrassREP",
+      "type": "recipe",
+      "sortid": 232,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "OilMobplayerCollidesBlock",
+      "type": "procedure",
+      "sortid": 233,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Oil",
+      "type": "fluid",
+      "sortid": 185,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Sheild",
+      "type": "armor",
+      "sortid": 186,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "metadata": {
+        "eh": false,
+        "el": false,
+        "eb": false,
+        "ec": true
+      }
+    },
+    {
+      "name": "Teleporter",
+      "type": "block",
+      "sortid": 152,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "SKZblock10",
+      "type": "block",
+      "sortid": 149,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "SKZblock11",
+      "type": "block",
+      "sortid": 150,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "SKZblock12",
+      "type": "block",
+      "sortid": 151,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -2612,6 +2690,11 @@
       "name": "invincibiliity",
       "file": "invincibility_-_sonic_mania_ost",
       "category": "music"
+    },
+    {
+      "name": "sheild_armor_equip",
+      "file": "blueshield",
+      "category": "player"
     }
   ],
   "language_map": {
@@ -2624,10 +2707,10 @@
       "block.sonic_mania.skzblock2": "SKZ Stairs",
       "block.sonic_mania.skzblock1": "Sky Sanctuary Bricks",
       "tile.mszpillar2.name": "MSZ Wooden Beam",
-      "block.sonic_mania.skzblock6": "SK Zblock6",
       "block.sonic_mania.sszpastfloorside": "SSZ(Past) Wall",
-      "block.sonic_mania.skzblock5": "SKZ Pillar",
+      "block.sonic_mania.skzblock6": "SK Zblock6",
       "block.sonic_mania.ghztikiwings": "Tiki (Wings)",
+      "block.sonic_mania.skzblock5": "SKZ Pillar",
       "block.sonic_mania.sozblock1": "SOZ Block 1",
       "block.sonic_mania.skzblock4": "SKZ Block",
       "tile.oozpole3.name": "OOZ Pole Bottom",
@@ -2635,11 +2718,11 @@
       "block.sonic_mania.sozblock3": "SOZ Lamp",
       "block.sonic_mania.sozblock4": "SOZ Block 4",
       "block.sonic_mania.skzblock9": "SKZ Block",
-      "block.sonic_mania.skzblock8": "SKZ Stairs",
       "block.sonic_mania.sozblock5": "SOZ Block 5",
-      "block.sonic_mania.skzblock7": "SKZ Block",
-      "block.sonic_mania.sozblock6": "SOZ Block",
+      "block.sonic_mania.skzblock8": "SKZ Stairs",
       "tile.tmzblock1.name": "Purpur Block",
+      "block.sonic_mania.sozblock6": "SOZ Block",
+      "block.sonic_mania.skzblock7": "SKZ Block",
       "tile.skzblock3.name": "SKZ Wall",
       "tile.fbzblock6.name": "FBZ Block",
       "tile.pgzbricks.name": "PGZ Bricks",
@@ -2649,6 +2732,7 @@
       "tile.oozblock2.name": "OOZ Block",
       "item.sonic_mania.supersonicmusic": "Super Sonic Ring",
       "block.sonic_mania.mszpillar2body": "MSZ Wooden Beam",
+      "item.sonic_mania.sheildbody": "Sheild",
       "item.sonic_mania.sozact2": "Prime Time",
       "tile.sozblock5.name": "SOZ Block 5",
       "tile.skzblock5.name": "SKZ Pillar",
@@ -2777,6 +2861,7 @@
       "block.sonic_mania.mszpillar2": "MSZ Wooden Beam",
       "tile.mszflower2.name": "MSZ Flower Print Block",
       "block.sonic_mania.msztoro": "PGZ Pillar",
+      "item.sonic_mania.oil_bucket": "Oil Bucket",
       "tile.mmzgold.name": "Gold Vents",
       "block.sonic_mania.cactus": "Cactus",
       "tile.spring.name": "Spring",
@@ -2789,10 +2874,14 @@
       "block.sonic_mania.pgzbricks": "PGZ Bricks",
       "tile.cpzblock2.name": "CPZ Floor",
       "block.sonic_mania.mszdecorstone": "Mirage Saloon Fancy Stone",
+      "block.sonic_mania.skzblock12": "SKZ Path",
       "block.sonic_mania.oozpoles": "OOZ Pole",
+      "block.sonic_mania.skzblock11": "SKZ Block",
       "tile.cpzblock8.name": "Contraption",
+      "block.sonic_mania.skzblock10": "SKZ Support",
       "tile.pgzblock1.name": "PGZ Snowy Block",
       "item.sonic_mania.mszfruit": "Cactus Fruit",
+      "item.sonic_mania.sheildhelmet": "Sheild Helmet",
       "tile.pgzpillar2body.name": "PGZ Pillar",
       "block.sonic_mania.crateblue": "Crate (Blue)",
       "tile.skzblock4.name": "SKZ Block",
@@ -2859,6 +2948,7 @@
       "tile.mszshortgrass.name": "Short Grass",
       "block.sonic_mania.containerinvincibility": "Invincibility Container",
       "item.sozact2.name": "Prime Time",
+      "item.sonic_mania.sheildlegs": "Sheild Leggings",
       "item.mszpinkflower.name": "Cactus Flower",
       "item.sonic_mania.miragesaloon1sonic": "Mirage Saloon Act 1",
       "tile.greenhillflower1.name": "Green Hill Purple Flower",
@@ -2866,6 +2956,7 @@
       "tile.mmzwires.name": "MMZ Wires",
       "tile.pgzblock3.name": "PGZ Leafy Block",
       "tile.mszpillar2body.name": "MSZ Wooden Beam",
+      "item.sonic_mania.sheildboots": "Sheild Boots",
       "tile.cpzblock.name": "CPZ Floor",
       "block.sonic_mania.pgzblock": "PGZ Floor",
       "tile.mszlechuza.name": "MSZ Pillar",
@@ -2956,6 +3047,7 @@
       "block.sonic_mania.sozblock10": "SOZ Stone Road",
       "tile.sszfuturefloorside.name": "SSZ(Future) Wall",
       "tile.sszfuturefloor.name": "SSZ(Future) Floor",
+      "fluid.oil": "Oil",
       "tile.greehillstone.name": "Green Hill Stone",
       "tile.pgzfencepost.name": "Fence Post",
       "item.mszoredrop.name": "Mirage Stone",
@@ -2965,6 +3057,7 @@
       "tile.skzblock9.name": "SKZ Block",
       "block.sonic_mania.trophyblock": "Silver Sonic Trophy",
       "tile.cpzblock5.name": "CPZ Block",
+      "block.sonic_mania.teleporter": "Teleporter",
       "tile.pgzpillar2.name": "PGZ Pillar Base",
       "tile.mszcactuspink.name": "Pink Flowering Cactus",
       "tile.cpzblock11.name": "CPZ Support"

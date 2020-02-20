@@ -137,6 +137,8 @@ public class Elementssonic_mania {
 		event.getRegistry().register(new net.minecraft.util.SoundEvent(sound33).setRegistryName(sound33));
 		ResourceLocation sound34 = new ResourceLocation("sonic_mania", "invincibiliity");
 		event.getRegistry().register(new net.minecraft.util.SoundEvent(sound34).setRegistryName(sound34));
+		ResourceLocation sound35 = new ResourceLocation("sonic_mania", "sheild_armor_equip");
+		event.getRegistry().register(new net.minecraft.util.SoundEvent(sound35).setRegistryName(sound35));
 	}
 
 	@SubscribeEvent

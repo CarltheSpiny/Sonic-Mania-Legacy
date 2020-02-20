@@ -46,7 +46,7 @@ public class MCreatorCPZblock10 extends Elementssonic_mania.ModElement {
 	public static final TileEntityType<CustomTileEntity> tileEntityType = null;
 
 	public MCreatorCPZblock10(Elementssonic_mania instance) {
-		super(instance, 19);
+		super(instance, 20);
 		FMLJavaModLoadingContext.get().getModEventBus().register(this);
 	}
 

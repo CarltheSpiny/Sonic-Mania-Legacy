@@ -34,7 +34,7 @@ public class MCreatorSpikes extends Elementssonic_mania.ModElement {
 	public static final Block block = null;
 
 	public MCreatorSpikes(Elementssonic_mania instance) {
-		super(instance, 149);
+		super(instance, 153);
 	}
 
 	@Override

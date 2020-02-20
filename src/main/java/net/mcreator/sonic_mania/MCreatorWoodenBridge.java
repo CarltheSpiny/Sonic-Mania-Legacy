@@ -23,7 +23,7 @@ public class MCreatorWoodenBridge extends Elementssonic_mania.ModElement {
 	public static final Block block = null;
 
 	public MCreatorWoodenBridge(Elementssonic_mania instance) {
-		super(instance, 157);
+		super(instance, 10);
 	}
 
 	@Override

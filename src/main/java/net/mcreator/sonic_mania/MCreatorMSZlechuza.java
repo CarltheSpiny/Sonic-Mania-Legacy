@@ -21,7 +21,7 @@ public class MCreatorMSZlechuza extends Elementssonic_mania.ModElement {
 	public static final Block block = null;
 
 	public MCreatorMSZlechuza(Elementssonic_mania instance) {
-		super(instance, 105);
+		super(instance, 107);
 	}
 
 	@Override

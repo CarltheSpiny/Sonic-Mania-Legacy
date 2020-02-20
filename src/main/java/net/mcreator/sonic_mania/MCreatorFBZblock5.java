@@ -21,7 +21,7 @@ public class MCreatorFBZblock5 extends Elementssonic_mania.ModElement {
 	public static final Block block = null;
 
 	public MCreatorFBZblock5(Elementssonic_mania instance) {
-		super(instance, 41);
+		super(instance, 43);
 	}
 
 	@Override

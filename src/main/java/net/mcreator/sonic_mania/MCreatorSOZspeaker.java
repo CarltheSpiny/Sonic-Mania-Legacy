@@ -29,7 +29,7 @@ public class MCreatorSOZspeaker extends Elementssonic_mania.ModElement {
 	public static final Block block = null;
 
 	public MCreatorSOZspeaker(Elementssonic_mania instance) {
-		super(instance, 37);
+		super(instance, 38);
 	}
 
 	@Override

@@ -30,7 +30,7 @@ public class MCreatorLantern extends Elementssonic_mania.ModElement {
 	public static final Block block = null;
 
 	public MCreatorLantern(Elementssonic_mania instance) {
-		super(instance, 66);
+		super(instance, 68);
 	}
 
 	@Override

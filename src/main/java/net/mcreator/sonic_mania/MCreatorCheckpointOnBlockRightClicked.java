@@ -12,7 +12,7 @@ import net.minecraft.entity.Entity;
 @Elementssonic_mania.ModElement.Tag
 public class MCreatorCheckpointOnBlockRightClicked extends Elementssonic_mania.ModElement {
 	public MCreatorCheckpointOnBlockRightClicked(Elementssonic_mania instance) {
-		super(instance, 220);
+		super(instance, 226);
 	}
 
 	public static void executeProcedure(java.util.HashMap<String, Object> dependencies) {

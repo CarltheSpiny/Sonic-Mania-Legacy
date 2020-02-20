@@ -15,7 +15,7 @@ import net.minecraft.block.Blocks;
 @Elementssonic_mania.ModElement.Tag
 public class MCreatorContainerRingEntityWalksOnTheBlock extends Elementssonic_mania.ModElement {
 	public MCreatorContainerRingEntityWalksOnTheBlock(Elementssonic_mania instance) {
-		super(instance, 221);
+		super(instance, 227);
 	}
 
 	public static void executeProcedure(java.util.HashMap<String, Object> dependencies) {

@@ -29,7 +29,7 @@ public class MCreatorOOZpole2 extends Elementssonic_mania.ModElement {
 	public static final Block block = null;
 
 	public MCreatorOOZpole2(Elementssonic_mania instance) {
-		super(instance, 123);
+		super(instance, 125);
 	}
 
 	@Override

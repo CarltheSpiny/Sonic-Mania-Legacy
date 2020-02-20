@@ -25,7 +25,7 @@ public class MCreatorMSZshortgrass extends Elementssonic_mania.ModElement {
 	public static final Block block = null;
 
 	public MCreatorMSZshortgrass(Elementssonic_mania instance) {
-		super(instance, 114);
+		super(instance, 116);
 	}
 
 	@Override

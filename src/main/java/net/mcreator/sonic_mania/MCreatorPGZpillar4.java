@@ -20,7 +20,7 @@ public class MCreatorPGZpillar4 extends Elementssonic_mania.ModElement {
 	public static final Block block = null;
 
 	public MCreatorPGZpillar4(Elementssonic_mania instance) {
-		super(instance, 51);
+		super(instance, 53);
 	}
 
 	@Override

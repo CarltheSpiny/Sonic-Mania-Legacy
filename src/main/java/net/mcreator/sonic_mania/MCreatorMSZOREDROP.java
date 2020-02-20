@@ -12,7 +12,7 @@ public class MCreatorMSZOREDROP extends Elementssonic_mania.ModElement {
 	public static final Item block = null;
 
 	public MCreatorMSZOREDROP(Elementssonic_mania instance) {
-		super(instance, 162);
+		super(instance, 166);
 	}
 
 	@Override

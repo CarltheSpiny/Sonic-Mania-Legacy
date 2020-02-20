@@ -12,7 +12,7 @@ public class MCreatorRing extends Elementssonic_mania.ModElement {
 	public static final Item block = null;
 
 	public MCreatorRing(Elementssonic_mania instance) {
-		super(instance, 168);
+		super(instance, 171);
 	}
 
 	@Override

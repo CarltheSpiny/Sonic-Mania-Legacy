@@ -42,7 +42,7 @@ public class MCreatorXCrate extends Elementssonic_mania.ModElement {
 	public static final TileEntityType<CustomTileEntity> tileEntityType = null;
 
 	public MCreatorXCrate(Elementssonic_mania instance) {
-		super(instance, 75);
+		super(instance, 77);
 		FMLJavaModLoadingContext.get().getModEventBus().register(this);
 	}
 

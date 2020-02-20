@@ -1,0 +1,19 @@
+{
+  "group": "sonic_mania",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:dirt"
+    },
+    "1": {
+      "item": "sonic_mania:ring"
+    }
+  },
+  "result": {
+    "item": "sonic_mania:ghzblock2",
+    "count": 1
+  }
+}

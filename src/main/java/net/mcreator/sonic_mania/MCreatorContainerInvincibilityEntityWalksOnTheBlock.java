@@ -16,7 +16,7 @@ import net.minecraft.block.Blocks;
 @Elementssonic_mania.ModElement.Tag
 public class MCreatorContainerInvincibilityEntityWalksOnTheBlock extends Elementssonic_mania.ModElement {
 	public MCreatorContainerInvincibilityEntityWalksOnTheBlock(Elementssonic_mania instance) {
-		super(instance, 222);
+		super(instance, 228);
 	}
 
 	public static void executeProcedure(java.util.HashMap<String, Object> dependencies) {

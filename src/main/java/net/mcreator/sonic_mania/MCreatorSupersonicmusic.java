@@ -22,7 +22,7 @@ public class MCreatorSupersonicmusic extends Elementssonic_mania.ModElement {
 	public static final Item block = null;
 
 	public MCreatorSupersonicmusic(Elementssonic_mania instance) {
-		super(instance, 169);
+		super(instance, 172);
 	}
 
 	@Override

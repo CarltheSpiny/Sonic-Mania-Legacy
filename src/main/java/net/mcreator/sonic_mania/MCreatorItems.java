@@ -9,7 +9,7 @@ import net.minecraft.item.ItemGroup;
 @Elementssonic_mania.ModElement.Tag
 public class MCreatorItems extends Elementssonic_mania.ModElement {
 	public MCreatorItems(Elementssonic_mania instance) {
-		super(instance, 195);
+		super(instance, 201);
 	}
 
 	@Override

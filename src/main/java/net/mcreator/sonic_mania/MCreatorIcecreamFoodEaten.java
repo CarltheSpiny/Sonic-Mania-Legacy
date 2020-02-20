@@ -8,7 +8,7 @@ import net.minecraft.entity.Entity;
 @Elementssonic_mania.ModElement.Tag
 public class MCreatorIcecreamFoodEaten extends Elementssonic_mania.ModElement {
 	public MCreatorIcecreamFoodEaten(Elementssonic_mania instance) {
-		super(instance, 219);
+		super(instance, 225);
 	}
 
 	public static void executeProcedure(java.util.HashMap<String, Object> dependencies) {

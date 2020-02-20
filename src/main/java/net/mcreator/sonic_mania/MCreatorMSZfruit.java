@@ -13,7 +13,7 @@ public class MCreatorMSZfruit extends Elementssonic_mania.ModElement {
 	public static final Item block = null;
 
 	public MCreatorMSZfruit(Elementssonic_mania instance) {
-		super(instance, 163);
+		super(instance, 167);
 	}
 
 	@Override

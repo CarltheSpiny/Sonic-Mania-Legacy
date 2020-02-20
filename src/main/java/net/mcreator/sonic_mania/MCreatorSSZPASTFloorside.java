@@ -21,7 +21,7 @@ public class MCreatorSSZPASTFloorside extends Elementssonic_mania.ModElement {
 	public static final Block block = null;
 
 	public MCreatorSSZPASTFloorside(Elementssonic_mania instance) {
-		super(instance, 81);
+		super(instance, 83);
 	}
 
 	@Override

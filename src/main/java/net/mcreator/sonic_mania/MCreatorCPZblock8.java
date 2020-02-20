@@ -42,7 +42,7 @@ public class MCreatorCPZblock8 extends Elementssonic_mania.ModElement {
 	public static final TileEntityType<CustomTileEntity> tileEntityType = null;
 
 	public MCreatorCPZblock8(Elementssonic_mania instance) {
-		super(instance, 18);
+		super(instance, 19);
 		FMLJavaModLoadingContext.get().getModEventBus().register(this);
 	}
 

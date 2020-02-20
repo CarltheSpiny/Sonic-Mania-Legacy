@@ -7,7 +7,7 @@ import net.minecraft.block.Blocks;
 @Elementssonic_mania.ModElement.Tag
 public class MCreatorCPZblock10BlockDestroyedByPlayer extends Elementssonic_mania.ModElement {
 	public MCreatorCPZblock10BlockDestroyedByPlayer(Elementssonic_mania instance) {
-		super(instance, 211);
+		super(instance, 217);
 	}
 
 	public static void executeProcedure(java.util.HashMap<String, Object> dependencies) {

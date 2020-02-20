@@ -21,7 +21,7 @@ public class MCreatorMSZpillarbody extends Elementssonic_mania.ModElement {
 	public static final Block block = null;
 
 	public MCreatorMSZpillarbody(Elementssonic_mania instance) {
-		super(instance, 102);
+		super(instance, 104);
 	}
 
 	@Override

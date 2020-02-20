@@ -313,5 +313,14 @@
         "stream": true
       }
     ]
+  },
+  "sheild_armor_equip": {
+    "category": "player",
+    "sounds": [
+      {
+        "name": "sonic_mania:blueshield",
+        "stream": false
+      }
+    ]
   }
 }

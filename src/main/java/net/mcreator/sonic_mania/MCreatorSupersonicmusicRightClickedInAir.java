@@ -13,7 +13,7 @@ import net.minecraft.entity.player.PlayerEntity;
 @Elementssonic_mania.ModElement.Tag
 public class MCreatorSupersonicmusicRightClickedInAir extends Elementssonic_mania.ModElement {
 	public MCreatorSupersonicmusicRightClickedInAir(Elementssonic_mania instance) {
-		super(instance, 189);
+		super(instance, 195);
 	}
 
 	public static void executeProcedure(java.util.HashMap<String, Object> dependencies) {

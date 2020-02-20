@@ -23,7 +23,7 @@ public class MCreatorHCZ extends Elementssonic_mania.ModElement {
 	public static final Block block = null;
 
 	public MCreatorHCZ(Elementssonic_mania instance) {
-		super(instance, 89);
+		super(instance, 91);
 	}
 
 	@Override

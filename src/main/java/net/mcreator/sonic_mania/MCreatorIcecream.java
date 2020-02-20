@@ -15,7 +15,7 @@ public class MCreatorIcecream extends Elementssonic_mania.ModElement {
 	public static final Item block = null;
 
 	public MCreatorIcecream(Elementssonic_mania instance) {
-		super(instance, 179);
+		super(instance, 182);
 	}
 
 	@Override

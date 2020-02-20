@@ -1,0 +1,24 @@
+{
+  "_fv": 5,
+  "_type": "fluid",
+  "definition": {
+    "name": "Oil",
+    "textureStill": "oil_still",
+    "textureFlowing": "oil_flow",
+    "luminosity": 0,
+    "density": 1000,
+    "viscosity": 2000,
+    "isGas": false,
+    "type": "WATER",
+    "generateBucket": true,
+    "creativeTab": {
+      "value": "MISC"
+    },
+    "spawnWorldTypes": [
+      "Surface"
+    ],
+    "onEntityCollides": {
+      "name": "OilMobplayerCollidesBlock"
+    }
+  }
+}

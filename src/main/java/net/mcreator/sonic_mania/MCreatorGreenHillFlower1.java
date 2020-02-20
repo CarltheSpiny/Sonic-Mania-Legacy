@@ -25,7 +25,7 @@ public class MCreatorGreenHillFlower1 extends Elementssonic_mania.ModElement {
 	public static final Block block = null;
 
 	public MCreatorGreenHillFlower1(Elementssonic_mania instance) {
-		super(instance, 158);
+		super(instance, 162);
 	}
 
 	@Override
