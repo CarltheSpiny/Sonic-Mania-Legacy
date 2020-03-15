@@ -34,7 +34,7 @@ public class MCreatorContainerRing extends Elementssonic_mania.ModElement {
 	public static final Block block = null;
 
 	public MCreatorContainerRing(Elementssonic_mania instance) {
-		super(instance, 156);
+		super(instance, 166);
 	}
 
 	@Override

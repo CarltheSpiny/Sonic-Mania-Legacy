@@ -1,11 +1,12 @@
 {
-  "parent": "sonic_mania:custom/monitor",
+  "parent": "sonic_mania:custom/new_monitor",
   "textures": {
-    "all": "sonic_mania:blocks/monitor_color",
-    "particle": "sonic_mania:blocks/monitor_color",
-    "1-up": "sonic_mania:blocks/1-up",
-    "based": "sonic_mania:blocks/monitor_button",
-    "Monitor_front": "sonic_mania:blocks/monitor_front",
-    "Monitor_color": "sonic_mania:blocks/monitor_color"
+    "all": "sonic_mania:blocks/new_monitor_back",
+    "particle": "sonic_mania:blocks/new_monitor_back",
+    "0": "sonic_mania:blocks/new_monitor_sides",
+    "1": "sonic_mania:blocks/new_monitor_1_up",
+    "2": "sonic_mania:blocks/new_monitor_back",
+    "3": "sonic_mania:blocks/new_monitor_top",
+    "missing": "sonic_mania:blocks/"
   }
 }

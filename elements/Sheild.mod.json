@@ -32,13 +32,13 @@
     "bootsModelPartL": "Boots L",
     "bootsModelPartR": "Boots R",
     "bootsModelTexture": "From armor",
-    "maxDamage": 25,
+    "maxDamage": 15,
     "damageValueHelmet": 0,
-    "damageValueBody": 10,
+    "damageValueBody": 2,
     "damageValueLeggings": 0,
     "damageValueBoots": 0,
     "enchantability": 0,
-    "toughness": 0.5,
+    "toughness": 0.1,
     "equipSound": {
       "value": "CUSTOM:sheild_armor_equip"
     },

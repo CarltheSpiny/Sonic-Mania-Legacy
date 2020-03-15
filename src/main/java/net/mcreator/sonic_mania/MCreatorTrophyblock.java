@@ -36,7 +36,7 @@ public class MCreatorTrophyblock extends Elementssonic_mania.ModElement {
 	public static final Block block = null;
 
 	public MCreatorTrophyblock(Elementssonic_mania instance) {
-		super(instance, 90);
+		super(instance, 96);
 	}
 
 	@Override

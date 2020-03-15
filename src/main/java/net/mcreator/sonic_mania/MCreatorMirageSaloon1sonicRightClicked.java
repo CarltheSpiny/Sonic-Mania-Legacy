@@ -10,7 +10,7 @@ import net.minecraft.entity.player.PlayerEntity;
 @Elementssonic_mania.ModElement.Tag
 public class MCreatorMirageSaloon1sonicRightClicked extends Elementssonic_mania.ModElement {
 	public MCreatorMirageSaloon1sonicRightClicked(Elementssonic_mania instance) {
-		super(instance, 199);
+		super(instance, 232);
 	}
 
 	public static void executeProcedure(java.util.HashMap<String, Object> dependencies) {
@@ -34,8 +34,7 @@ public class MCreatorMirageSaloon1sonicRightClicked extends Elementssonic_mania.
 		int y = (int) dependencies.get("y");
 		int z = (int) dependencies.get("z");
 		World world = (World) dependencies.get("world");
-		world.playSound((PlayerEntity) null, x, y, z,
-				(net.minecraft.util.SoundEvent) ForgeRegistries.SOUND_EVENTS.getValue(new ResourceLocation("sonic_mania:skyway_octane")),
-				SoundCategory.NEUTRAL, (float) 1, (float) 1);
+		world.playSound((PlayerEntity) null, x, y, z, (net.minecraft.util.SoundEvent) ForgeRegistries.SOUND_EVENTS.getValue(new ResourceLocation(
+				"sonic_mania:mirage_saloon_zone_act_1_sonic")), SoundCategory.NEUTRAL, (float) 1, (float) 1);
 	}
 }

@@ -35,7 +35,7 @@ public class MCreatorPGZLog extends Elementssonic_mania.ModElement {
 	public static final Block block = null;
 
 	public MCreatorPGZLog(Elementssonic_mania instance) {
-		super(instance, 73);
+		super(instance, 79);
 	}
 
 	@Override

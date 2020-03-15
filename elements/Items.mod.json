@@ -4,7 +4,7 @@
   "definition": {
     "name": "Sonic Mania Items",
     "icon": {
-      "value": "CUSTOM:MirageSaloonAct1knux"
+      "value": "CUSTOM:ItemsTabIcon"
     },
     "showSearch": false
   }

@@ -20,7 +20,7 @@ public class MCreatorMMZvents extends Elementssonic_mania.ModElement {
 	public static final Block block = null;
 
 	public MCreatorMMZvents(Elementssonic_mania instance) {
-		super(instance, 134);
+		super(instance, 144);
 	}
 
 	@Override

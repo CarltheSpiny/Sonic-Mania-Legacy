@@ -3,7 +3,7 @@
   "_type": "item",
   "definition": {
     "renderType": 0,
-    "texture": "sonicicon",
+    "texture": "sound_player_soz",
     "customModelName": "Normal",
     "name": "Prime Time",
     "creativeTab": {
@@ -19,7 +19,7 @@
     "enableMeleeDamage": false,
     "damageVsEntity": 0.0,
     "specialInfo": [
-      "Studiopolis Act 2 - Sonic Mania"
+      "Studiopolis Zone Act 2 - Sonic Mania"
     ],
     "hasGlow": true,
     "onRightClickedInAir": {

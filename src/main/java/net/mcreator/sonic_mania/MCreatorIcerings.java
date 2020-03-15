@@ -23,7 +23,7 @@ public class MCreatorIcerings extends Elementssonic_mania.ModElement {
 	public static final Block block = null;
 
 	public MCreatorIcerings(Elementssonic_mania instance) {
-		super(instance, 69);
+		super(instance, 75);
 	}
 
 	@Override

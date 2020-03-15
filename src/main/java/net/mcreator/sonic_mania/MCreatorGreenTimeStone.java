@@ -12,7 +12,7 @@ public class MCreatorGreenTimeStone extends Elementssonic_mania.ModElement {
 	public static final Item block = null;
 
 	public MCreatorGreenTimeStone(Elementssonic_mania instance) {
-		super(instance, 183);
+		super(instance, 210);
 	}
 
 	@Override

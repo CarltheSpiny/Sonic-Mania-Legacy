@@ -7,18 +7,21 @@
     "customModelName": "Normal",
     "name": "Sonic Ice Cream Pop",
     "creativeTab": {
-      "value": "CUSTOM:Items"
+      "value": "FOOD"
     },
     "stackSize": 64,
     "nutritionalValue": 2,
     "saturation": 0.5,
-    "eatingSpeed": 32,
+    "eatingSpeed": 20,
     "forDogs": false,
     "isAlwaysEdible": true,
     "animation": "eat",
     "hasGlow": false,
     "onEaten": {
       "name": "IcecreamFoodEaten"
+    },
+    "onCrafted": {
+      "name": "IcecreamItemIsCraftedsmelted"
     }
   }
 }

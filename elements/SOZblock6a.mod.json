@@ -2,8 +2,8 @@
   "_fv": 5,
   "_type": "block",
   "definition": {
-    "texture": "sozblock_1_up",
-    "textureTop": "sozblock_1_up",
+    "texture": "soz_block_3_update",
+    "textureTop": "sozblock_5act1_top",
     "textureLeft": "sozblock4_ani",
     "textureFront": "sozblock4_ani",
     "textureRight": "sozblock4_ani",
@@ -45,6 +45,10 @@
     "tickRate": 10,
     "isReplaceable": false,
     "isFlammable": false,
+    "colorOnMap": "DEFAULT",
+    "creativePickItem": {
+      "value": ""
+    },
     "isNotColidable": false,
     "soundOnStep": {
       "value": "METAL"

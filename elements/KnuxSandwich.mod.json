@@ -1,0 +1,27 @@
+{
+  "_fv": 5,
+  "_type": "food",
+  "definition": {
+    "renderType": 0,
+    "texture": "knuckles_sandwhich",
+    "customModelName": "Normal",
+    "name": "Knuckles Sandwich",
+    "creativeTab": {
+      "value": "FOOD"
+    },
+    "stackSize": 1,
+    "nutritionalValue": 6,
+    "saturation": 1.5,
+    "eatingSpeed": 50,
+    "forDogs": true,
+    "isAlwaysEdible": false,
+    "animation": "eat",
+    "hasGlow": false,
+    "onEaten": {
+      "name": "KnuxSandwichFoodEaten"
+    },
+    "onCrafted": {
+      "name": "KnuxSandwichItemIsCraftedsmelted"
+    }
+  }
+}

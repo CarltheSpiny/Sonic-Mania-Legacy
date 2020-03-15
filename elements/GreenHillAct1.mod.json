@@ -3,7 +3,7 @@
   "_type": "item",
   "definition": {
     "renderType": 0,
-    "texture": "greenhillflower2",
+    "texture": "sound_player_ghz",
     "customModelName": "Normal",
     "name": "Green Hill Act 1",
     "creativeTab": {

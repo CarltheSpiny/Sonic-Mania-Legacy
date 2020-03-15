@@ -34,7 +34,7 @@ public class MCreatorSpring extends Elementssonic_mania.ModElement {
 	public static final Block block = null;
 
 	public MCreatorSpring(Elementssonic_mania instance) {
-		super(instance, 154);
+		super(instance, 164);
 	}
 
 	@Override

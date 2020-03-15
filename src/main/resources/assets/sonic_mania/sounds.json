@@ -322,5 +322,68 @@
         "stream": false
       }
     ]
+  },
+  "bubbleshield": {
+    "category": "player",
+    "sounds": [
+      {
+        "name": "sonic_mania:bubbleshield",
+        "stream": false
+      }
+    ]
+  },
+  "fire_shield": {
+    "category": "player",
+    "sounds": [
+      {
+        "name": "sonic_mania:fireshield",
+        "stream": false
+      }
+    ]
+  },
+  "lightningshield": {
+    "category": "player",
+    "sounds": [
+      {
+        "name": "sonic_mania:lightningshield",
+        "stream": false
+      }
+    ]
+  },
+  "sandwhich": {
+    "category": "player",
+    "sounds": [
+      {
+        "name": "sonic_mania:knux_sandwhich",
+        "stream": false
+      }
+    ]
+  },
+  "loserings": {
+    "category": "block",
+    "sounds": [
+      {
+        "name": "sonic_mania:loserings",
+        "stream": false
+      }
+    ]
+  },
+  "ledgebreak": {
+    "category": "block",
+    "sounds": [
+      {
+        "name": "sonic_mania:ledgebreak3",
+        "stream": false
+      }
+    ]
+  },
+  "twinkle": {
+    "category": "player",
+    "sounds": [
+      {
+        "name": "sonic_mania:twinkle",
+        "stream": false
+      }
+    ]
   }
 }

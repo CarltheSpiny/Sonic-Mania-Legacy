@@ -2,7 +2,8 @@
   "mappings": {
     "default": {
       "map": {
-        "0": "teleporter"
+        "0": "teleporter",
+        "1": "teleporter2"
       },
       "name": "default"
     }

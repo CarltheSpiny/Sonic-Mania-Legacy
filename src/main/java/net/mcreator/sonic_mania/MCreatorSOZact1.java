@@ -27,7 +27,7 @@ public class MCreatorSOZact1 extends Elementssonic_mania.ModElement {
 	public static final Item block = null;
 
 	public MCreatorSOZact1(Elementssonic_mania instance) {
-		super(instance, 178);
+		super(instance, 188);
 	}
 
 	@Override
@@ -65,7 +65,7 @@ public class MCreatorSOZact1 extends Elementssonic_mania.ModElement {
 		@Override
 		public void addInformation(ItemStack itemstack, World world, List<ITextComponent> list, ITooltipFlag flag) {
 			super.addInformation(itemstack, world, list, flag);
-			list.add(new StringTextComponent("Studiopolis Act 1  Sonic Mania"));
+			list.add(new StringTextComponent("Studiopolis Zone Act 1 - Sonic Mania"));
 		}
 
 		@Override

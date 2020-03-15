@@ -1,0 +1,22 @@
+{
+  "_fv": 5,
+  "_type": "fluid",
+  "definition": {
+    "name": "ChemicalsPink",
+    "textureStill": "chemicals_pink_still",
+    "textureFlowing": "chemicals_pink_flow",
+    "luminosity": 0,
+    "density": 1000,
+    "viscosity": 1500,
+    "isGas": false,
+    "type": "WATER",
+    "generateBucket": true,
+    "creativeTab": {
+      "value": "MISC"
+    },
+    "spawnWorldTypes": [],
+    "onEntityCollides": {
+      "name": "ChemicalsBlueCollision"
+    }
+  }
+}

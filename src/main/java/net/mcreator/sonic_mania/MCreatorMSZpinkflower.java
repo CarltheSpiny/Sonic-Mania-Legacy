@@ -40,7 +40,7 @@ public class MCreatorMSZpinkflower extends Elementssonic_mania.ModElement {
 	public static final Block block = null;
 
 	public MCreatorMSZpinkflower(Elementssonic_mania instance) {
-		super(instance, 184);
+		super(instance, 212);
 	}
 
 	@Override

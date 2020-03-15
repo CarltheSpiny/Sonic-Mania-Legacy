@@ -8,7 +8,7 @@ import net.minecraft.entity.Entity;
 @Elementssonic_mania.ModElement.Tag
 public class MCreatorIcecreamFoodEaten extends Elementssonic_mania.ModElement {
 	public MCreatorIcecreamFoodEaten(Elementssonic_mania instance) {
-		super(instance, 225);
+		super(instance, 258);
 	}
 
 	public static void executeProcedure(java.util.HashMap<String, Object> dependencies) {
@@ -18,6 +18,6 @@ public class MCreatorIcecreamFoodEaten extends Elementssonic_mania.ModElement {
 		}
 		Entity entity = (Entity) dependencies.get("entity");
 		if (entity instanceof LivingEntity)
-			((LivingEntity) entity).addPotionEffect(new EffectInstance(Effects.SPEED, (int) 120, (int) 1));
+			((LivingEntity) entity).addPotionEffect(new EffectInstance(Effects.SPEED, (int) 300, (int) 1));
 	}
 }

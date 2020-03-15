@@ -3,7 +3,7 @@
   "_type": "item",
   "definition": {
     "renderType": 0,
-    "texture": "knuckles_icon",
+    "texture": "sound_player_msz",
     "customModelName": "Normal",
     "name": "Mirage Saloon Act 1",
     "creativeTab": {
@@ -19,7 +19,7 @@
     "enableMeleeDamage": false,
     "damageVsEntity": 0.0,
     "specialInfo": [
-      "Mirage Saloon Act 1 (Wildstyle Pistolero) - Sonic Mania"
+      "Mirage Saloon Zone Act 1 (Wildstyle Pistolero) - Sonic Mania"
     ],
     "hasGlow": true,
     "onRightClickedInAir": {

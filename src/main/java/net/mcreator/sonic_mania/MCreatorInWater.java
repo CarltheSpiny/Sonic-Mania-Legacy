@@ -18,7 +18,7 @@ import net.minecraft.block.Blocks;
 @Elementssonic_mania.ModElement.Tag
 public class MCreatorInWater extends Elementssonic_mania.ModElement {
 	public MCreatorInWater(Elementssonic_mania instance) {
-		super(instance, 221);
+		super(instance, 254);
 	}
 
 	public static void executeProcedure(java.util.HashMap<String, Object> dependencies) {

@@ -2,8 +2,8 @@
   "_fv": 5,
   "_type": "block",
   "definition": {
-    "texture": "mszore",
-    "textureTop": "mszore",
+    "texture": "mszore2",
+    "textureTop": "mszore2",
     "textureLeft": "mszore2",
     "textureFront": "mszore2",
     "textureRight": "mszore2",
@@ -45,6 +45,10 @@
     "tickRate": 10,
     "isReplaceable": false,
     "isFlammable": false,
+    "colorOnMap": "DEFAULT",
+    "creativePickItem": {
+      "value": ""
+    },
     "isNotColidable": false,
     "soundOnStep": {
       "value": "STONE"

@@ -139,6 +139,20 @@ public class Elementssonic_mania {
 		event.getRegistry().register(new net.minecraft.util.SoundEvent(sound34).setRegistryName(sound34));
 		ResourceLocation sound35 = new ResourceLocation("sonic_mania", "sheild_armor_equip");
 		event.getRegistry().register(new net.minecraft.util.SoundEvent(sound35).setRegistryName(sound35));
+		ResourceLocation sound36 = new ResourceLocation("sonic_mania", "bubbleshield");
+		event.getRegistry().register(new net.minecraft.util.SoundEvent(sound36).setRegistryName(sound36));
+		ResourceLocation sound37 = new ResourceLocation("sonic_mania", "fire_shield");
+		event.getRegistry().register(new net.minecraft.util.SoundEvent(sound37).setRegistryName(sound37));
+		ResourceLocation sound38 = new ResourceLocation("sonic_mania", "lightningshield");
+		event.getRegistry().register(new net.minecraft.util.SoundEvent(sound38).setRegistryName(sound38));
+		ResourceLocation sound39 = new ResourceLocation("sonic_mania", "sandwhich");
+		event.getRegistry().register(new net.minecraft.util.SoundEvent(sound39).setRegistryName(sound39));
+		ResourceLocation sound40 = new ResourceLocation("sonic_mania", "loserings");
+		event.getRegistry().register(new net.minecraft.util.SoundEvent(sound40).setRegistryName(sound40));
+		ResourceLocation sound41 = new ResourceLocation("sonic_mania", "ledgebreak");
+		event.getRegistry().register(new net.minecraft.util.SoundEvent(sound41).setRegistryName(sound41));
+		ResourceLocation sound42 = new ResourceLocation("sonic_mania", "twinkle");
+		event.getRegistry().register(new net.minecraft.util.SoundEvent(sound42).setRegistryName(sound42));
 	}
 
 	@SubscribeEvent

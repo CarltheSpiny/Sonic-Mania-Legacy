@@ -24,7 +24,7 @@ public class MCreatorPGZfencepost extends Elementssonic_mania.ModElement {
 	public static final Block block = null;
 
 	public MCreatorPGZfencepost(Elementssonic_mania instance) {
-		super(instance, 76);
+		super(instance, 82);
 	}
 
 	@Override

@@ -6,7 +6,7 @@ import net.minecraft.entity.Entity;
 @Elementssonic_mania.ModElement.Tag
 public class MCreatorMSZcactusMobplayerColidesBlock extends Elementssonic_mania.ModElement {
 	public MCreatorMSZcactusMobplayerColidesBlock(Elementssonic_mania instance) {
-		super(instance, 207);
+		super(instance, 240);
 	}
 
 	public static void executeProcedure(java.util.HashMap<String, Object> dependencies) {

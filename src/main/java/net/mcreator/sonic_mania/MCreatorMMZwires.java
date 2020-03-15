@@ -26,7 +26,7 @@ public class MCreatorMMZwires extends Elementssonic_mania.ModElement {
 	public static final Block block = null;
 
 	public MCreatorMMZwires(Elementssonic_mania instance) {
-		super(instance, 135);
+		super(instance, 145);
 	}
 
 	@Override

@@ -44,6 +44,33 @@
         "Monitor_color": "monitor_color"
       },
       "name": "invincibility"
+    },
+    "flame": {
+      "map": {
+        "1-up": "flame",
+        "based": "monitor_button",
+        "Monitor_front": "monitor_front",
+        "Monitor_color": "monitor_color"
+      },
+      "name": "flame"
+    },
+    "bubble": {
+      "map": {
+        "1-up": "bubble",
+        "based": "monitor_button",
+        "Monitor_front": "monitor_front",
+        "Monitor_color": "monitor_color"
+      },
+      "name": "bubble"
+    },
+    "electric": {
+      "map": {
+        "1-up": "electric",
+        "based": "monitor_button",
+        "Monitor_front": "monitor_front",
+        "Monitor_color": "monitor_color"
+      },
+      "name": "electric"
     }
   }
 }

@@ -31,7 +31,7 @@
     "destroyTool": "Not specified",
     "affectedBySilkTouch": true,
     "customDrop": {
-      "value": ""
+      "value": "CUSTOM:Sheild.body"
     },
     "dropAmount": 1,
     "isBeaconBase": false,
@@ -70,6 +70,9 @@
     "inventoryDropWhenDestroyed": true,
     "inventoryComparatorPower": true,
     "inventoryOutSlotIDs": [],
+    "onEntityWalksOn": {
+      "name": "ContainerShieldEntityWalksOnTheBlock"
+    },
     "spawnWorldTypes": [],
     "restrictionBiomes": [],
     "blocksToReplace": [],

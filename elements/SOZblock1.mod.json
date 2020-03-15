@@ -2,11 +2,11 @@
   "_fv": 5,
   "_type": "block",
   "definition": {
-    "texture": "sozblock_1_bottom",
+    "texture": "sozblock_1_side_2",
     "textureTop": "sozblock_1_up",
-    "textureLeft": "sozblock_1_side_2",
+    "textureLeft": "sozblock_1_side",
     "textureFront": "sozblock_1_side",
-    "textureRight": "sozblock_1_side_2",
+    "textureRight": "sozblock_1_side",
     "textureBack": "sozblock_1_side",
     "renderType": 10,
     "customModelName": "Normal",
@@ -45,6 +45,10 @@
     "tickRate": 10,
     "isReplaceable": false,
     "isFlammable": false,
+    "colorOnMap": "DEFAULT",
+    "creativePickItem": {
+      "value": ""
+    },
     "isNotColidable": false,
     "soundOnStep": {
       "value": "METAL"
@@ -68,11 +72,7 @@
     "inventoryOutSlotIDs": [],
     "spawnWorldTypes": [],
     "restrictionBiomes": [],
-    "blocksToReplace": [
-      {
-        "value": "Blocks.STONE"
-      }
-    ],
+    "blocksToReplace": [],
     "frequencyPerChunks": 10,
     "frequencyOnChunk": 16,
     "minGenerateHeight": 10,

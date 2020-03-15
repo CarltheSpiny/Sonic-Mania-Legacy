@@ -1,0 +1,9 @@
+{
+  "parent": "sonic_mania:custom/oil_ocean",
+  "textures": {
+    "all": "sonic_mania:blocks/oozblock1",
+    "particle": "sonic_mania:blocks/oozblock1",
+    "OOZpoles_top": "sonic_mania:blocks/oozpoles_top",
+    "red_orb": "sonic_mania:blocks/green_diamond"
+  }
+}

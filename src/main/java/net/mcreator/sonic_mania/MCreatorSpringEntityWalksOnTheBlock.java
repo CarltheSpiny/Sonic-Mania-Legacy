@@ -5,16 +5,13 @@ import net.minecraftforge.registries.ForgeRegistries;
 import net.minecraft.world.World;
 import net.minecraft.util.SoundCategory;
 import net.minecraft.util.ResourceLocation;
-import net.minecraft.potion.Effects;
-import net.minecraft.potion.EffectInstance;
 import net.minecraft.entity.player.PlayerEntity;
-import net.minecraft.entity.LivingEntity;
 import net.minecraft.entity.Entity;
 
 @Elementssonic_mania.ModElement.Tag
 public class MCreatorSpringEntityWalksOnTheBlock extends Elementssonic_mania.ModElement {
 	public MCreatorSpringEntityWalksOnTheBlock(Elementssonic_mania instance) {
-		super(instance, 220);
+		super(instance, 253);
 	}
 
 	public static void executeProcedure(java.util.HashMap<String, Object> dependencies) {
@@ -44,11 +41,8 @@ public class MCreatorSpringEntityWalksOnTheBlock extends Elementssonic_mania.Mod
 		int z = (int) dependencies.get("z");
 		World world = (World) dependencies.get("world");
 		world.playSound((PlayerEntity) null, x, y, z,
-				(net.minecraft.util.SoundEvent) ForgeRegistries.SOUND_EVENTS.getValue(new ResourceLocation("sonic_mania:spring_use")),
+				(net.minecraft.util.SoundEvent) ForgeRegistries.SOUND_EVENTS.getValue(new ResourceLocation("sonic_mania:destroy")),
 				SoundCategory.NEUTRAL, (float) 5, (float) 1);
-		if (entity instanceof LivingEntity)
-			((LivingEntity) entity).addPotionEffect(new EffectInstance(Effects.RESISTANCE, (int) 30, (int) 2, (false), (true)));
-		if (entity instanceof LivingEntity)
-			((LivingEntity) entity).setPositionAndUpdate(x, (y + 10), z);
+		entity.getPersistentData().putDouble("dY", 2);
 	}
 }

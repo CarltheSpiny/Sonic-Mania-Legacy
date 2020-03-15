@@ -20,7 +20,7 @@ public class MCreatorSKZblock7 extends Elementssonic_mania.ModElement {
 	public static final Block block = null;
 
 	public MCreatorSKZblock7(Elementssonic_mania instance) {
-		super(instance, 146);
+		super(instance, 156);
 	}
 
 	@Override

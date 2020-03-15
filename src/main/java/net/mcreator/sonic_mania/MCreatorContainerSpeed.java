@@ -33,7 +33,7 @@ public class MCreatorContainerSpeed extends Elementssonic_mania.ModElement {
 	public static final Block block = null;
 
 	public MCreatorContainerSpeed(Elementssonic_mania instance) {
-		super(instance, 157);
+		super(instance, 167);
 	}
 
 	@Override

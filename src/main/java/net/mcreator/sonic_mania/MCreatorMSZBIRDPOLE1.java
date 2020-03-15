@@ -28,7 +28,7 @@ public class MCreatorMSZBIRDPOLE1 extends Elementssonic_mania.ModElement {
 	public static final Block block = null;
 
 	public MCreatorMSZBIRDPOLE1(Elementssonic_mania instance) {
-		super(instance, 112);
+		super(instance, 119);
 	}
 
 	@Override

@@ -33,7 +33,7 @@ public class MCreatorContainerInvincibility extends Elementssonic_mania.ModEleme
 	public static final Block block = null;
 
 	public MCreatorContainerInvincibility(Elementssonic_mania instance) {
-		super(instance, 159);
+		super(instance, 169);
 	}
 
 	@Override

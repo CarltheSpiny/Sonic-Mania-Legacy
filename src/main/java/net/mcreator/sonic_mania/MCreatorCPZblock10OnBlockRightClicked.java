@@ -14,7 +14,7 @@ import net.minecraft.entity.Entity;
 @Elementssonic_mania.ModElement.Tag
 public class MCreatorCPZblock10OnBlockRightClicked extends Elementssonic_mania.ModElement {
 	public MCreatorCPZblock10OnBlockRightClicked(Elementssonic_mania instance) {
-		super(instance, 218);
+		super(instance, 251);
 	}
 
 	public static void executeProcedure(java.util.HashMap<String, Object> dependencies) {

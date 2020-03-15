@@ -9,7 +9,7 @@ import net.minecraft.item.ItemGroup;
 @Elementssonic_mania.ModElement.Tag
 public class MCreatorItems extends Elementssonic_mania.ModElement {
 	public MCreatorItems(Elementssonic_mania instance) {
-		super(instance, 201);
+		super(instance, 234);
 	}
 
 	@Override
@@ -18,7 +18,7 @@ public class MCreatorItems extends Elementssonic_mania.ModElement {
 			@OnlyIn(Dist.CLIENT)
 			@Override
 			public ItemStack createIcon() {
-				return new ItemStack(MCreatorMirageSaloonAct1knux.block, (int) (1));
+				return new ItemStack(MCreatorItemsTabIcon.block, (int) (1));
 			}
 
 			@OnlyIn(Dist.CLIENT)

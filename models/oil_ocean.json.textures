@@ -6,6 +6,13 @@
         "red_orb": "red_orb"
       },
       "name": "default"
+    },
+    "green_diamond": {
+      "map": {
+        "OOZpoles_top": "oozpoles_top",
+        "red_orb": "green_diamond"
+      },
+      "name": "green_diamond"
     }
   }
 }

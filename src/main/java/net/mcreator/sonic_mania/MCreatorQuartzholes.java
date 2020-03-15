@@ -20,7 +20,7 @@ public class MCreatorQuartzholes extends Elementssonic_mania.ModElement {
 	public static final Block block = null;
 
 	public MCreatorQuartzholes(Elementssonic_mania instance) {
-		super(instance, 131);
+		super(instance, 140);
 	}
 
 	@Override

@@ -27,18 +27,18 @@ public class MCreatorSheild extends Elementssonic_mania.ModElement {
 	public static final Item boots = null;
 
 	public MCreatorSheild(Elementssonic_mania instance) {
-		super(instance, 186);
+		super(instance, 216);
 	}
 
 	@Override
 	public void initElements() {
 		IArmorMaterial armormaterial = new IArmorMaterial() {
 			public int getDurability(EquipmentSlotType slot) {
-				return new int[]{13, 15, 16, 11}[slot.getIndex()] * 25;
+				return new int[]{13, 1, 16, 11}[slot.getIndex()] * 1;
 			}
 
 			public int getDamageReductionAmount(EquipmentSlotType slot) {
-				return new int[]{0, 0, 10, 0}[slot.getIndex()];
+				return new int[]{0, 0, 2, 0}[slot.getIndex()];
 			}
 
 			public int getEnchantability() {
@@ -59,7 +59,7 @@ public class MCreatorSheild extends Elementssonic_mania.ModElement {
 			}
 
 			public float getToughness() {
-				return 0.5f;
+				return 0.1f;
 			}
 		};
 		elements.items.add(() -> new ArmorItem(armormaterial, EquipmentSlotType.CHEST, new Item.Properties().group(ItemGroup.COMBAT)) {

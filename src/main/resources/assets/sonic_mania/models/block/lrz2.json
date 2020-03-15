@@ -1,12 +1,12 @@
 {
   "parent": "block/cube",
   "textures": {
-    "down": "sonic_mania:blocks/lrz_pipe3",
-    "up": "sonic_mania:blocks/lrz_pipe3",
-    "north": "sonic_mania:blocks/lrz_pipe3",
-    "east": "sonic_mania:blocks/lrz_pipe3",
-    "south": "sonic_mania:blocks/lrz_pipe3",
-    "west": "sonic_mania:blocks/lrz_pipe3",
-    "particle": "sonic_mania:blocks/lrz_pipe3"
+    "down": "sonic_mania:blocks/lrz_block",
+    "up": "sonic_mania:blocks/lrz_block",
+    "north": "sonic_mania:blocks/lrz_block",
+    "east": "sonic_mania:blocks/lrz_block",
+    "south": "sonic_mania:blocks/lrz_block",
+    "west": "sonic_mania:blocks/lrz_block",
+    "particle": "sonic_mania:blocks/lrz_block"
   }
 }

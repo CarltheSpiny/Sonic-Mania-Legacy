@@ -4,6 +4,7 @@ import net.minecraftforge.registries.ObjectHolder;
 
 import net.minecraft.item.UseAction;
 import net.minecraft.item.ItemStack;
+import net.minecraft.item.ItemGroup;
 import net.minecraft.item.Item;
 import net.minecraft.item.Food;
 
@@ -13,7 +14,7 @@ public class MCreatorMSZfruit extends Elementssonic_mania.ModElement {
 	public static final Item block = null;
 
 	public MCreatorMSZfruit(Elementssonic_mania instance) {
-		super(instance, 167);
+		super(instance, 181);
 	}
 
 	@Override
@@ -23,8 +24,7 @@ public class MCreatorMSZfruit extends Elementssonic_mania.ModElement {
 
 	public static class FoodItemCustom extends Item {
 		public FoodItemCustom() {
-			super(new Item.Properties().group(MCreatorItems.tab).maxStackSize(64)
-					.food((new Food.Builder()).hunger(3).saturation(0.300000011920929f).setAlwaysEdible().build()));
+			super(new Item.Properties().group(ItemGroup.FOOD).maxStackSize(64).food((new Food.Builder()).hunger(3).saturation(1f).build()));
 			setRegistryName("mszfruit");
 		}
 

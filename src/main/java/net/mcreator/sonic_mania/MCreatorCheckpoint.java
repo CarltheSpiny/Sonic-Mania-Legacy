@@ -32,7 +32,7 @@ public class MCreatorCheckpoint extends Elementssonic_mania.ModElement {
 	public static final Block block = null;
 
 	public MCreatorCheckpoint(Elementssonic_mania instance) {
-		super(instance, 160);
+		super(instance, 173);
 	}
 
 	@Override

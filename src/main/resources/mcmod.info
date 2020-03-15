@@ -4,14 +4,15 @@
     "name": "Sonic Mania",
     "description": "For the Mania, by the Mania",
     "version": "1.2.0",
-    "credits": "Created using mod maker MCreator - https://mcreator.net/about",
+    "credits": "CarltheSpiny, JP, and the wonderful team at MCreator",
     "logoFile": "assets/sonic_mania/textures/sonicicon.png",
-    "mcversion": "1.12.2",
+    "mcversion": "1.14.4",
     "url": "https://mcreator.net",
     "updateUrl": "",
     "authorList": [
       "CarltheSpiny",
-      "MCreator"
+	  "JP",
+	  "MCreator"
     ],
     "dependencies": [
       "forge@[14.23.5.2768]"

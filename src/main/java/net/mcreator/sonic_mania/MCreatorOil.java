@@ -46,7 +46,7 @@ public class MCreatorOil extends Elementssonic_mania.ModElement {
 	private ForgeFlowingFluid.Properties fluidproperties = null;
 
 	public MCreatorOil(Elementssonic_mania instance) {
-		super(instance, 185);
+		super(instance, 215);
 		FMLJavaModLoadingContext.get().getModEventBus().register(this);
 	}
 
@@ -60,7 +60,7 @@ public class MCreatorOil extends Elementssonic_mania.ModElement {
 	public void initElements() {
 		fluidproperties = new ForgeFlowingFluid.Properties(() -> still, () -> flowing, FluidAttributes
 				.builder(new ResourceLocation("sonic_mania:blocks/oil_still"), new ResourceLocation("sonic_mania:blocks/oil_flow")).luminosity(0)
-				.density(1000).viscosity(2000)).bucket(() -> bucket).block(() -> block);
+				.density(2000).viscosity(2000)).bucket(() -> bucket).block(() -> block);
 		still = (FlowingFluid) new ForgeFlowingFluid.Source(fluidproperties).setRegistryName("oil");
 		flowing = (FlowingFluid) new ForgeFlowingFluid.Flowing(fluidproperties).setRegistryName("oil_flowing");
 		elements.blocks.add(() -> new FlowingFluidBlock(still, Block.Properties.create(Material.WATER)) {

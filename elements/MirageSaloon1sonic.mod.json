@@ -3,7 +3,7 @@
   "_type": "item",
   "definition": {
     "renderType": 0,
-    "texture": "sonicicon",
+    "texture": "sound_player_msz",
     "customModelName": "Normal",
     "name": "Mirage Saloon Act 1",
     "creativeTab": {

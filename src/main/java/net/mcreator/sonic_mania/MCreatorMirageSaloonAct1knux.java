@@ -27,7 +27,7 @@ public class MCreatorMirageSaloonAct1knux extends Elementssonic_mania.ModElement
 	public static final Item block = null;
 
 	public MCreatorMirageSaloonAct1knux(Elementssonic_mania instance) {
-		super(instance, 176);
+		super(instance, 199);
 	}
 
 	@Override
@@ -65,7 +65,7 @@ public class MCreatorMirageSaloonAct1knux extends Elementssonic_mania.ModElement
 		@Override
 		public void addInformation(ItemStack itemstack, World world, List<ITextComponent> list, ITooltipFlag flag) {
 			super.addInformation(itemstack, world, list, flag);
-			list.add(new StringTextComponent("Mirage Saloon Act 1 (Wildstyle Pistolero) - Sonic Mania"));
+			list.add(new StringTextComponent("Mirage Saloon Zone Act 1 (Wildstyle Pistolero) - Sonic Mania"));
 		}
 
 		@Override

@@ -41,7 +41,7 @@ public class MCreatorMSZcactus extends Elementssonic_mania.ModElement {
 	public static final Block block = null;
 
 	public MCreatorMSZcactus(Elementssonic_mania instance) {
-		super(instance, 161);
+		super(instance, 182);
 	}
 
 	@Override

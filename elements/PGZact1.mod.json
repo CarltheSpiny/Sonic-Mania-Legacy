@@ -3,7 +3,7 @@
   "_type": "item",
   "definition": {
     "renderType": 0,
-    "texture": "tails_icon",
+    "texture": "sound_player_pgz",
     "customModelName": "Normal",
     "name": "Tabloid Jargon",
     "creativeTab": {
@@ -19,7 +19,7 @@
     "enableMeleeDamage": false,
     "damageVsEntity": 0.0,
     "specialInfo": [
-      "Press Garden Act 1 - Sonic Mania"
+      "Press Garden Zone Act 1 - Sonic Mania"
     ],
     "hasGlow": true,
     "onRightClickedInAir": {

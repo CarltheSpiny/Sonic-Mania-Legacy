@@ -27,7 +27,7 @@ public class MCreatorMirageSaloon1sonic extends Elementssonic_mania.ModElement {
 	public static final Item block = null;
 
 	public MCreatorMirageSaloon1sonic(Elementssonic_mania instance) {
-		super(instance, 175);
+		super(instance, 198);
 	}
 
 	@Override

@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "sonic_mania:blocks/quartz_lights1",
+    "up": "sonic_mania:blocks/quartz_lights1",
+    "north": "sonic_mania:blocks/quartz_lights1",
+    "east": "sonic_mania:blocks/quartz_lights1",
+    "south": "sonic_mania:blocks/quartz_lights1",
+    "west": "sonic_mania:blocks/quartz_lights1",
+    "particle": "sonic_mania:blocks/quartz_lights1"
+  }
+}

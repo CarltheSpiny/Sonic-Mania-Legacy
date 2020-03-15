@@ -12,7 +12,7 @@ public class MCreatorSonicIcon extends Elementssonic_mania.ModElement {
 	public static final Item block = null;
 
 	public MCreatorSonicIcon(Elementssonic_mania instance) {
-		super(instance, 174);
+		super(instance, 211);
 	}
 
 	@Override

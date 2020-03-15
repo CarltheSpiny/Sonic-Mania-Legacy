@@ -10,7 +10,7 @@ import net.minecraft.entity.player.PlayerEntity;
 @Elementssonic_mania.ModElement.Tag
 public class MCreatorPGZact1RightClicked extends Elementssonic_mania.ModElement {
 	public MCreatorPGZact1RightClicked(Elementssonic_mania instance) {
-		super(instance, 202);
+		super(instance, 235);
 	}
 
 	public static void executeProcedure(java.util.HashMap<String, Object> dependencies) {
@@ -35,7 +35,7 @@ public class MCreatorPGZact1RightClicked extends Elementssonic_mania.ModElement 
 		int z = (int) dependencies.get("z");
 		World world = (World) dependencies.get("world");
 		world.playSound((PlayerEntity) null, x, y, z,
-				(net.minecraft.util.SoundEvent) ForgeRegistries.SOUND_EVENTS.getValue(new ResourceLocation("sonic_mania:press_garden_1")),
+				(net.minecraft.util.SoundEvent) ForgeRegistries.SOUND_EVENTS.getValue(new ResourceLocation("sonic_mania:press_garden_zone_act_1")),
 				SoundCategory.NEUTRAL, (float) 1, (float) 1);
 	}
 }

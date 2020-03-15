@@ -6,7 +6,7 @@
     "textureStill": "oil_still",
     "textureFlowing": "oil_flow",
     "luminosity": 0,
-    "density": 1000,
+    "density": 2000,
     "viscosity": 2000,
     "isGas": false,
     "type": "WATER",

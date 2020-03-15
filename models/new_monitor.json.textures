@@ -1,0 +1,14 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "new_monitor_sides",
+        "1": "new_monitor_1_up",
+        "2": "new_monitor_back",
+        "3": "new_monitor_top",
+        "missing": ""
+      },
+      "name": "default"
+    }
+  }
+}

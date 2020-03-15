@@ -28,7 +28,7 @@ public class MCreatorPGZleavespink extends Elementssonic_mania.ModElement {
 	public static final Block block = null;
 
 	public MCreatorPGZleavespink(Elementssonic_mania instance) {
-		super(instance, 72);
+		super(instance, 78);
 	}
 
 	@Override

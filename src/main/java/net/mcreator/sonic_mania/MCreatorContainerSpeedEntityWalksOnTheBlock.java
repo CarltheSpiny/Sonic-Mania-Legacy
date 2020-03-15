@@ -16,7 +16,7 @@ import net.minecraft.block.Blocks;
 @Elementssonic_mania.ModElement.Tag
 public class MCreatorContainerSpeedEntityWalksOnTheBlock extends Elementssonic_mania.ModElement {
 	public MCreatorContainerSpeedEntityWalksOnTheBlock(Elementssonic_mania instance) {
-		super(instance, 224);
+		super(instance, 257);
 	}
 
 	public static void executeProcedure(java.util.HashMap<String, Object> dependencies) {
@@ -53,6 +53,6 @@ public class MCreatorContainerSpeedEntityWalksOnTheBlock extends Elementssonic_m
 				(net.minecraft.util.SoundEvent) ForgeRegistries.SOUND_EVENTS.getValue(new ResourceLocation("sonic_mania:speed_shoes")),
 				SoundCategory.NEUTRAL, (float) 2, (float) 1);
 		if (entity instanceof LivingEntity)
-			((LivingEntity) entity).addPotionEffect(new EffectInstance(Effects.SPEED, (int) 950, (int) 1));
+			((LivingEntity) entity).addPotionEffect(new EffectInstance(Effects.SPEED, (int) 850, (int) 1));
 	}
 }

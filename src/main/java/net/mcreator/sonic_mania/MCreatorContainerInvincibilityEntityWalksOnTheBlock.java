@@ -16,7 +16,7 @@ import net.minecraft.block.Blocks;
 @Elementssonic_mania.ModElement.Tag
 public class MCreatorContainerInvincibilityEntityWalksOnTheBlock extends Elementssonic_mania.ModElement {
 	public MCreatorContainerInvincibilityEntityWalksOnTheBlock(Elementssonic_mania instance) {
-		super(instance, 228);
+		super(instance, 261);
 	}
 
 	public static void executeProcedure(java.util.HashMap<String, Object> dependencies) {
@@ -47,9 +47,14 @@ public class MCreatorContainerInvincibilityEntityWalksOnTheBlock extends Element
 		World world = (World) dependencies.get("world");
 		world.setBlockState(new BlockPos((int) x, (int) y, (int) z), Blocks.AIR.getDefaultState(), 3);
 		world.playSound((PlayerEntity) null, x, y, z,
+				(net.minecraft.util.SoundEvent) ForgeRegistries.SOUND_EVENTS.getValue(new ResourceLocation("sonic_mania:destroy")),
+				SoundCategory.NEUTRAL, (float) 2, (float) 1);
+		world.playSound((PlayerEntity) null, x, y, z,
 				(net.minecraft.util.SoundEvent) ForgeRegistries.SOUND_EVENTS.getValue(new ResourceLocation("sonic_mania:invincibiliity")),
 				SoundCategory.NEUTRAL, (float) 2, (float) 1);
 		if (entity instanceof LivingEntity)
-			((LivingEntity) entity).addPotionEffect(new EffectInstance(Effects.RESISTANCE, (int) 900, (int) 5));
+			((LivingEntity) entity).addPotionEffect(new EffectInstance(Effects.ABSORPTION, (int) 850, (int) 5));
+		if (entity instanceof LivingEntity)
+			((LivingEntity) entity).addPotionEffect(new EffectInstance(Effects.HEALTH_BOOST, (int) 850, (int) 5));
 	}
 }

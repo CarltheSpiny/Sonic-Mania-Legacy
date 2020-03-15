@@ -2,8 +2,8 @@
   "_fv": 5,
   "_type": "block",
   "definition": {
-    "texture": "lrz",
-    "textureTop": "lrz",
+    "texture": "lrz_pipe3",
+    "textureTop": "lrz_pipe3",
     "textureLeft": "lrz_pipe1",
     "textureFront": "lrz_pipe1",
     "textureRight": "lrz_pipe1",

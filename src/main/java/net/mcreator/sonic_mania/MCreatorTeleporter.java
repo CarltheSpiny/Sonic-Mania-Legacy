@@ -29,7 +29,7 @@ public class MCreatorTeleporter extends Elementssonic_mania.ModElement {
 	public static final Block block = null;
 
 	public MCreatorTeleporter(Elementssonic_mania instance) {
-		super(instance, 152);
+		super(instance, 162);
 	}
 
 	@Override

@@ -10,7 +10,7 @@ import net.minecraft.entity.player.PlayerEntity;
 @Elementssonic_mania.ModElement.Tag
 public class MCreatorSoundsOnButtonClicked extends Elementssonic_mania.ModElement {
 	public MCreatorSoundsOnButtonClicked(Elementssonic_mania instance) {
-		super(instance, 216);
+		super(instance, 249);
 	}
 
 	public static void executeProcedure(java.util.HashMap<String, Object> dependencies) {

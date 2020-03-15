@@ -34,7 +34,7 @@ public class MCreatorSounds extends Elementssonic_mania.ModElement {
 	private static ContainerType<GuiContainerMod> containerType = null;
 
 	public MCreatorSounds(Elementssonic_mania instance) {
-		super(instance, 209);
+		super(instance, 242);
 		elements.addNetworkMessage(ButtonPressedMessage.class, ButtonPressedMessage::buffer, ButtonPressedMessage::new, ButtonPressedMessage::handler);
 		elements.addNetworkMessage(GUISlotChangedMessage.class, GUISlotChangedMessage::buffer, GUISlotChangedMessage::new,
 				GUISlotChangedMessage::handler);

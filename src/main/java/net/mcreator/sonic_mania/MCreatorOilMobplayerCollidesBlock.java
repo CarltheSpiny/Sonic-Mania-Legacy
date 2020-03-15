@@ -8,7 +8,7 @@ import net.minecraft.entity.Entity;
 @Elementssonic_mania.ModElement.Tag
 public class MCreatorOilMobplayerCollidesBlock extends Elementssonic_mania.ModElement {
 	public MCreatorOilMobplayerCollidesBlock(Elementssonic_mania instance) {
-		super(instance, 233);
+		super(instance, 266);
 	}
 
 	public static void executeProcedure(java.util.HashMap<String, Object> dependencies) {

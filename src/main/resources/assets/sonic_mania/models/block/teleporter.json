@@ -1,8 +1,9 @@
 {
   "parent": "sonic_mania:custom/teleporter",
   "textures": {
-    "all": "sonic_mania:blocks/iceno_sonic",
-    "particle": "sonic_mania:blocks/iceno_sonic",
-    "0": "sonic_mania:blocks/teleporter"
+    "all": "sonic_mania:blocks/skzblock_7",
+    "particle": "sonic_mania:blocks/skzblock_7",
+    "0": "sonic_mania:blocks/teleporter",
+    "1": "sonic_mania:blocks/teleporter2"
   }
 }

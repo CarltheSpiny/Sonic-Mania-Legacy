@@ -31,7 +31,7 @@ public class MCreatorEGGTV extends Elementssonic_mania.ModElement {
 	public static final Block block = null;
 
 	public MCreatorEGGTV(Elementssonic_mania instance) {
-		super(instance, 39);
+		super(instance, 46);
 	}
 
 	@Override

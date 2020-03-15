@@ -27,7 +27,7 @@ public class MCreatorPGZact2 extends Elementssonic_mania.ModElement {
 	public static final Item block = null;
 
 	public MCreatorPGZact2(Elementssonic_mania instance) {
-		super(instance, 181);
+		super(instance, 193);
 	}
 
 	@Override
@@ -65,7 +65,7 @@ public class MCreatorPGZact2 extends Elementssonic_mania.ModElement {
 		@Override
 		public void addInformation(ItemStack itemstack, World world, List<ITextComponent> list, ITooltipFlag flag) {
 			super.addInformation(itemstack, world, list, flag);
-			list.add(new StringTextComponent("Press Garden Act 2 - Sonic Mania"));
+			list.add(new StringTextComponent("Press Garden Zone Act 2 - Sonic Mania"));
 		}
 
 		@Override

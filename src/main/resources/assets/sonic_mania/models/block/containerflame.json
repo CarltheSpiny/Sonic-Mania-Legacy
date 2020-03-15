@@ -1,0 +1,11 @@
+{
+  "parent": "sonic_mania:custom/monitor",
+  "textures": {
+    "all": "sonic_mania:blocks/monitor_color",
+    "particle": "sonic_mania:blocks/monitor_color",
+    "1-up": "sonic_mania:blocks/flame",
+    "based": "sonic_mania:blocks/monitor_button",
+    "Monitor_front": "sonic_mania:blocks/monitor_front",
+    "Monitor_color": "sonic_mania:blocks/monitor_color"
+  }
+}
